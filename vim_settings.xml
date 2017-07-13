@@ -1,28 +1,585 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks />
+    <globalmarks>
+      <mark key="G" line="57512" column="5" filename="$USER_HOME$/Go_projects/6.824/src/main/mrtmp.iiseq" />
+    </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/kvstore_txn.go" timestamp="1494685728886">
+        <mark key="'" line="62" column="18" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/parser/parser.y" timestamp="1494492687230">
+        <mark key="'" line="3203" column="43" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/java/blackboard/servlet/tags/assessment/PagedQuestionTag.java" timestamp="1496731558801">
+        <mark key="'" line="215" column="4" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/cmd/vendor/github.com/google/btree/btree.go" timestamp="1494598844947">
+        <mark key="'" line="735" column="14" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb/grpc_lb_v1/grpclb.proto" timestamp="1499851593606">
+        <mark key="'" line="63" column="8" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/server/driver.go" timestamp="1494489121007">
+        <mark key="'" line="58" column="4" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/dao/impl/AssessmentDaoImpl.java" timestamp="1499915599941">
+        <mark key="'" line="736" column="55" />
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="0" />
+        <mark key="^" line="261" column="7" />
+        <mark key="." line="262" column="0" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1499672720207">
+        <mark key="'" line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/kv.go" timestamp="1494914914461">
+        <mark key="'" line="125" column="16" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/gradebook2/GradeWithAttemptScore.java" timestamp="1496214795153">
+        <mark key="'" line="143" column="23" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/dao/gradebook/MobileStudentGradeBookRow.java" timestamp="1496198895091">
+        <mark key="'" line="124" column="6" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/stats/stats_test.go" timestamp="1499932040275">
+        <mark key="'" line="680" column="11" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/wal/wal.go" timestamp="1495002900558">
+        <mark key="'" line="554" column="8" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/examples/route_guide/routeguide/route_guide.pb.go" timestamp="1499839658299">
+        <mark key="'" line="391" column="40" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/transport/handler_server.go" timestamp="1499932558075">
+        <mark key="'" line="271" column="16" />
+        <mark key="[" line="263" column="54" />
+        <mark key="]" line="263" column="55" />
+        <mark key="." line="263" column="55" />
+        <mark key="^" line="263" column="55" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/rpc_util.go" timestamp="1499928708227">
+        <mark key="'" line="406" column="26" />
+      </file>
+      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/blackboard.platform/bb-platform/9.1.201410-SNAPSHOT/250662b8eef72f64e2a19bbe6f173e281abf253c/bb-platform-9.1.201410-SNAPSHOT-sources.jar!/blackboard/persist/announcement/impl/AnnouncementDbMap.java" timestamp="1498792119929">
+        <mark key="'" line="49" column="110" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/assignment/src/main/java/blackboard/plugin/assignment/spring/controller/AssignmentFileController.java" timestamp="1499755255585">
+        <mark key="'" line="305" column="10" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseDetailContainer.java" timestamp="1498553183275">
+        <mark key="'" line="64" column="9" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/parser/misc.go" timestamp="1494400311213">
+        <mark key="'" line="93" column="18" />
+      </file>
       <file name="$USER_HOME$/GoglandProjects/go_play/goroutinetest.go" timestamp="1499939130292">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/kvstore_compaction.go" timestamp="1494840830278">
+        <mark key="'" line="21" column="57" />
+      </file>
+      <file name="$USER_HOME$/mlbb/build.xml" timestamp="1499763782311">
+        <mark key="'" line="14" column="97" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/webapp/WEB-INF/config/struts/struts-config.xml" timestamp="1494832994206">
+        <mark key="'" line="2500" column="63" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1499672673864">
+        <mark key="'" line="1477" column="0" />
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="73" />
+        <mark key="." line="11" column="73" />
+        <mark key="^" line="11" column="73" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/parser/parser.go" timestamp="1494492126391">
+        <mark key="'" line="4062" column="1681" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/golang.org/x/net/http2/frame.go" timestamp="1499841668592">
+        <mark key="'" line="262" column="0" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/spring/rest/CourseMessageRestService.java" timestamp="1494904962076">
+        <mark key="'" line="90" column="149" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/etcdserver/etcdserverpb/rpc.pb.go" timestamp="1494639780694">
+        <mark key="'" line="407" column="16" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java.rej" timestamp="1498634460461">
+        <mark key="'" line="24" column="47" />
+      </file>
+      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/blackboard.platform/bb-platform/9.1.201410-SNAPSHOT/e05e882d78314ccfd7df13b6c979c982635351bc/bb-platform-9.1.201410-SNAPSHOT-sources.jar!/blackboard/persist/content/impl/ContentDbLoaderImpl.java" timestamp="1499915632753">
+        <mark key="'" line="117" column="45" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/learn-analytics/src/main/webapp/WEB-INF/schema/bb_stats_schema/stored_procedures.db-oracle/bb_aa_staging.sql" timestamp="1498444926826">
+        <mark key="'" line="122" column="42" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/expression/builtin.go" timestamp="1494419814035">
+        <mark key="'" line="418" column="14" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/session_test.go" timestamp="1494494336251">
+        <mark key="'" line="2127" column="4" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/etcdserver/apply.go" timestamp="1494685109741">
+        <mark key="'" line="341" column="44" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/BaseContentAuthController.java" timestamp="1498805378127">
+        <mark key="'" line="63" column="47" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/assignment/src/main/java/blackboard/plugin/assignment/spring/controller/GradeAssignmentController.java" timestamp="1499755912091">
+        <mark key="'" line="108" column="16" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/RichContentImpl.java" timestamp="1499322117005">
+        <mark key="'" line="600" column="24" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/impl/AssignmentManagerImpl.java" timestamp="1499758472334">
+        <mark key="'" line="1185" column="53" />
+        <mark key="[" line="1163" column="29" />
+        <mark key="]" line="1163" column="67" />
+        <mark key="^" line="1163" column="67" />
+        <mark key="." line="1163" column="67" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/DashboardManagerImpl.java" timestamp="1499414977604">
+        <mark key="'" line="21" column="14" />
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="81" />
+        <mark key="." line="21" column="81" />
+        <mark key="^" line="21" column="81" />
+      </file>
+      <file name="/usr/local/Cellar/go/1.8.1/libexec/src/net/http/client.go" timestamp="1494918008063">
+        <mark key="'" line="116" column="10" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/java/blackboard/webapps/assessment/ContentWrapper.java" timestamp="1499921920095">
+        <mark key="'" line="57" column="34" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/tidb-server/main.go" timestamp="1494488650073">
+        <mark key="'" line="162" column="8" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/NotificationSettingsManagerImpl.java" timestamp="1494484243891">
+        <mark key="'" line="278" column="39" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/server/conn.go" timestamp="1494488898028">
+        <mark key="'" line="342" column="8" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/etcdserver/raft.go" timestamp="1494918693572">
+        <mark key="'" line="402" column="19" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/bean/clicker/AssessmentContainer.java" timestamp="1495531615064">
+        <mark key="'" line="37" column="29" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/util/AssessmentUtil.java" timestamp="1499563804670">
+        <mark key="'" line="52" column="72" />
+        <mark key="[" line="53" column="70" />
+        <mark key="]" line="53" column="70" />
+        <mark key="^" line="53" column="67" />
+        <mark key="." line="53" column="70" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/base/base-system/database/vi/gradebook/views.db-pgsql/gb2_score_attempt_1_vw.sql" timestamp="1495790274829">
+        <mark key="'" line="19" column="2" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/StudentBean.java" timestamp="1498553160532">
+        <mark key="'" line="36" column="18" />
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="36" column="23" />
+        <mark key="^" line="36" column="23" />
+        <mark key="." line="36" column="23" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/web/PushController.java" timestamp="1494483221175">
+        <mark key="'" line="129" column="6" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/impl/DashboardManagerImpl.java" timestamp="1499672855760">
+        <mark key="'" line="87" column="11" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/web/post/MarkAsReadController.java" timestamp="1495002179034">
+        <mark key="'" line="14" column="39" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/discussionboard/src/main/java/blackboard/webapps/discussionboard/SecurityUtil.java" timestamp="1499828815451">
+        <mark key="'" line="992" column="19" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/examples/route_guide/routeguide/route_guide.proto" timestamp="1499839597491">
+        <mark key="'" line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/rafthttp/stream.go" timestamp="1495008635309">
+        <mark key="'" line="159" column="32" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/java/blackboard/webapps/content/struts/actions/SaveOptionsAction.java" timestamp="1499922044981">
+        <mark key="'" line="225" column="6" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/session.go" timestamp="1494490089602">
+        <mark key="'" line="553" column="4" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/bean/clicker/QuestionBean.java" timestamp="1495591900425">
+        <mark key="'" line="42" column="17" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/com/blackboard/registration/RegistrationInfo.java" timestamp="1499322147916">
+        <mark key="'" line="148" column="11" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/raft/example_test.go" timestamp="1494994482075">
+        <mark key="'" line="23" column="5" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/util/fromlearn/ContentWrapper.java" timestamp="1497249500866">
+        <mark key="'" line="775" column="23" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/tidb.go" timestamp="1494398467071">
+        <mark key="'" line="87" column="38" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/grading/src/main/java/blackboard/webapps/gradebook/rest/beans/GradeTORest.java" timestamp="1496198272428">
+        <mark key="'" line="1817" column="21" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/authentication/LoginAction.java" timestamp="1499072931946">
+        <mark key="'" line="220" column="11" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/raft/raftpb/raft.proto" timestamp="1495004850861">
+        <mark key="'" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/transport/http2_server.go" timestamp="1499932983969">
+        <mark key="'" line="227" column="68" />
+      </file>
+      <file name="$USER_HOME$/projects-mbass/src/main/java/com/blackboard/mbaas/service/enterprise/stream/StreamServiceImpl.java" timestamp="1494986186729">
+        <mark key="'" line="87" column="70" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/backoff.go" timestamp="1499939591446" />
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/discussionboard/src/main/java/blackboard/webapps/discussionboard/ext/DiscussionBoardStreamDataProvider.java" timestamp="1499828823646">
+        <mark key="'" line="538" column="34" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/call.go" timestamp="1499932021150">
+        <mark key="'" line="199" column="37" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/6.824/src/raft/config.go" timestamp="1494299532259">
+        <mark key="'" line="133" column="8" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/beyond/bbAS/dao/impl/MobileUserDataDaoImpl.java" timestamp="1496906430659">
+        <mark key="'" line="2674" column="24" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/dao/impl/MobileUserDataDaoImpl.java" timestamp="1499414907906">
+        <mark key="'" line="1930" column="28" />
+        <mark key="[" line="3172" column="76" />
+        <mark key="]" line="3172" column="76" />
+        <mark key="^" line="3172" column="73" />
+        <mark key="." line="3172" column="76" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/dao/impl/AssessmentDaoImpl.java" timestamp="1498633794065">
+        <mark key="'" line="142" column="11" />
+        <mark key="[" line="1565" column="74" />
+        <mark key="]" line="1566" column="47" />
+        <mark key="^" line="1566" column="47" />
+        <mark key="." line="1566" column="47" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/ast/functions.go" timestamp="1494419833435">
+        <mark key="'" line="138" column="24" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/java/blackboard/webapps/content/struts/forms/AssessmentForm.java" timestamp="1499918221955">
+        <mark key="'" line="81" column="57" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/discussionboard/src/main/java/blackboard/webapps/discussionboard/ViewableMessagesUtil.java" timestamp="1497409987804">
+        <mark key="'" line="130" column="83" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/kvstore.go" timestamp="1494914953508">
+        <mark key="'" line="95" column="5" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/db/ConnectionManager.java" timestamp="1497508492947">
+        <mark key="'" line="1137" column="19" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/ContentDetailContainer.java" timestamp="1498791430847">
+        <mark key="'" line="260" column="76" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" timestamp="1499672562704">
+        <mark key="'" line="4500" column="0" />
+        <mark key="[" line="1877" column="0" />
+        <mark key="]" line="1886" column="2" />
+        <mark key="." line="4507" column="77" />
+        <mark key="^" line="4507" column="77" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1499939350039">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/6.824/src/main/mrtmp.iiseq" timestamp="1499927408111" />
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/RichContentImpl.java" timestamp="1497605801552">
+        <mark key="'" line="422" column="39" />
+        <mark key="[" line="1229" column="45" />
+        <mark key="]" line="1229" column="48" />
+        <mark key="^" line="1229" column="48" />
+        <mark key="." line="1229" column="48" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/kataras/go-sessions/session.go" timestamp="1494493934277">
+        <mark key="'" line="315" column="0" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/assignment/src/main/java/blackboard/plugin/docviewer/crocodoc/CrocodocConversionThread.java" timestamp="1499760678870">
+        <mark key="'" line="137" column="14" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/DashboardProxy.java" timestamp="1494837620122">
+        <mark key="'" line="70" column="8" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/telemetry/build.gradle" timestamp="1495160563360">
+        <mark key="'" line="105" column="32" />
+      </file>
+      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/b49dafc9cfef24c356827f322e773e7c26725dd2/commons-lang3-3.4-sources.jar!/org/apache/commons/lang3/StringUtils.java" timestamp="1498636374772">
+        <mark key="'" line="379" column="4" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/cmd/vendor/github.com/google/btree/btree_mem.go" timestamp="1494589520067">
+        <mark key="'" line="71" column="22" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/webapp/authentication/manager/log_manager.jsp" timestamp="1494833151912">
+        <mark key="'" line="304" column="13" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/raft/doc.go" timestamp="1495002361360">
+        <mark key="'" line="237" column="64" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/base/base-system/database/stats/schema.xml" timestamp="1498444713342">
+        <mark key="'" line="1148" column="18" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/java/blackboard/webapps/content/struts/actions/AssessmentAction.java" timestamp="1499916824802">
+        <mark key="'" line="198" column="10" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/embed/config.go" timestamp="1494916025625">
+        <mark key="'" line="122" column="11" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/backend/batch_tx.go" timestamp="1494685736777">
+        <mark key="'" line="198" column="8" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1499916469414">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/raft/node.go" timestamp="1494997866321">
+        <mark key="'" line="293" column="32" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/clicker/AssessmentProxy.java" timestamp="1499915369130">
+        <mark key="'" line="85" column="99" />
+        <mark key="[" line="63" column="144" />
+        <mark key="]" line="63" column="154" />
+        <mark key="^" line="63" column="154" />
+        <mark key="." line="63" column="154" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/WEB-INF/bundles/bb-manifest-de_DE.properties" timestamp="1498636901732">
+        <mark key="'" line="22" column="23" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/context/impl/ContextImpl.java" timestamp="1499133941472">
+        <mark key="'" line="216" column="28" />
+      </file>
+      <file name="/usr/local/Cellar/go/1.8.1/libexec/src/io/io.go" timestamp="1499839826523">
+        <mark key="'" line="37" column="4" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/assignment/src/main/java/blackboard/plugin/assignment/spring/controller/UploadAssignmentController.java" timestamp="1499754982683">
+        <mark key="'" line="645" column="24" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/authentication/LogManagerAction.java" timestamp="1494833021181">
+        <mark key="'" line="143" column="33" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/AssignmentManagerImpl.java" timestamp="1498197885996">
+        <mark key="'" line="258" column="51" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/embed/etcd.go" timestamp="1494916645304">
+        <mark key="'" line="102" column="47" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/webapp/take/launchAssessment.jsp" timestamp="1499397054148">
+        <mark key="'" line="111" column="48" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/server.go" timestamp="1499933099191">
+        <mark key="'" line="750" column="8" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/util/fromlearn/ListForumViewHelper.java" timestamp="1498208025279">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="72" column="75" />
+        <mark key="]" line="72" column="76" />
+        <mark key="." line="72" column="76" />
+        <mark key="^" line="72" column="76" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/assignment/src/main/java/blackboard/plugin/docviewer/crocodoc/CrocodocViewer.java" timestamp="1499755480718">
+        <mark key="'" line="67" column="4" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseMapContainer.java" timestamp="1496717206080">
+        <mark key="'" line="275" column="10" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/AttemptProxy.java" timestamp="1499915741070">
+        <mark key="'" line="110" column="11" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/bbxythos/src/main/java/blackboard/cms/platform/contentsystem/manager/impl/PrivateDocumentManagerImpl.java" timestamp="1493881819311">
+        <mark key="'" line="60" column="29" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/tracking/TrackingEventManager.java" timestamp="1498033343050">
+        <mark key="'" line="234" column="25" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/bean/CoursesContainer.java" timestamp="1494236521367">
+        <mark key="'" line="222" column="16" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/spring/rest/helper/CourseMembershipTORestUtil.java" timestamp="1494231636112">
+        <mark key="'" line="298" column="106" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb.go" timestamp="1499851538721">
+        <mark key="'" line="310" column="8" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/raft/log.go" timestamp="1494661485720">
+        <mark key="'" line="201" column="33" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/base/base-system/database/vi/gradebook/views.db-pgsql/gb2_score_and_attempt_vw.sql" timestamp="1495789929405">
+        <mark key="'" line="18" column="2" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/clientconn.go" timestamp="1499929460643">
+        <mark key="'" line="506" column="24" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/etcdserver/server.go" timestamp="1494918535480">
+        <mark key="'" line="313" column="16" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>Content</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxkZlw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29udGVudCA9IENvbnRlbnRXcmFwcGVyLmxvYWRCeUNvdXJzZUxpbmtJZCggY29udGVudElkICk7Cg==</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="q" type="4">
+        <keys>
+          <key char="65535" code="67" mods="130" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgQ29udGVudCBjb250ZW50ID0gQ29udGVudERiTG9hZGVyLkRlZmF1bHQuZ2V0SW5zdGFuY2UoKS5sb2FkQnlJZCggSWQuZ2VuZXJhdGVJZCggQ29udGVudC5EQVRBX1RZUEUsIGNvbnRlbnRJZCApICk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgQ29udGVudCBjb250ZW50ID0gQ29udGVudFdyYXBwZXIubG9hZEJ5Q291cnNlTGlua0lkKCBjb250ZW50SWQgKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgQ29udGVudCBjb250ZW50ID0gQ29udGVudERiTG9hZGVyLkRlZmF1bHQuZ2V0SW5zdGFuY2UoKS5sb2FkQnlJZCggSWQuZ2VuZXJhdGVJZCggQ29udGVudC5EQVRBX1RZUEUsIGNvbnRlbnRJZCApICk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgQ29udGVudCBjb250ZW50ID0gYXR0ZW1wdERldGFpbC5nZXRHcmFkZWJvb2tJdGVtKCkuZ2V0Q291cnNlQ29udGVudCgpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxjb250ZW50SWRcPg==</entry>
+        <entry encoding="base64">XDxpZFw+</entry>
+        <entry encoding="base64">XDxteUFjdGlvblw+</entry>
+        <entry>gradable</entry>
+        <entry>\cgradable</entry>
+        <entry encoding="base64">XDxHcmFkYWJsZUl0ZW1cPg==</entry>
+        <entry encoding="base64">XDwvXD4=</entry>
+        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
+        <entry encoding="base64">XDxjb250ZW50X2lkXD4=</entry>
+        <entry encoding="base64">XDxhRm9ybVw+</entry>
+        <entry>link</entry>
+        <entry encoding="base64">XDxfYXNzZXNzbWVudFw+</entry>
+        <entry encoding="base64">XDxfb0RlZmluaXRpb25cPg==</entry>
+        <entry encoding="base64">XDxvZFw+</entry>
+        <entry encoding="base64">XDxycGNJbmZvQ29udGV4dEtleVw+</entry>
+        <entry encoding="base64">XDxmcmFtZXJcPg==</entry>
+        <entry encoding="base64">XDxzdFw+</entry>
+        <entry encoding="base64">XDxjdHhcPg==</entry>
+        <entry encoding="base64">XDxoYW5kbGVcPg==</entry>
+        <entry encoding="base64">XDxkZlw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL2JhY2tlbmRBdHRlbXB0TWV0YWRhdGEvbWV0YWRhdGEvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
+        <entry encoding="base64">JzwsJz5zL2Fzc2lnbm1lbnRMb2cvdGVzdExvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0hPTUVfRElSL2RpclBhdGg=</entry>
+        <entry>s/startDate/endDate</entry>
+        <entry encoding="base64">JzwsJz5zL25leHRIYW5kbGVyL25leHRIYW5kbGVyUGF0aC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3VzZXJcLmdldElkKCkvdXNlcklkL2c=</entry>
+        <entry>s/user_id/password/g</entry>
+        <entry>s/user_id/entry-login/g</entry>
+        <entry encoding="base64">JzwsJz5zL2FhYy9pbnB1dC9n</entry>
+        <entry>s/aac/input/g</entry>
+        <entry encoding="base64">JzwsJz5zL3Bhc3N3b3JkL3VzZXJuYW1lL2c=</entry>
+        <entry encoding="base64">JzwsJz4vMS8yL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
+        <entry>s/1/3/g</entry>
+        <entry>s/1/4/g</entry>
+        <entry>s/note/text/g</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
   </component>
 </application>
