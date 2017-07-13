@@ -1,7 +1,14 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
-  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-07-13T17:46:19</property>
+    <property name="ide">Gogland</property>
+    <property name="ideVersion">1.0.0.0</property>
+    <property name="modified">2017-07-13T17:46:30</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="LARGE" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
 </scheme>
