@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="routes" type="PLAIN_TEXT" />
+      <mapping pattern="ElasticJobConfig.json" type="PLAIN_TEXT" />
+      <mapping pattern="grading_b2_9490" type="PLAIN_TEXT" />
+      <mapping ext="lua" type="PLAIN_TEXT" />
+      <mapping pattern="basic_course_233_1" type="XML" />
+    </extensionMap>
+  </component>
+</application>

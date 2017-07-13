@@ -1,0 +1,42 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
+    <recentFileMasks>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
+      <mask>*.gradle,</mask>
+      <mask>*.gradle,</mask>
+      <mask>*.gradle, *</mask>
+      <mask>*.gradle, *.</mask>
+      <mask>*.gradle, *.p</mask>
+      <mask>*.gradle, *.pr</mask>
+      <mask>*.gradle, *.pro</mask>
+      <mask>*.gradle, *.properties</mask>
+      <mask>*.gradle,*.properties</mask>
+      <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.p</mask>
+      <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.jsp</mask>
+      <mask>*.js</mask>
+      <mask>*.jaa</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*</mask>
+      <mask>*.m</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
