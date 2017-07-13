@@ -228,8 +228,8 @@
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/raft/raftpb/raft.proto" timestamp="1495004850861">
         <mark key="'" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/transport/http2_server.go" timestamp="1499932467533">
-        <mark key="'" line="149" column="18" />
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/transport/http2_server.go" timestamp="1499932983969">
+        <mark key="'" line="227" column="68" />
       </file>
       <file name="$USER_HOME$/projects-mbass/src/main/java/com/blackboard/mbaas/service/enterprise/stream/StreamServiceImpl.java" timestamp="1494986186729">
         <mark key="'" line="87" column="70" />
@@ -370,8 +370,8 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/webapp/take/launchAssessment.jsp" timestamp="1499397054148">
         <mark key="'" line="111" column="48" />
       </file>
-      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/server.go" timestamp="1499932532740">
-        <mark key="'" line="526" column="8" />
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/server.go" timestamp="1499933099191">
+        <mark key="'" line="750" column="8" />
       </file>
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/util/fromlearn/ListForumViewHelper.java" timestamp="1498208025279">
         <mark key="'" line="27" column="0" />
@@ -418,10 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="99" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/clicker/AssessmentProxy.java" />
-      <jump line="117" column="45" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/blackboard.platform/bb-platform/9.1.201410-SNAPSHOT/e05e882d78314ccfd7df13b6c979c982635351bc/bb-platform-9.1.201410-SNAPSHOT-sources.jar!/blackboard/persist/content/impl/ContentDbLoaderImpl.java" />
-      <jump line="110" column="11" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/AttemptProxy.java" />
-      <jump line="103" column="8" filename="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/java/blackboard/webapps/content/struts/actions/AssessmentAction.java" />
       <jump line="133" column="11" filename="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/java/blackboard/webapps/content/struts/actions/AssessmentAction.java" />
       <jump line="198" column="10" filename="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/java/blackboard/webapps/content/struts/actions/AssessmentAction.java" />
       <jump line="125" column="6" filename="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/java/blackboard/webapps/content/struts/actions/SaveOptionsAction.java" />
@@ -518,6 +514,10 @@
       <jump line="526" column="8" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/server.go" />
       <jump line="269" column="16" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/transport/handler_server.go" />
       <jump line="271" column="16" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/transport/handler_server.go" />
+      <jump line="400" column="51" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/transport/http2_server.go" />
+      <jump line="340" column="36" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/transport/http2_server.go" />
+      <jump line="227" column="68" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/transport/http2_server.go" />
+      <jump line="750" column="8" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/server.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -527,7 +527,7 @@
         <text>Content</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdHhcPg==</text>
+        <text encoding="base64">XDxkZlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29udGVudCA9IENvbnRlbnRXcmFwcGVyLmxvYWRCeUNvdXJzZUxpbmtJZCggY29udGVudElkICk7Cg==</text>
@@ -569,9 +569,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdHhcPg==</last-search>
+      <last-search encoding="base64">XDxkZlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdHhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkZlw+</last-pattern>
       <last-replace>text</last-replace>
       <last-substitute encoding="base64">XDxGUk9NX1RPX1RBR1NcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -579,8 +579,6 @@
     </search>
     <history>
       <history-search>
-        <entry>InitialResponse</entry>
-        <entry>InitialLoad</entry>
         <entry encoding="base64">XDxjb250ZW50SWRcPg==</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry encoding="base64">XDxteUFjdGlvblw+</entry>
@@ -599,6 +597,8 @@
         <entry encoding="base64">XDxmcmFtZXJcPg==</entry>
         <entry encoding="base64">XDxzdFw+</entry>
         <entry encoding="base64">XDxjdHhcPg==</entry>
+        <entry encoding="base64">XDxoYW5kbGVcPg==</entry>
+        <entry encoding="base64">XDxkZlw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JhY2tlbmRBdHRlbXB0TWV0YWRhdGEvbWV0YWRhdGEvZw==</entry>
