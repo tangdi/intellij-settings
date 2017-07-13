@@ -447,12 +447,14 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/clientconn.go" timestamp="1499929460643">
+        <mark key="'" line="506" column="24" />
+      </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/etcdserver/server.go" timestamp="1494918535480">
         <mark key="'" line="313" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="41" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb.go" />
       <jump line="401" column="8" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb.go" />
       <jump line="405" column="56" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb.go" />
       <jump line="407" column="38" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb.go" />
@@ -552,6 +554,7 @@
       <jump line="399" column="5" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/rpc_util.go" />
       <jump line="402" column="38" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/rpc_util.go" />
       <jump line="406" column="26" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/rpc_util.go" />
+      <jump line="506" column="24" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/clientconn.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
