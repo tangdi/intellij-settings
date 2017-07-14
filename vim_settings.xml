@@ -14,8 +14,12 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/java/blackboard/servlet/tags/assessment/PagedQuestionTag.java" timestamp="1496731558801">
         <mark key="'" line="215" column="4" />
       </file>
+      <file name="$USER_HOME$/projects-mbass/src/main/java/com/blackboard/mbaas/backend/proxy/enterprise/DiscussionProxy.java" timestamp="1500010636248" />
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/cmd/vendor/github.com/google/btree/btree.go" timestamp="1494598844947">
         <mark key="'" line="735" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects-mbass/src/main/java/com/blackboard/mbaas/interceptor/MBaasContextInterceptor.java" timestamp="1500009686681">
+        <mark key="'" line="121" column="16" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb/grpc_lb_v1/grpclb.proto" timestamp="1499851593606">
         <mark key="'" line="63" column="8" />
@@ -84,11 +88,14 @@
       <file name="$USER_HOME$/mlbb/build.xml" timestamp="1499763782311">
         <mark key="'" line="14" column="97" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/coyote/Request.java" timestamp="1500009883991">
+        <mark key="'" line="135" column="32" />
+      </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/webapp/WEB-INF/config/struts/struts-config.xml" timestamp="1494832994206">
         <mark key="'" line="2500" column="63" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1499672673864">
-        <mark key="'" line="1477" column="0" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1500011050168">
+        <mark key="'" line="471" column="19" />
         <mark key="[" line="11" column="27" />
         <mark key="]" line="11" column="73" />
         <mark key="." line="11" column="73" />
@@ -117,6 +124,9 @@
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/expression/builtin.go" timestamp="1494419814035">
         <mark key="'" line="418" column="14" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookie.java" timestamp="1500009929649">
+        <mark key="'" line="59" column="8" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/session_test.go" timestamp="1494494336251">
         <mark key="'" line="2127" column="4" />
@@ -153,6 +163,7 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/java/blackboard/webapps/assessment/ContentWrapper.java" timestamp="1499921920095">
         <mark key="'" line="57" column="34" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/parser/Cookie.java" timestamp="1500010550123" />
       <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/tidb-server/main.go" timestamp="1494488650073">
         <mark key="'" line="162" column="8" />
       </file>
@@ -174,6 +185,12 @@
         <mark key="]" line="53" column="70" />
         <mark key="^" line="53" column="67" />
         <mark key="." line="53" column="70" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-catalina/8.5.11/c7a9a74983a6107fae41972bc51276bb141dfff1/tomcat-catalina-8.5.11-sources.jar!/org/apache/catalina/connector/Request.java" timestamp="1500009835539">
+        <mark key="'" line="3097" column="61" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" timestamp="1500009987708">
+        <mark key="'" line="90" column="12" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/base/base-system/database/vi/gradebook/views.db-pgsql/gb2_score_attempt_1_vw.sql" timestamp="1495790274829">
         <mark key="'" line="19" column="2" />
@@ -239,12 +256,14 @@
       <file name="$USER_HOME$/projects-mbass/src/main/java/com/blackboard/mbaas/service/enterprise/stream/StreamServiceImpl.java" timestamp="1494986186729">
         <mark key="'" line="87" column="70" />
       </file>
-      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/backoff.go" timestamp="1499939591446" />
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/discussionboard/src/main/java/blackboard/webapps/discussionboard/ext/DiscussionBoardStreamDataProvider.java" timestamp="1499828823646">
         <mark key="'" line="538" column="34" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/call.go" timestamp="1499932021150">
         <mark key="'" line="199" column="37" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/parser/HttpParser.java" timestamp="1500010569167">
+        <mark key="'" line="40" column="35" />
       </file>
       <file name="$USER_HOME$/Go_projects/6.824/src/raft/config.go" timestamp="1494299532259">
         <mark key="'" line="133" column="8" />
@@ -294,7 +313,6 @@
       <file name="vim_settings.xml" timestamp="1499939350039">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Go_projects/6.824/src/main/mrtmp.iiseq" timestamp="1499927408111" />
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/RichContentImpl.java" timestamp="1497605801552">
         <mark key="'" line="422" column="39" />
         <mark key="[" line="1229" column="45" />
@@ -323,6 +341,7 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/webapp/authentication/manager/log_manager.jsp" timestamp="1494833151912">
         <mark key="'" line="304" column="13" />
       </file>
+      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/ab3976d4574c48d22dc1abf6a9e8bd0fdf928223/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/http/HttpServletRequest.java" timestamp="1500009772477" />
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/raft/doc.go" timestamp="1495002361360">
         <mark key="'" line="237" column="64" />
       </file>
@@ -426,7 +445,39 @@
         <mark key="'" line="313" column="16" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="52" column="13" filename="$USER_HOME$/projects-mbass/src/main/java/com/blackboard/mbaas/interceptor/MBaasContextInterceptor.java" />
+      <jump line="103" column="16" filename="$USER_HOME$/projects-mbass/src/main/java/com/blackboard/mbaas/interceptor/MBaasContextInterceptor.java" />
+      <jump line="111" column="16" filename="$USER_HOME$/projects-mbass/src/main/java/com/blackboard/mbaas/interceptor/MBaasContextInterceptor.java" />
+      <jump line="121" column="16" filename="$USER_HOME$/projects-mbass/src/main/java/com/blackboard/mbaas/interceptor/MBaasContextInterceptor.java" />
+      <jump line="3078" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-catalina/8.5.11/c7a9a74983a6107fae41972bc51276bb141dfff1/tomcat-catalina-8.5.11-sources.jar!/org/apache/catalina/connector/Request.java" />
+      <jump line="3097" column="61" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-catalina/8.5.11/c7a9a74983a6107fae41972bc51276bb141dfff1/tomcat-catalina-8.5.11-sources.jar!/org/apache/catalina/connector/Request.java" />
+      <jump line="401" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/coyote/Request.java" />
+      <jump line="615" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/coyote/Request.java" />
+      <jump line="135" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/coyote/Request.java" />
+      <jump line="80" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookie.java" />
+      <jump line="37" column="31" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookie.java" />
+      <jump line="59" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookie.java" />
+      <jump line="27" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
+      <jump line="34" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
+      <jump line="50" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
+      <jump line="53" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
+      <jump line="54" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
+      <jump line="57" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
+      <jump line="60" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
+      <jump line="68" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
+      <jump line="79" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
+      <jump line="82" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
+      <jump line="83" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
+      <jump line="90" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
+      <jump line="40" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/parser/HttpParser.java" />
+      <jump line="551" column="10" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
+      <jump line="554" column="32" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
+      <jump line="567" column="63" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
+      <jump line="569" column="4" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
+      <jump line="571" column="67" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
+      <jump line="471" column="19" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
+    </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
@@ -435,7 +486,7 @@
         <text>Content</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZlw+</text>
+        <text encoding="base64">XDxwb3N0QmVhbnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29udGVudCA9IENvbnRlbnRXcmFwcGVyLmxvYWRCeUNvdXJzZUxpbmtJZCggY29udGVudElkICk7Cg==</text>
@@ -477,17 +528,14 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxwb3N0QmVhbnNcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxwb3N0QmVhbnNcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250ZW50SWRcPg==</entry>
-        <entry encoding="base64">XDxpZFw+</entry>
-        <entry encoding="base64">XDxteUFjdGlvblw+</entry>
-        <entry>gradable</entry>
-        <entry>\cgradable</entry>
-        <entry encoding="base64">XDxHcmFkYWJsZUl0ZW1cPg==</entry>
         <entry encoding="base64">XDwvXD4=</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry encoding="base64">XDxjb250ZW50X2lkXD4=</entry>
@@ -502,6 +550,12 @@
         <entry encoding="base64">XDxjdHhcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVcPg==</entry>
         <entry encoding="base64">XDxkZlw+</entry>
+        <entry>encodeCookie</entry>
+        <entry encoding="base64">XDxjb29raWVQcm9jZXNzb3JcPg==</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry encoding="base64">XDxzZXJ2ZXJDb29raWVzXD4=</entry>
+        <entry encoding="base64">XDxJU19UT0tFTlw+</entry>
+        <entry encoding="base64">XDxwb3N0QmVhbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JhY2tlbmRBdHRlbXB0TWV0YWRhdGEvbWV0YWRhdGEvZw==</entry>
