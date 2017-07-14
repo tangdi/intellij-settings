@@ -345,12 +345,6 @@
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/raft/doc.go" timestamp="1495002361360">
         <mark key="'" line="237" column="64" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/Jenkinsfile" timestamp="1500012977241">
-        <mark key="[" line="46" column="22" />
-        <mark key="]" line="46" column="26" />
-        <mark key="." line="46" column="26" />
-        <mark key="^" line="46" column="26" />
-      </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/base/base-system/database/stats/schema.xml" timestamp="1498444713342">
         <mark key="'" line="1148" column="18" />
       </file>
