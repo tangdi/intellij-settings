@@ -43,6 +43,9 @@
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/kv.go" timestamp="1494914914461">
         <mark key="'" line="125" column="16" />
       </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/path.go" timestamp="1500280504719">
+        <mark key="'" line="99" column="21" />
+      </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/gradebook2/GradeWithAttemptScore.java" timestamp="1496214795153">
         <mark key="'" line="143" column="23" />
       </file>
@@ -97,6 +100,9 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/webapp/WEB-INF/config/struts/struts-config.xml" timestamp="1494832994206">
         <mark key="'" line="2500" column="63" />
       </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/tree.go" timestamp="1500281136376">
+        <mark key="'" line="603" column="24" />
+      </file>
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1500011050168">
         <mark key="[" line="11" column="27" />
         <mark key="]" line="11" column="73" />
@@ -123,6 +129,9 @@
       </file>
       <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/blackboard.platform/bb-platform/9.1.201410-SNAPSHOT/e05e882d78314ccfd7df13b6c979c982635351bc/bb-platform-9.1.201410-SNAPSHOT-sources.jar!/blackboard/persist/content/impl/ContentDbLoaderImpl.java" timestamp="1499915632753">
         <mark key="'" line="117" column="45" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/router.go" timestamp="1500280317960">
+        <mark key="'" line="410" column="0" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/learn-analytics/src/main/webapp/WEB-INF/schema/bb_stats_schema/stored_procedures.db-oracle/bb_aa_staging.sql" timestamp="1498444926826">
         <mark key="'" line="122" column="42" />
@@ -536,6 +545,14 @@
       <jump line="58" column="51" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb/grpc_lb_v1/grpclb.proto" />
       <jump line="95" column="5" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb/grpclb_test.go" />
       <jump line="100" column="9" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb/grpclb_test.go" />
+      <jump line="309" column="20" filename="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/router.go" />
+      <jump line="410" column="0" filename="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/router.go" />
+      <jump line="43" column="8" filename="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/path.go" />
+      <jump line="52" column="47" filename="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/path.go" />
+      <jump line="56" column="24" filename="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/path.go" />
+      <jump line="99" column="21" filename="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/path.go" />
+      <jump line="162" column="24" filename="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/tree.go" />
+      <jump line="603" column="24" filename="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/tree.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -545,7 +562,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0TmFtZVJlc29sdmVyXD4=</text>
+        <text encoding="base64">XDx0cmFpbGluZ1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29udGVudCA9IENvbnRlbnRXcmFwcGVyLmxvYWRCeUNvdXJzZUxpbmtJZCggY29udGVudElkICk7Cg==</text>
@@ -587,15 +604,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXN0TmFtZVJlc29sdmVyXD4=</last-search>
+      <last-search encoding="base64">XDx0cmFpbGluZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0TmFtZVJlc29sdmVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFpbGluZ1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>encodeCookie</entry>
         <entry encoding="base64">XDxjb29raWVQcm9jZXNzb3JcPg==</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxzZXJ2ZXJDb29raWVzXD4=</entry>
@@ -615,6 +631,7 @@
         <entry>LoadBalanceResponse</entry>
         <entry>\cregister</entry>
         <entry encoding="base64">XDx0ZXN0TmFtZVJlc29sdmVyXD4=</entry>
+        <entry encoding="base64">XDx0cmFpbGluZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JhY2tlbmRBdHRlbXB0TWV0YWRhdGEvbWV0YWRhdGEvZw==</entry>
