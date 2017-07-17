@@ -98,8 +98,12 @@
           <option name="url" value="git@github.com:grpc/grpc-go.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:julienschmidt/httprouter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Go_projects/src/google.golang.org" />
+    <option name="cloneParentDir" value="$USER_HOME$/Go_projects/src/github.com/julienschmidt" />
   </component>
 </application>
