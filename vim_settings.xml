@@ -21,8 +21,8 @@
       <file name="$USER_HOME$/projects-mbass/src/main/java/com/blackboard/mbaas/interceptor/MBaasContextInterceptor.java" timestamp="1500009686681">
         <mark key="'" line="121" column="16" />
       </file>
-      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb/grpc_lb_v1/grpclb.proto" timestamp="1499851593606">
-        <mark key="'" line="63" column="8" />
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb/grpc_lb_v1/grpclb.proto" timestamp="1500276067562">
+        <mark key="'" line="58" column="51" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/server/driver.go" timestamp="1494489121007">
         <mark key="'" line="58" column="4" />
@@ -33,6 +33,9 @@
         <mark key="]" line="262" column="0" />
         <mark key="^" line="261" column="7" />
         <mark key="." line="262" column="0" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb/grpclb_test.go" timestamp="1500276569343">
+        <mark key="'" line="100" column="9" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1499672720207">
         <mark key="'" line="2" column="27" />
@@ -144,6 +147,7 @@
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/BaseContentAuthController.java" timestamp="1498805378127">
         <mark key="'" line="63" column="47" />
       </file>
+      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb/grpclb_server_generated.go" timestamp="1500275729779" />
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/assignment/src/main/java/blackboard/plugin/assignment/spring/controller/GradeAssignmentController.java" timestamp="1499755912091">
         <mark key="'" line="108" column="16" />
       </file>
@@ -528,6 +532,10 @@
       <jump line="320" column="28" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/balancer.go" />
       <jump line="322" column="16" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/balancer.go" />
       <jump line="330" column="23" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/balancer.go" />
+      <jump line="49" column="31" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb/grpc_lb_v1/grpclb.proto" />
+      <jump line="58" column="51" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb/grpc_lb_v1/grpclb.proto" />
+      <jump line="95" column="5" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb/grpclb_test.go" />
+      <jump line="100" column="9" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb/grpclb_test.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -537,7 +545,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaFw+</text>
+        <text encoding="base64">XDx0ZXN0TmFtZVJlc29sdmVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29udGVudCA9IENvbnRlbnRXcmFwcGVyLmxvYWRCeUNvdXJzZUxpbmtJZCggY29udGVudElkICk7Cg==</text>
@@ -579,17 +587,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaFw+</last-search>
+      <last-search encoding="base64">XDx0ZXN0TmFtZVJlc29sdmVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXN0TmFtZVJlc29sdmVyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdHhcPg==</entry>
-        <entry encoding="base64">XDxoYW5kbGVcPg==</entry>
-        <entry encoding="base64">XDxkZlw+</entry>
         <entry>encodeCookie</entry>
         <entry encoding="base64">XDxjb29raWVQcm9jZXNzb3JcPg==</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
@@ -607,6 +612,9 @@
         <entry encoding="base64">XDxhZGRyQ2hcPg==</entry>
         <entry encoding="base64">XDx3YWl0Q2hcPg==</entry>
         <entry encoding="base64">XDxjaFw+</entry>
+        <entry>LoadBalanceResponse</entry>
+        <entry>\cregister</entry>
+        <entry encoding="base64">XDx0ZXN0TmFtZVJlc29sdmVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JhY2tlbmRBdHRlbXB0TWV0YWRhdGEvbWV0YWRhdGEvZw==</entry>
