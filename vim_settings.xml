@@ -146,7 +146,7 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/learn-analytics/src/main/webapp/WEB-INF/schema/bb_stats_schema/stored_procedures.db-oracle/bb_aa_staging.sql" timestamp="1498444926826">
         <mark key="'" line="122" column="42" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/WEB-INF/jsp/mobile_assessment_create.jsp" timestamp="1500362090066">
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/WEB-INF/jsp/mobile_assessment_create.jsp" timestamp="1500364364094">
         <mark key="'" line="107" column="29" />
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="91" />
@@ -156,8 +156,12 @@
       <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/expression/builtin.go" timestamp="1494419814035">
         <mark key="'" line="418" column="14" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/mobileAssessment.js" timestamp="1500360421014">
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/mobileAssessment.js" timestamp="1500364737462">
         <mark key="'" line="429" column="24" />
+        <mark key="[" line="551" column="3" />
+        <mark key="]" line="552" column="3" />
+        <mark key="^" line="552" column="3" />
+        <mark key="." line="552" column="3" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookie.java" timestamp="1500009929649">
         <mark key="'" line="59" column="8" />
@@ -199,7 +203,7 @@
       <file name="/usr/local/Cellar/go/1.8.1/libexec/src/net/http/client.go" timestamp="1494918008063">
         <mark key="'" line="116" column="10" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/jsp/mobile_assessment_create.jsp" timestamp="1500362129588">
+      <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/jsp/mobile_assessment_create.jsp" timestamp="1500365249264">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
@@ -338,6 +342,11 @@
         <mark key="]" line="3172" column="76" />
         <mark key="^" line="3172" column="73" />
         <mark key="." line="3172" column="76" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/WEB-INF/jsp/question_types.jspf" timestamp="1500365021578">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/dao/impl/AssessmentDaoImpl.java" timestamp="1498633794065">
         <mark key="'" line="142" column="11" />
@@ -626,8 +635,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/mlbb/src/main/webapp/js/ICanHaz.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.jQuery</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vTm8gYWRkaXRpb25hbCBmaWVsZHMgbmVlZGVkCg==</text>
       </register>
       <register name="-" type="4">
         <text>.jQuery</text>
@@ -639,7 +648,7 @@
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IiR7YmFzZVVybH1qcy9JQ2FuSGF6LmpzP3Y9PCU9IHZlcnNpb24gJT4iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IiR7YmFzZVVybH1qcy9JQ2FuSGF6LmpxdWVyeS5taW4uanM/dj08JT0gdmVyc2lvbiAlPiI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">CS8vTm8gYWRkaXRpb25hbCBmaWVsZHMgbmVlZGVkCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -647,28 +656,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vTm8gYWRkaXRpb25hbCBmaWVsZHMgbmVlZGVkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNoRXZlbnRhdHRhY2hFdmVudAo=</text>
+        <text encoding="base64">ICB2YXIgdHlwZV9kZXRhaWwgPSBpY2hbdGVtcGxhdGVOYW1lXSggcXVlc3Rpb24gKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IiR7YmFzZVVybH1qcy9JQ2FuSGF6LmpxdWVyeS5taW4uanM/dj08JT0gdmVyc2lvbiAlPiI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJvdXRlci5HRVQoIi86MTIzLzo0NTYiLCBuaWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNoRXZlbnRhdHRhY2hFdmVudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0LkZhdGFsKCJyZWdpc3RlcmluZyBwYXRoIG5vdCBiZWdpbm5pbmcgd2l0aCAnLycgZGlkIG5vdCBwYW5pYyIpCg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IiR7YmFzZVVybH1qcy9JQ2FuSGF6LmpxdWVyeS5taW4uanM/dj08JT0gdmVyc2lvbiAlPiI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWlmIHJlY3YgPT0gbmlsIHsK</text>
+        <text encoding="base64">CXJvdXRlci5HRVQoIi86MTIzLzo0NTYiLCBuaWwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0pCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
