@@ -14,7 +14,6 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/java/blackboard/servlet/tags/assessment/PagedQuestionTag.java" timestamp="1496731558801">
         <mark key="'" line="215" column="4" />
       </file>
-      <file name="$USER_HOME$/projects-mbass/src/main/java/com/blackboard/mbaas/backend/proxy/enterprise/DiscussionProxy.java" timestamp="1500349984836" />
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/cmd/vendor/github.com/google/btree/btree.go" timestamp="1494598844947">
         <mark key="'" line="735" column="14" />
       </file>
@@ -162,7 +161,6 @@
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/BaseContentAuthController.java" timestamp="1498805378127">
         <mark key="'" line="63" column="47" />
       </file>
-      <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/grpclb/grpclb_server_generated.go" timestamp="1500275729779" />
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/assignment/src/main/java/blackboard/plugin/assignment/spring/controller/GradeAssignmentController.java" timestamp="1499755912091">
         <mark key="'" line="108" column="16" />
       </file>
@@ -189,7 +187,6 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/java/blackboard/webapps/assessment/ContentWrapper.java" timestamp="1499921920095">
         <mark key="'" line="57" column="34" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/parser/Cookie.java" timestamp="1500010550123" />
       <file name="$USER_HOME$/Go_projects/src/github.com/golang/protobuf/proto/decode.go" timestamp="1500269956659">
         <mark key="'" line="488" column="16" />
       </file>
@@ -352,12 +349,16 @@
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/ContentDetailContainer.java" timestamp="1498791430847">
         <mark key="'" line="260" column="76" />
       </file>
+      <file name="$USER_HOME$/Go_projects/6.824/src/main/mrtmp.iiseq" timestamp="1500350454511" />
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/RichContentImpl.java" timestamp="1497605801552">
         <mark key="'" line="422" column="39" />
         <mark key="[" line="1229" column="45" />
         <mark key="]" line="1229" column="48" />
         <mark key="^" line="1229" column="48" />
         <mark key="." line="1229" column="48" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1500351010836">
+        <mark key="[" line="1" column="38" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/kataras/go-sessions/session.go" timestamp="1494493934277">
         <mark key="'" line="315" column="0" />
@@ -380,7 +381,6 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/webapp/authentication/manager/log_manager.jsp" timestamp="1494833151912">
         <mark key="'" line="304" column="13" />
       </file>
-      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/ab3976d4574c48d22dc1abf6a9e8bd0fdf928223/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/http/HttpServletRequest.java" timestamp="1500009772477" />
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/raft/doc.go" timestamp="1495002361360">
         <mark key="'" line="237" column="64" />
       </file>
