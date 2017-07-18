@@ -130,8 +130,8 @@
       <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/blackboard.platform/bb-platform/9.1.201410-SNAPSHOT/e05e882d78314ccfd7df13b6c979c982635351bc/bb-platform-9.1.201410-SNAPSHOT-sources.jar!/blackboard/persist/content/impl/ContentDbLoaderImpl.java" timestamp="1499915632753">
         <mark key="'" line="117" column="45" />
       </file>
-      <file name="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/router.go" timestamp="1500280317960">
-        <mark key="'" line="410" column="0" />
+      <file name="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/router.go" timestamp="1500346315914">
+        <mark key="'" line="334" column="24" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/learn-analytics/src/main/webapp/WEB-INF/schema/bb_stats_schema/stored_procedures.db-oracle/bb_aa_staging.sql" timestamp="1498444926826">
         <mark key="'" line="122" column="42" />
@@ -553,6 +553,7 @@
       <jump line="99" column="21" filename="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/path.go" />
       <jump line="162" column="24" filename="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/tree.go" />
       <jump line="603" column="24" filename="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/tree.go" />
+      <jump line="334" column="24" filename="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/router.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
