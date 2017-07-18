@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.gradle, *.pro</mask>
       <mask>*.gradle, *.properties</mask>
@@ -27,16 +27,16 @@
       <mask>*.propet</mask>
       <mask>*.prope</mask>
       <mask>*.propr</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.proper</mask>
       <mask>*.propert</mask>
-      <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -51,6 +51,7 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/dao/gradebook/MobileStudentGradeBookRow.java" timestamp="1496198895091">
         <mark key="'" line="124" column="6" />
       </file>
+      <file name="$USER_HOME$/mlbb/src/main/webapp/js/mobileAssessment.js" timestamp="1500362613756" />
       <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/stats/stats_test.go" timestamp="1499932040275">
         <mark key="'" line="680" column="11" />
       </file>
@@ -103,7 +104,7 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/webapp/WEB-INF/config/struts/struts-config.xml" timestamp="1494832994206">
         <mark key="'" line="2500" column="63" />
       </file>
-      <file name="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/tree.go" timestamp="1500355237927">
+      <file name="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/tree.go" timestamp="1500360122179">
         <mark key="'" line="603" column="24" />
       </file>
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1500011050168">
@@ -145,14 +146,18 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/learn-analytics/src/main/webapp/WEB-INF/schema/bb_stats_schema/stored_procedures.db-oracle/bb_aa_staging.sql" timestamp="1498444926826">
         <mark key="'" line="122" column="42" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/WEB-INF/jsp/mobile_assessment_create.jsp" timestamp="1500359059758">
-        <mark key="'" line="193" column="48" />
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/WEB-INF/jsp/mobile_assessment_create.jsp" timestamp="1500362090066">
+        <mark key="'" line="107" column="29" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="91" />
+        <mark key="." line="156" column="62" />
+        <mark key="^" line="156" column="62" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/expression/builtin.go" timestamp="1494419814035">
         <mark key="'" line="418" column="14" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/mobileAssessment.js" timestamp="1500359089784">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/mobileAssessment.js" timestamp="1500360421014">
+        <mark key="'" line="429" column="24" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookie.java" timestamp="1500009929649">
         <mark key="'" line="59" column="8" />
@@ -193,6 +198,11 @@
       </file>
       <file name="/usr/local/Cellar/go/1.8.1/libexec/src/net/http/client.go" timestamp="1494918008063">
         <mark key="'" line="116" column="10" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/jsp/mobile_assessment_create.jsp" timestamp="1500362129588">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/java/blackboard/webapps/assessment/ContentWrapper.java" timestamp="1499921920095">
         <mark key="'" line="57" column="34" />
@@ -295,10 +305,10 @@
       <file name="$USER_HOME$/projects-mbass/src/main/java/com/blackboard/mbaas/service/enterprise/stream/StreamServiceImpl.java" timestamp="1494986186729">
         <mark key="'" line="87" column="70" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/bb-manifest.xml" timestamp="1500270095062">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="30" />
+      <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/bb-manifest.xml" timestamp="1500362141074">
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="56" />
+        <mark key="." line="16" column="56" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/discussionboard/src/main/java/blackboard/webapps/discussionboard/ext/DiscussionBoardStreamDataProvider.java" timestamp="1499828823646">
         <mark key="'" line="538" column="34" />
@@ -376,6 +386,19 @@
       <file name="$USER_HOME$/Go_projects/src/github.com/kataras/go-sessions/session.go" timestamp="1494493934277">
         <mark key="'" line="315" column="0" />
       </file>
+      <file name="$USER_HOME$/mlbb/src/main/webapp/js/ICanHaz.js" timestamp="1500363332498">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="403" column="3" />
+        <mark key="]" line="403" column="4" />
+        <mark key="." line="403" column="4" />
+        <mark key="^" line="403" column="4" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/ICanHaz.js" timestamp="1500362076163">
+        <mark key="[" line="375" column="41" />
+        <mark key="]" line="375" column="43" />
+        <mark key="^" line="375" column="43" />
+        <mark key="." line="375" column="43" />
+      </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/assignment/src/main/java/blackboard/plugin/docviewer/crocodoc/CrocodocConversionThread.java" timestamp="1499760678870">
         <mark key="'" line="137" column="14" />
       </file>
@@ -409,7 +432,7 @@
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/backend/batch_tx.go" timestamp="1494685736777">
         <mark key="'" line="198" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500359053033">
+      <file name="/Dummy.txt" timestamp="1500361248828">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -593,22 +616,30 @@
       <jump line="167" column="0" filename="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/router_test.go" />
       <jump line="193" column="48" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/WEB-INF/jsp/mobile_assessment_create.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/mobileAssessment.js" />
+      <jump line="486" column="29" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/mobileAssessment.js" />
+      <jump line="548" column="20" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/mobileAssessment.js" />
+      <jump line="1118" column="17" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/mobileAssessment.js" />
+      <jump line="302" column="27" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/mobileAssessment.js" />
+      <jump line="424" column="34" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/mobileAssessment.js" />
+      <jump line="429" column="24" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/mobileAssessment.js" />
+      <jump line="107" column="29" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/WEB-INF/jsp/mobile_assessment_create.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/mlbb/src/main/webapp/js/ICanHaz.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>456</text>
+        <text>.jQuery</text>
       </register>
       <register name="-" type="4">
-        <text>456</text>
+        <text>.jQuery</text>
       </register>
       <register name="/" type="4">
-        <text>add_question</text>
+        <text>ICan</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXJvdXRlci5HRVQoIi86MTIzLzo0NTYiLCBuaWwpCg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IiR7YmFzZVVybH1qcy9JQ2FuSGF6LmpzP3Y9PCU9IHZlcnNpb24gJT4iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJvdXRlci5HRVQoIi86MTIzLzo0NTYiLCBuaWwpCg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IiR7YmFzZVVybH1qcy9JQ2FuSGF6LmpxdWVyeS5taW4uanM/dj08JT0gdmVyc2lvbiAlPiI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -616,46 +647,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CX0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQl0LkZhdGFsKCJyZWdpc3RlcmluZyBwYXRoIG5vdCBiZWdpbm5pbmcgd2l0aCAnLycgZGlkIG5vdCBwYW5pYyIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWlmIHJlY3YgPT0gbmlsIHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CX0pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXJlY3YgOj0gY2F0Y2hQYW5pYyhmdW5jKCkgewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNoRXZlbnRhdHRhY2hFdmVudAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IiR7YmFzZVVybH1qcy9JQ2FuSGF6LmpxdWVyeS5taW4uanM/dj08JT0gdmVyc2lvbiAlPiI+PC9zY3JpcHQ+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXJvdXRlci5HRVQoIi86MTIzLzo0NTYiLCBuaWwpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQl0LkZhdGFsKCJyZWdpc3RlcmluZyBwYXRoIG5vdCBiZWdpbm5pbmcgd2l0aCAnLycgZGlkIG5vdCBwYW5pYyIpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICIuLyIK</text>
+        <text encoding="base64">CWlmIHJlY3YgPT0gbmlsIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSBtYWluCg==</text>
+        <text encoding="base64">CX0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>add_question</last-search>
+      <last-search>ICan</last-search>
       <last-offset />
-      <last-pattern>add_question</last-pattern>
+      <last-pattern>ICan</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXJ2ZXJDb29raWVzXD4=</entry>
-        <entry encoding="base64">XDxJU19UT0tFTlw+</entry>
-        <entry encoding="base64">XDxwb3N0QmVhbnNcPg==</entry>
-        <entry encoding="base64">XDx4XD4=</entry>
         <entry encoding="base64">XDxpd3pcPg==</entry>
         <entry encoding="base64">XDx0XD4=</entry>
         <entry encoding="base64">XDx3cml0YWJsZUNoYW5cPg==</entry>
@@ -672,6 +699,10 @@
         <entry encoding="base64">XDx0cmFpbGluZ1w+</entry>
         <entry>add-questio</entry>
         <entry>add_question</entry>
+        <entry encoding="base64">XDx0eXBlX2RldGFpbFw+</entry>
+        <entry encoding="base64">XDxpY2hcPg==</entry>
+        <entry>question_types</entry>
+        <entry>ICan</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JhY2tlbmRBdHRlbXB0TWV0YWRhdGEvbWV0YWRhdGEvZw==</entry>
