@@ -357,8 +357,11 @@
         <mark key="^" line="1229" column="48" />
         <mark key="." line="1229" column="48" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1500351010836">
-        <mark key="[" line="1" column="38" />
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1500351312972">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+        <mark key="^" line="2" column="50" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/kataras/go-sessions/session.go" timestamp="1494493934277">
         <mark key="'" line="315" column="0" />
@@ -581,10 +584,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GET</text>
+        <text>/usr/local/Cellar/delve</text>
       </register>
       <register name="-" type="4">
-        <text>GET</text>
+        <text>/usr/local/Cellar/delve</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFpbGluZ1w+</text>
@@ -625,7 +628,7 @@
         <text encoding="base64">aW1wb3J0ICIuIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -677,8 +680,8 @@
         <entry>s/1/4/g</entry>
         <entry>s/note/text/g</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
