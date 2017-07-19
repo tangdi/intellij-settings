@@ -5,12 +5,11 @@
       <mark key="G" line="57512" column="5" filename="$USER_HOME$/Go_projects/6.824/src/main/mrtmp.iiseq" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" timestamp="1500454339890">
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" timestamp="1500455498827">
         <mark key="'" line="23" column="17" />
-        <mark key="[" line="41" column="171" />
-        <mark key="]" line="41" column="171" />
-        <mark key="." line="41" column="171" />
-        <mark key="^" line="41" column="171" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/kvstore_txn.go" timestamp="1494685728886">
         <mark key="'" line="62" column="18" />
@@ -64,6 +63,9 @@
       <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/rpc_util.go" timestamp="1499928708227">
         <mark key="'" line="406" column="26" />
       </file>
+      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" timestamp="1500455174115">
+        <mark key="'" line="197" column="26" />
+      </file>
       <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/blackboard.platform/bb-platform/9.1.201410-SNAPSHOT/250662b8eef72f64e2a19bbe6f173e281abf253c/bb-platform-9.1.201410-SNAPSHOT-sources.jar!/blackboard/persist/announcement/impl/AnnouncementDbMap.java" timestamp="1498792119929">
         <mark key="'" line="49" column="110" />
       </file>
@@ -75,11 +77,6 @@
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/parser/misc.go" timestamp="1494400311213">
         <mark key="'" line="93" column="18" />
-      </file>
-      <file name="$USER_HOME$/GoglandProjects/go_play/goroutinetest.go" timestamp="1499939130292">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/kvstore_compaction.go" timestamp="1494840830278">
         <mark key="'" line="21" column="57" />
@@ -94,17 +91,14 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/webapp/WEB-INF/config/struts/struts-config.xml" timestamp="1494832994206">
         <mark key="'" line="2500" column="63" />
       </file>
-      <file name="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/tree.go" timestamp="1500360122179">
-        <mark key="'" line="603" column="24" />
-      </file>
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1500011050168">
         <mark key="[" line="11" column="27" />
         <mark key="]" line="11" column="73" />
         <mark key="." line="11" column="73" />
         <mark key="^" line="11" column="73" />
       </file>
-      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" timestamp="1500449861563">
-        <mark key="'" line="198" column="37" />
+      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" timestamp="1500455574693">
+        <mark key="'" line="181" column="11" />
       </file>
       <file name="/usr/local/Cellar/go/1.8.1/libexec/src/sync/pool.go" timestamp="1500020296243">
         <mark key="'" line="95" column="16" />
@@ -163,11 +157,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookie.java" timestamp="1500009929649">
         <mark key="'" line="59" column="8" />
       </file>
-      <file name="$USER_HOME$/mlbb/config/jarsigner.properties" timestamp="1500270122667">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="17" />
-        <mark key="." line="15" column="17" />
-      </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/session_test.go" timestamp="1494494336251">
         <mark key="'" line="2127" column="4" />
       </file>
@@ -199,6 +188,9 @@
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/golang/protobuf/proto/decode.go" timestamp="1500269956659">
         <mark key="'" line="488" column="16" />
+      </file>
+      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/RealCall.java" timestamp="1500455432795">
+        <mark key="'" line="152" column="4" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/tidb-server/main.go" timestamp="1494488650073">
         <mark key="'" line="162" column="8" />
@@ -281,10 +273,8 @@
       <file name="$USER_HOME$/projects-mbass/src/main/java/com/blackboard/mbaas/service/enterprise/stream/StreamServiceImpl.java" timestamp="1494986186729">
         <mark key="'" line="87" column="70" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/bb-manifest.xml" timestamp="1500362141074">
-        <mark key="[" line="16" column="55" />
-        <mark key="]" line="16" column="56" />
-        <mark key="." line="16" column="56" />
+      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/Request.java" timestamp="1500455460636">
+        <mark key="'" line="68" column="16" />
       </file>
       <file name="$USER_HOME$/mlbb/lib/Utils.jar!/com/blackboard/bbb/util/HttpUtil.class" timestamp="1500453552489" />
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/discussionboard/src/main/java/blackboard/webapps/discussionboard/ext/DiscussionBoardStreamDataProvider.java" timestamp="1499828823646">
@@ -472,31 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookie.java" />
-      <jump line="37" column="31" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookie.java" />
-      <jump line="59" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookie.java" />
-      <jump line="27" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
-      <jump line="34" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
-      <jump line="50" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
-      <jump line="53" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
-      <jump line="54" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
-      <jump line="57" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
-      <jump line="60" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
-      <jump line="68" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
-      <jump line="79" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
-      <jump line="82" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
-      <jump line="83" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
-      <jump line="90" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/ServerCookies.java" />
-      <jump line="40" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/8.5.11/3ac479df9ddc0b803107daff3071dfcf2ff0058b/tomcat-coyote-8.5.11-sources.jar!/org/apache/tomcat/util/http/parser/HttpParser.java" />
-      <jump line="551" column="10" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
-      <jump line="554" column="32" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
-      <jump line="567" column="63" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
-      <jump line="569" column="4" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
-      <jump line="571" column="67" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
-      <jump line="471" column="19" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
-      <jump line="80" column="19" filename="/usr/local/Cellar/go/1.8.1/libexec/src/sync/pool.go" />
-      <jump line="81" column="11" filename="/usr/local/Cellar/go/1.8.1/libexec/src/sync/pool.go" />
-      <jump line="86" column="41" filename="/usr/local/Cellar/go/1.8.1/libexec/src/sync/pool.go" />
       <jump line="89" column="47" filename="/usr/local/Cellar/go/1.8.1/libexec/src/sync/pool.go" />
       <jump line="94" column="28" filename="/usr/local/Cellar/go/1.8.1/libexec/src/sync/pool.go" />
       <jump line="95" column="16" filename="/usr/local/Cellar/go/1.8.1/libexec/src/sync/pool.go" />
@@ -572,22 +537,47 @@
       <jump line="17" column="17" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" />
       <jump line="115" column="21" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/f4c91e12121af963e3ef76e81c82aa75ba6e8533/okio-1.13.0-sources.jar!/okio/BufferedSink.java" />
       <jump line="25" column="20" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/f4c91e12121af963e3ef76e81c82aa75ba6e8533/okio-1.13.0-sources.jar!/okio/BufferedSink.java" />
+      <jump line="430" column="39" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="437" column="29" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="395" column="43" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="415" column="29" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="428" column="56" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="431" column="13" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="439" column="19" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="440" column="11" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="557" column="52" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="439" column="28" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
+      <jump line="491" column="44" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
+      <jump line="862" column="36" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
+      <jump line="866" column="29" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
+      <jump line="867" column="13" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
+      <jump line="871" column="6" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
+      <jump line="876" column="36" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
+      <jump line="877" column="13" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
+      <jump line="197" column="26" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
+      <jump line="152" column="4" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/RealCall.java" />
+      <jump line="32" column="15" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/Request.java" />
+      <jump line="41" column="45" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/Request.java" />
+      <jump line="68" column="16" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/Request.java" />
+      <jump line="72" column="23" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="180" column="30" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="181" column="11" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>regInfo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbC50YWcoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>regInfo</text>
       </register>
       <register name="/" type="4">
-        <text>codehaus</text>
+        <text encoding="base64">XDxjYWxsRmFjdG9yeVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IiR7YmFzZVVybH1qcy9JQ2FuSGF6LmpzP3Y9PCU9IHZlcnNpb24gJT4iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbC50YWcoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -595,46 +585,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIEh0dHBVcmwgb3JpZ2luYWxIdHRwVXJsID0gb3JpZ2luYWwudXJsKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9yaWdpbmFsLmJvZHkoKS50b1N0cmluZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIEh0dHBVcmwgb3JpZ2luYWxIdHRwVXJsID0gb3JpZ2luYWwudXJsKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW5hbC5ib2R5KCkudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIG9yaWdpbmFsLmJvZHkoKS50b1N0cmluZygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwVXJsIG9yaWdpbmFsSHR0cFVybCA9IG9yaWdpbmFsLnVybCgpOwoKICAgICAgICBIdHRwVXJsIHVybCA9IG9yaWdpbmFsSHR0cFVybC5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgLmFkZFF1ZXJ5UGFyYW1ldGVyKCJoYXNoIiwgIiIpCiAgICAgICAgICAgIC5idWlsZCgpOwoKICAgICAgICAvLyBSZXF1ZXN0IGN1c3RvbWl6YXRpb246IGFkZCByZXF1ZXN0IGhlYWRlcnMKICAgICAgICBSZXF1ZXN0LkJ1aWxkZXIgcmVxdWVzdEJ1aWxkZXIgPSBvcmlnaW5hbC5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgLnVybCh1cmwpOwoKICAgICAgICBSZXF1ZXN0IHJlcXVlc3QgPSByZXF1ZXN0QnVpbGRlci5idWlsZCgpOwogICAgICAgIHJldHVybiBjaGFpbi5wcm9jZWVkKHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbC5ib2R5KCkudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW5hbC51cmwoKS5xdWVyeVBhcmFtZXRlclZhbHVlcyggICkK</text>
+        <text encoding="base64">ICAgICAgICBIdHRwVXJsIG9yaWdpbmFsSHR0cFVybCA9IG9yaWdpbmFsLnVybCgpOwoKICAgICAgICBIdHRwVXJsIHVybCA9IG9yaWdpbmFsSHR0cFVybC5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgLmFkZFF1ZXJ5UGFyYW1ldGVyKCJoYXNoIiwgIiIpCiAgICAgICAgICAgIC5idWlsZCgpOwoKICAgICAgICAvLyBSZXF1ZXN0IGN1c3RvbWl6YXRpb246IGFkZCByZXF1ZXN0IGhlYWRlcnMKICAgICAgICBSZXF1ZXN0LkJ1aWxkZXIgcmVxdWVzdEJ1aWxkZXIgPSBvcmlnaW5hbC5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgLnVybCh1cmwpOwoKICAgICAgICBSZXF1ZXN0IHJlcXVlc3QgPSByZXF1ZXN0QnVpbGRlci5idWlsZCgpOwogICAgICAgIHJldHVybiBjaGFpbi5wcm9jZWVkKHJlcXVlc3QpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICByZXRyb2ZpdC4K</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbC51cmwoKS5xdWVyeVBhcmFtZXRlclZhbHVlcyggICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jb2RlaGF1cy5qYWNrc29uLmFubm90YXRlLkpzb25Qcm9wZXJ0eTsK</text>
+        <text encoding="base64">ICAgICByZXRyb2ZpdC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ29yZy5jb2RlaGF1cy5qYWNrc29uOmphY2tzb24tbWFwcGVyLWFzbDoxLjkuMTMnLAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jb2RlaGF1cy5qYWNrc29uLmFubm90YXRlLkpzb25Qcm9wZXJ0eTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>codehaus</last-search>
+      <last-search encoding="base64">XDxjYWxsRmFjdG9yeVw+</last-search>
       <last-offset />
-      <last-pattern>codehaus</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxsRmFjdG9yeVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0XD4=</entry>
-        <entry encoding="base64">XDx3cml0YWJsZUNoYW5cPg==</entry>
-        <entry encoding="base64">XDxzdHJlYW1cPg==</entry>
-        <entry encoding="base64">XDx2XD4=</entry>
         <entry encoding="base64">XDxhY1w+</entry>
         <entry encoding="base64">XDxkb25lQ2hhblw+</entry>
         <entry encoding="base64">XDxhZGRyQ2hcPg==</entry>
@@ -651,6 +637,10 @@
         <entry>question_types</entry>
         <entry>ICan</entry>
         <entry>codehaus</entry>
+        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
+        <entry encoding="base64">XDxpbnRlcmNlcHRvcnNcPg==</entry>
+        <entry encoding="base64">XDx0YWdcPg==</entry>
+        <entry encoding="base64">XDxjYWxsRmFjdG9yeVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JhY2tlbmRBdHRlbXB0TWV0YWRhdGEvbWV0YWRhdGEvZw==</entry>
