@@ -116,6 +116,7 @@
       <file name="/usr/local/Cellar/go/1.8.1/libexec/src/sync/pool.go" timestamp="1500020296243">
         <mark key="'" line="95" column="16" />
       </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/tools/blackboard-gradle-plugin/src/main/groovy/blackboard/gradle/util/BranchName.groovy" timestamp="1500371608000" />
       <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/parser/parser.go" timestamp="1494492126391">
         <mark key="'" line="4062" column="1681" />
       </file>
