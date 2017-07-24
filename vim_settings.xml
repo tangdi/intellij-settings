@@ -5,12 +5,11 @@
       <mark key="G" line="57512" column="5" filename="$USER_HOME$/Go_projects/6.824/src/main/mrtmp.iiseq" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" timestamp="1500881891566">
-        <mark key="'" line="193" column="31" />
-        <mark key="[" line="49" column="45" />
-        <mark key="]" line="47" column="30" />
-        <mark key="." line="47" column="30" />
-        <mark key="^" line="47" column="23" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" timestamp="1500882702884">
+        <mark key="[" line="174" column="102" />
+        <mark key="]" line="174" column="102" />
+        <mark key="^" line="174" column="102" />
+        <mark key="." line="174" column="102" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/kvstore_txn.go" timestamp="1494685728886">
         <mark key="'" line="62" column="18" />
@@ -275,8 +274,12 @@
       <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/internal/connection/RealConnection.java" timestamp="1500880632382">
         <mark key="'" line="124" column="10" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/web/PushController.java" timestamp="1494483221175">
-        <mark key="'" line="129" column="6" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/web/PushController.java" timestamp="1500882541358">
+        <mark key="'" line="130" column="6" />
+        <mark key="[" line="48" column="37" />
+        <mark key="]" line="48" column="47" />
+        <mark key="^" line="48" column="47" />
+        <mark key="." line="48" column="47" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/impl/DashboardManagerImpl.java" timestamp="1499672855760">
         <mark key="'" line="87" column="11" />
@@ -498,12 +501,12 @@
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/AssignmentManagerImpl.java" timestamp="1498197885996">
         <mark key="'" line="258" column="51" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500877660954">
-        <mark key="'" line="498" column="62" />
-        <mark key="[" line="418" column="68" />
-        <mark key="]" line="418" column="68" />
-        <mark key="^" line="418" column="68" />
-        <mark key="." line="418" column="68" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500882675387">
+        <mark key="'" line="500" column="62" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="^" line="152" column="68" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/embed/etcd.go" timestamp="1494916645304">
         <mark key="'" line="102" column="47" />
@@ -664,20 +667,20 @@
       <jump line="182" column="31" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbiggU3RyaW5nW10gYXJncyApIHsKICAgIFN0cmluZyB1cmwgPSA7CiAgICBDbGllbnQgY2xpZW50ID0gIENsaWVudC5nZXRDbGllbnQoIHVybCApOwogICAgY2xpZW50LnNlbmROb3RpZmljYWl0b24oIERpc3RyaWJ1dGlvbk1lc3NhZ2UgKTsKCgogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text>addUser</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25uZWN0VGltZW91dFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCByZW1vdmVVc2VyKCBNYXA8U3RyaW5nLCBTdHJpbmc+IHBhcmFtcyApIHRocm93cyBJT0V4Y2VwdGlvbgogIHsKICAgIFJlZ2lzdHJhdGlvbkluZm8gcmVnaXN0cmF0aW9uSW5mbyA9IFJlZ2lzdHJhdGlvbk1hbmFnZXIuRmFjdG9yeS5nZXQoKS5nZXRSZWdpc3RyYXRpb25JbmZvKCk7CiAgICBpZiAoIHJlZ2lzdHJhdGlvbkluZm8gPT0gbnVsbCApCiAgICB7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICBpZiAoICFwYXJhbXMuY29udGFpbnNLZXkoICJyZWdpc3RyYXRpb25faWQiICkgKQogICAgewogICAgICBwYXJhbXMucHV0KCAicmVnaXN0cmF0aW9uX2lkIiwgcmVnaXN0cmF0aW9uSW5mby5nZXRSZWdpc3RyYXRpb25JZCgpICk7CiAgICB9CgogICAgaW50IHJlc3BvbnNlU3RhdHVzID0gc2VydmljZS5hZGRVc2VyKCBwYXJhbXMsIHJlZ2lzdHJhdGlvbkluZm8uZ2V0U2hhcmVkU2VjcmV0KCkgKS5leGVjdXRlKCkuY29kZSgpOwogIH0K</text>
+        <text encoding="base64">ICAgIENsaWVudC5nZXRDbGllbnQoQ2xpZW50LkRFVl9VUkwpLmFkZFVzZXIoIG1hcnNoYWxsUGFyYW1ldGVyRGF0YSggcmVxdWVzdC5nZXRQYXJhbWV0ZXJNYXAoKSApICk7CiAgICByZXR1cm4gTW9iaWxlUmVzcG9uc2VVdGlsLnNlbmRQbGFpblRleHQoICJvayIgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5DYWxlbmRhcjsK</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbiggU3RyaW5nW10gYXJncyApIHsKICAgIFN0cmluZyB1cmwgPSA7CiAgICBDbGllbnQgY2xpZW50ID0gIENsaWVudC5nZXRDbGllbnQoIHVybCApOwogICAgY2xpZW50LnNlbmROb3RpZmljYWl0b24oIERpc3RyaWJ1dGlvbk1lc3NhZ2UgKTsKCgogIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -685,28 +688,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ibGFja2JvYXJkLmJiYi51dGlsLlRpbWVzdGFtcE1hbmFnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIF9sb2dnZXIuZGVidWcoICJzZW5kaW5nIHhtbCBvdXQgIiArIG1lc3NhZ2VYbWwgKyAiIHRvIHVzZXJfaWQgPSAiICsgbWVzc2FnZS5nZXRUYXJnZXRVc2VycygpICk7CiAgICAgICAgICBpZiAoICFyZXNwb25zZS5lcXVhbHMoICJPSyIgKSApCiAgICAgICAgICB7CiAgICAgICAgICAgIFN0cmluZyBtc2cgPSAiR290IGVycm9yIHJlc3BvbnNlIGZyb20gTW9iaWxlIHNlcnZlcjogPCIgKyByZXNwb25zZSArICI+IjsKICAgICAgICAgICAgLy8gICAgICAgIHRocm93IG5ldyBEaXN0cmlidXRpb25FeGNlcHRpb24oIG1zZyApOwogICAgICAgICAgICBfbG9nZ2VyCiAgICAgICAgICAgICAgICAuaW5mbyggIlN3YWxsb3dpbmcgZXhjZXB0aW9ucyBpbiB0aGUgTW9iaWxlTm90aWZpY2F0aW9uRGlzdHJpYnV0b3JJbXBsLiBFcnJvciBtZXNzYWdlPTwiICsgbXNnICsgIj4iICk7CiAgICAgICAgICB9CgogICAgICAgICAgX2xvZ2dlci5kZWJ1ZyggInJlc3BvbnNlID0gICIgKyByZXNwb25zZSApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0U291cmNlQ29udGVudCgpCiAgICB7CiAgICAgIHJldHVybiBzb3VyY2VDb250ZW50OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNvdXJjZUNvbnRlbnQoIFN0cmluZyBzb3VyY2VDb250ZW50ICkKICAgIHsKICAgICAgdGhpcy5zb3VyY2VDb250ZW50ID0gc291cmNlQ29udGVudDsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyB1cmwgPSAiaHR0cHM6Ly9tbGNzLm1lZHUuY29tL2FwaS9wdXNoL3JlbW92ZV91c2VyIjsKICAgIHJldHVybiBjYWxsVXJsV2l0aFBhcmFtZXRlcnMoIHVybCwgbWFyc2hhbGxQYXJhbWV0ZXJEYXRhKCByZXF1ZXN0LmdldFBhcmFtZXRlck1hcCgpICkgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoICJzb3VyY2VfY29udGVudCIgKQogICAgcHJpdmF0ZSBTdHJpbmcgc291cmNlQ29udGVudDsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBjYWxsVXJsV2l0aFBhcmFtZXRlcnMoIHVybCwgbWFyc2hhbGxQYXJhbWV0ZXJEYXRhKCByZXF1ZXN0LmdldFBhcmFtZXRlck1hcCgpICkgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoICJ0aW1lc3RhbXAiICkKICAgIHByaXZhdGUgU3RyaW5nIHRpbWVzdGFtcDsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyB1cmwgPSAiaHR0cHM6Ly9tbGNzLm1lZHUuY29tL2FwaS9wdXNoL2FkZF91c2VyIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBPYmplY3QgTE9DSyA9IG5ldyBPYmplY3QoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBDbGllbnQgY2xpZW50Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50aW1lc3RhbXAgPSB0aW1lc3RhbXA7Cg==</text>
+        <text encoding="base64">ICAvL1RPRE8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIGNsaWVudC5zZW5kTm90aWZpY2FpdG9uKCAgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
