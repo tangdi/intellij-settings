@@ -5,12 +5,12 @@
       <mark key="G" line="57512" column="5" filename="$USER_HOME$/Go_projects/6.824/src/main/mrtmp.iiseq" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" timestamp="1500620943672">
-        <mark key="'" line="42" column="17" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-        <mark key="^" line="119" column="71" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" timestamp="1500877363179">
+        <mark key="'" line="41" column="17" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="118" column="71" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/kvstore_txn.go" timestamp="1494685728886">
         <mark key="'" line="62" column="18" />
@@ -58,7 +58,6 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/dao/gradebook/MobileStudentGradeBookRow.java" timestamp="1496198895091">
         <mark key="'" line="124" column="6" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/webapp/js/mobileAssessment.js" timestamp="1500362613756" />
       <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/stats/stats_test.go" timestamp="1499932040275">
         <mark key="'" line="680" column="11" />
       </file>
@@ -81,6 +80,12 @@
       <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" timestamp="1500455174115">
         <mark key="'" line="197" column="26" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1500351312972">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+        <mark key="^" line="2" column="50" />
+      </file>
       <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/blackboard.platform/bb-platform/9.1.201410-SNAPSHOT/250662b8eef72f64e2a19bbe6f173e281abf253c/bb-platform-9.1.201410-SNAPSHOT-sources.jar!/blackboard/persist/announcement/impl/AnnouncementDbMap.java" timestamp="1498792119929">
         <mark key="'" line="49" column="110" />
       </file>
@@ -96,7 +101,6 @@
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/kvstore_compaction.go" timestamp="1494840830278">
         <mark key="'" line="21" column="57" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/beyond/bbAS/web/MobileAssessmentController.java" timestamp="1500358969693" />
       <file name="$USER_HOME$/mlbb/build.xml" timestamp="1499763782311">
         <mark key="'" line="14" column="97" />
       </file>
@@ -121,7 +125,6 @@
       <file name="/usr/local/Cellar/go/1.8.1/libexec/src/sync/pool.go" timestamp="1500020296243">
         <mark key="'" line="95" column="16" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/tools/blackboard-gradle-plugin/src/main/groovy/blackboard/gradle/util/BranchName.groovy" timestamp="1500371608000" />
       <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/parser/parser.go" timestamp="1494492126391">
         <mark key="'" line="4062" column="1681" />
       </file>
@@ -213,11 +216,6 @@
       <file name="/usr/local/Cellar/go/1.8.1/libexec/src/net/http/client.go" timestamp="1494918008063">
         <mark key="'" line="116" column="10" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/jsp/mobile_assessment_create.jsp" timestamp="1500431229017">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-      </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/assessment/src/main/java/blackboard/webapps/assessment/ContentWrapper.java" timestamp="1499921920095">
         <mark key="'" line="57" column="34" />
       </file>
@@ -286,7 +284,6 @@
       <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/examples/route_guide/routeguide/route_guide.proto" timestamp="1499839597491">
         <mark key="'" line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/util/fromlearn/calendar/data/CalendarItem.java" timestamp="1500875359620" />
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/rafthttp/stream.go" timestamp="1495008635309">
         <mark key="'" line="159" column="32" />
       </file>
@@ -335,7 +332,6 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java" timestamp="1500457379463">
         <mark key="'" line="180" column="0" />
       </file>
-      <file name="$USER_HOME$/mlbb/lib/Utils.jar!/com/blackboard/bbb/util/HttpUtil.class" timestamp="1500453552489" />
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/discussionboard/src/main/java/blackboard/webapps/discussionboard/ext/DiscussionBoardStreamDataProvider.java" timestamp="1499828823646">
         <mark key="'" line="538" column="34" />
       </file>
@@ -396,18 +392,13 @@
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/ContentDetailContainer.java" timestamp="1498791430847">
         <mark key="'" line="260" column="76" />
       </file>
+      <file name="$USER_HOME$/Go_projects/6.824/src/main/mrtmp.iiseq" timestamp="1500876683957" />
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/RichContentImpl.java" timestamp="1497605801552">
         <mark key="'" line="422" column="39" />
         <mark key="[" line="1229" column="45" />
         <mark key="]" line="1229" column="48" />
         <mark key="^" line="1229" column="48" />
         <mark key="." line="1229" column="48" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1500351312972">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="50" />
-        <mark key="^" line="2" column="50" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/kataras/go-sessions/session.go" timestamp="1494493934277">
         <mark key="'" line="315" column="0" />
@@ -526,7 +517,6 @@
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseMapContainer.java" timestamp="1496717206080">
         <mark key="'" line="275" column="10" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/com/blackboard/registration/impl/RegistrationManagerImpl.java" timestamp="1500454301500" />
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/AttemptProxy.java" timestamp="1499915741070">
         <mark key="'" line="110" column="11" />
       </file>
@@ -665,7 +655,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJsYWNrYm9hcmQucGVyc2lzdC5jb3Vyc2UuQ291cnNlRGJMb2FkZXI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>params</text>
@@ -677,7 +667,7 @@
         <text encoding="base64">ICBwdWJsaWMgdm9pZCByZW1vdmVVc2VyKCBNYXA8U3RyaW5nLCBTdHJpbmc+IHBhcmFtcyApIHRocm93cyBJT0V4Y2VwdGlvbgogIHsKICAgIFJlZ2lzdHJhdGlvbkluZm8gcmVnaXN0cmF0aW9uSW5mbyA9IFJlZ2lzdHJhdGlvbk1hbmFnZXIuRmFjdG9yeS5nZXQoKS5nZXRSZWdpc3RyYXRpb25JbmZvKCk7CiAgICBpZiAoIHJlZ2lzdHJhdGlvbkluZm8gPT0gbnVsbCApCiAgICB7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICBpZiAoICFwYXJhbXMuY29udGFpbnNLZXkoICJyZWdpc3RyYXRpb25faWQiICkgKQogICAgewogICAgICBwYXJhbXMucHV0KCAicmVnaXN0cmF0aW9uX2lkIiwgcmVnaXN0cmF0aW9uSW5mby5nZXRSZWdpc3RyYXRpb25JZCgpICk7CiAgICB9CgogICAgaW50IHJlc3BvbnNlU3RhdHVzID0gc2VydmljZS5hZGRVc2VyKCBwYXJhbXMsIHJlZ2lzdHJhdGlvbkluZm8uZ2V0U2hhcmVkU2VjcmV0KCkgKS5leGVjdXRlKCkuY29kZSgpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJsYWNrYm9hcmQucGVyc2lzdC5jb3Vyc2UuQ291cnNlRGJMb2FkZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -685,28 +675,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCByZXNwb25zZVN0YXR1cyA9IHNlcnZpY2UuYWRkVXNlciggcGFyYW1zLCByZWdpc3RyYXRpb25JbmZvLmdldFNoYXJlZFNlY3JldCgpICkuZXhlY3V0ZSgpLmNvZGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICggIXBhcmFtcy5jb250YWluc0tleSggInJlZ2lzdHJhdGlvbl9pZCIgKSApCiAgICB7CiAgICAgIHBhcmFtcy5wdXQoICJyZWdpc3RyYXRpb25faWQiLCByZWdpc3RyYXRpb25JbmZvLmdldFJlZ2lzdHJhdGlvbklkKCkgKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGludCByZXNwb25zZVN0YXR1cyA9IHNlcnZpY2UuYWRkVXNlciggcGFyYW1zLCByZWdpc3RyYXRpb25JbmZvLmdldFNoYXJlZFNlY3JldCgpICkuZXhlY3V0ZSgpLmNvZGUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmICggIXBhcmFtcy5jb250YWluc0tleSggInJlZ2lzdHJhdGlvbl9pZCIgKSApCiAgICB7CiAgICAgIHBhcmFtcy5wdXQoICJyZWdpc3RyYXRpb25faWQiLCByZWdpc3RyYXRpb25JbmZvLmdldFJlZ2lzdHJhdGlvbklkKCkgKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbi5zZXRDb3Vyc2VJZCggY291cnNlSWQudG9FeHRlcm5hbFN0cmluZygpICk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbi5zZXRDb3Vyc2VJZCggY291cnNlSWQudG9FeHRlcm5hbFN0cmluZygpICk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbi5zZXRDb250ZW50SWQoIGNvbnRlbnRJZC5nZXRFeHRlcm5hbFN0cmluZygpICk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNpbXBsZU1lc3NhZ2UgbXNnID0gbWVzc2FnZS5nZXRNZXNzYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbi5zZXRDb250ZW50SWQoIGNvbnRlbnRJZC5nZXRFeHRlcm5hbFN0cmluZygpICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWNhCg==</text>
+        <text encoding="base64">ICAgIFNpbXBsZU1lc3NhZ2UgbXNnID0gbWVzc2FnZS5nZXRNZXNzYWdlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
