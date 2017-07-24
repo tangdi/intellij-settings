@@ -5,11 +5,11 @@
       <mark key="G" line="57512" column="5" filename="$USER_HOME$/Go_projects/6.824/src/main/mrtmp.iiseq" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" timestamp="1500882702884">
-        <mark key="[" line="174" column="102" />
-        <mark key="]" line="174" column="102" />
-        <mark key="^" line="174" column="102" />
-        <mark key="." line="174" column="102" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" timestamp="1500883543927">
+        <mark key="[" line="137" column="33" />
+        <mark key="]" line="137" column="33" />
+        <mark key="^" line="112" column="17" />
+        <mark key="." line="137" column="33" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/kvstore_txn.go" timestamp="1494685728886">
         <mark key="'" line="62" column="18" />
@@ -502,11 +502,11 @@
         <mark key="'" line="258" column="51" />
       </file>
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500882675387">
-        <mark key="'" line="500" column="62" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="^" line="152" column="68" />
-        <mark key="." line="153" column="0" />
+        <mark key="'" line="498" column="62" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="150" column="68" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/embed/etcd.go" timestamp="1494916645304">
         <mark key="'" line="102" column="47" />
@@ -667,8 +667,8 @@
       <jump line="182" column="31" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbiggU3RyaW5nW10gYXJncyApIHsKICAgIFN0cmluZyB1cmwgPSA7CiAgICBDbGllbnQgY2xpZW50ID0gIENsaWVudC5nZXRDbGllbnQoIHVybCApOwogICAgY2xpZW50LnNlbmROb3RpZmljYWl0b24oIERpc3RyaWJ1dGlvbk1lc3NhZ2UgKTsKCgogIH0K</text>
+      <register name="&quot;" type="4">
+        <text>addUser</text>
       </register>
       <register name="-" type="4">
         <text>addUser</text>
@@ -677,7 +677,7 @@
         <text encoding="base64">XDxjb25uZWN0VGltZW91dFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIENsaWVudC5nZXRDbGllbnQoQ2xpZW50LkRFVl9VUkwpLmFkZFVzZXIoIG1hcnNoYWxsUGFyYW1ldGVyRGF0YSggcmVxdWVzdC5nZXRQYXJhbWV0ZXJNYXAoKSApICk7CiAgICByZXR1cm4gTW9iaWxlUmVzcG9uc2VVdGlsLnNlbmRQbGFpblRleHQoICJvayIgKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZVN0YXR1cyA9PSBIdHRwU3RhdHVzLk9LLnZhbHVlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbiggU3RyaW5nW10gYXJncyApIHsKICAgIFN0cmluZyB1cmwgPSA7CiAgICBDbGllbnQgY2xpZW50ID0gIENsaWVudC5nZXRDbGllbnQoIHVybCApOwogICAgY2xpZW50LnNlbmROb3RpZmljYWl0b24oIERpc3RyaWJ1dGlvbk1lc3NhZ2UgKTsKCgogIH0K</text>
