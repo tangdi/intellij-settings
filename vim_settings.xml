@@ -5,12 +5,12 @@
       <mark key="G" line="57512" column="5" filename="$USER_HOME$/Go_projects/6.824/src/main/mrtmp.iiseq" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" timestamp="1500877363179">
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" timestamp="1500878495571">
         <mark key="'" line="41" column="17" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="118" column="71" />
+        <mark key="[" line="163" column="30" />
+        <mark key="]" line="39" column="84" />
+        <mark key="." line="39" column="84" />
+        <mark key="^" line="39" column="84" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/kvstore_txn.go" timestamp="1494685728886">
         <mark key="'" line="62" column="18" />
@@ -422,11 +422,11 @@
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/DashboardProxy.java" timestamp="1494837620122">
         <mark key="'" line="70" column="8" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/PNService.java" timestamp="1500620388838">
-        <mark key="[" line="61" column="33" />
-        <mark key="]" line="61" column="32" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/PNService.java" timestamp="1500877556638">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
         <mark key="^" line="29" column="76" />
-        <mark key="." line="61" column="32" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/telemetry/build.gradle" timestamp="1495160563360">
         <mark key="'" line="105" column="32" />
@@ -489,7 +489,8 @@
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/AssignmentManagerImpl.java" timestamp="1498197885996">
         <mark key="'" line="258" column="51" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500620121480">
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500877660954">
+        <mark key="'" line="498" column="62" />
         <mark key="[" line="418" column="68" />
         <mark key="]" line="418" column="68" />
         <mark key="^" line="418" column="68" />
@@ -552,9 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="16" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/transport/http2_server.go" />
-      <jump line="670" column="62" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/server.go" />
-      <jump line="676" column="29" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/server.go" />
       <jump line="684" column="37" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/server.go" />
       <jump line="750" column="19" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/server.go" />
       <jump line="488" column="16" filename="$USER_HOME$/Go_projects/src/github.com/golang/protobuf/proto/decode.go" />
@@ -652,22 +650,25 @@
       <jump line="228" column="54" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/7ca0efbeb87ca845b5d7a0ac9c21a4b7b95f7b28/guava-17.0-sources.jar!/com/google/common/collect/MapMaker.java" />
       <jump line="254" column="4" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java" />
       <jump line="132" column="30" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/blackboard.platform/bb-platform/9.1.201410-SNAPSHOT/e05e882d78314ccfd7df13b6c979c982635351bc/bb-platform-9.1.201410-SNAPSHOT-sources.jar!/blackboard/platform/nautilus/internal/NotificationDistributionInfo.java" />
+      <jump line="66" column="30" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" />
+      <jump line="84" column="11" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" />
+      <jump line="498" column="62" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGJsYWNrYm9hcmQucGVyc2lzdC5jb3Vyc2UuQ291cnNlRGJMb2FkZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5DYWxlbmRhcjsK</text>
       </register>
       <register name="-" type="4">
         <text>params</text>
       </register>
       <register name="/" type="4">
-        <text>sourcecontent</text>
+        <text encoding="base64">XDxsZWFyblZlcnNpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgdm9pZCByZW1vdmVVc2VyKCBNYXA8U3RyaW5nLCBTdHJpbmc+IHBhcmFtcyApIHRocm93cyBJT0V4Y2VwdGlvbgogIHsKICAgIFJlZ2lzdHJhdGlvbkluZm8gcmVnaXN0cmF0aW9uSW5mbyA9IFJlZ2lzdHJhdGlvbk1hbmFnZXIuRmFjdG9yeS5nZXQoKS5nZXRSZWdpc3RyYXRpb25JbmZvKCk7CiAgICBpZiAoIHJlZ2lzdHJhdGlvbkluZm8gPT0gbnVsbCApCiAgICB7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICBpZiAoICFwYXJhbXMuY29udGFpbnNLZXkoICJyZWdpc3RyYXRpb25faWQiICkgKQogICAgewogICAgICBwYXJhbXMucHV0KCAicmVnaXN0cmF0aW9uX2lkIiwgcmVnaXN0cmF0aW9uSW5mby5nZXRSZWdpc3RyYXRpb25JZCgpICk7CiAgICB9CgogICAgaW50IHJlc3BvbnNlU3RhdHVzID0gc2VydmljZS5hZGRVc2VyKCBwYXJhbXMsIHJlZ2lzdHJhdGlvbkluZm8uZ2V0U2hhcmVkU2VjcmV0KCkgKS5leGVjdXRlKCkuY29kZSgpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGJsYWNrYm9hcmQucGVyc2lzdC5jb3Vyc2UuQ291cnNlRGJMb2FkZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5DYWxlbmRhcjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -675,43 +676,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ibGFja2JvYXJkLmJiYi51dGlsLlRpbWVzdGFtcE1hbmFnZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCByZXNwb25zZVN0YXR1cyA9IHNlcnZpY2UuYWRkVXNlciggcGFyYW1zLCByZWdpc3RyYXRpb25JbmZvLmdldFNoYXJlZFNlY3JldCgpICkuZXhlY3V0ZSgpLmNvZGUoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0U291cmNlQ29udGVudCgpCiAgICB7CiAgICAgIHJldHVybiBzb3VyY2VDb250ZW50OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNvdXJjZUNvbnRlbnQoIFN0cmluZyBzb3VyY2VDb250ZW50ICkKICAgIHsKICAgICAgdGhpcy5zb3VyY2VDb250ZW50ID0gc291cmNlQ29udGVudDsKICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICggIXBhcmFtcy5jb250YWluc0tleSggInJlZ2lzdHJhdGlvbl9pZCIgKSApCiAgICB7CiAgICAgIHBhcmFtcy5wdXQoICJyZWdpc3RyYXRpb25faWQiLCByZWdpc3RyYXRpb25JbmZvLmdldFJlZ2lzdHJhdGlvbklkKCkgKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoICJzb3VyY2VfY29udGVudCIgKQogICAgcHJpdmF0ZSBTdHJpbmcgc291cmNlQ29udGVudDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoICJ0aW1lc3RhbXAiICkKICAgIHByaXZhdGUgU3RyaW5nIHRpbWVzdGFtcDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbi5zZXRDb3Vyc2VJZCggY291cnNlSWQudG9FeHRlcm5hbFN0cmluZygpICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvbi5zZXRDb250ZW50SWQoIGNvbnRlbnRJZC5nZXRFeHRlcm5hbFN0cmluZygpICk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy50aW1lc3RhbXAgPSB0aW1lc3RhbXA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNpbXBsZU1lc3NhZ2UgbXNnID0gbWVzc2FnZS5nZXRNZXNzYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sourcecontent</last-search>
+      <last-search encoding="base64">XDxsZWFyblZlcnNpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>sourcecontent</last-pattern>
+      <last-pattern encoding="base64">XDxsZWFyblZlcnNpb25cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRyQ2hcPg==</entry>
         <entry encoding="base64">XDx3YWl0Q2hcPg==</entry>
         <entry encoding="base64">XDxjaFw+</entry>
         <entry>LoadBalanceResponse</entry>
@@ -731,6 +731,7 @@
         <entry encoding="base64">XDxjYWxsRmFjdG9yeVw+</entry>
         <entry>concurrent</entry>
         <entry>sourcecontent</entry>
+        <entry encoding="base64">XDxsZWFyblZlcnNpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JhY2tlbmRBdHRlbXB0TWV0YWRhdGEvbWV0YWRhdGEvZw==</entry>
