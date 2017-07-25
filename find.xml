@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.gradle, *.pro" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.jaa</mask>
       <mask>*.m</mask>
@@ -30,13 +30,13 @@
       <mask>*.</mask>
       <mask>*j.</mask>
       <mask>*j</mask>
-      <mask>*</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
       <mask>*.gradle, *.pro</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
