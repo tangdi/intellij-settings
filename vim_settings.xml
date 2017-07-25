@@ -12,7 +12,7 @@
         <mark key="." line="55" column="84" />
         <mark key="^" line="55" column="84" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" timestamp="1500963157211">
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" timestamp="1500965003899">
         <mark key="'" line="354" column="25" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/kvstore_txn.go" timestamp="1494685728886">
@@ -399,7 +399,7 @@
         <mark key="^" line="3172" column="73" />
         <mark key="." line="3172" column="76" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/internal/DistributionSendNotificationTask.java" timestamp="1500963386923" />
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/internal/DistributionSendNotificationTask.java" timestamp="1500964986384" />
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/dao/impl/AssessmentDaoImpl.java" timestamp="1498633794065">
         <mark key="'" line="142" column="11" />
         <mark key="[" line="1565" column="74" />
@@ -530,7 +530,7 @@
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/AssignmentManagerImpl.java" timestamp="1498197885996">
         <mark key="'" line="258" column="51" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500963136339">
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500965490468">
         <mark key="'" line="498" column="62" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/embed/etcd.go" timestamp="1494916645304">
@@ -585,7 +585,7 @@
       <file name="$USER_HOME$/Go_projects/src/google.golang.org/grpc/clientconn.go" timestamp="1500272961743">
         <mark key="'" line="497" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1500953567857">
+      <file name="/fragment.java" timestamp="1500965004550">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/etcdserver/server.go" timestamp="1494918535480">
