@@ -86,6 +86,7 @@
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/kvstore_compaction.go" timestamp="1494840830278">
         <mark key="'" line="21" column="57" />
       </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/persist/content/impl/ContentStatusDbLoaderImpl.java" timestamp="1500890552249" />
       <file name="$USER_HOME$/mlbb/build.xml" timestamp="1499763782311">
         <mark key="'" line="14" column="97" />
       </file>
@@ -323,7 +324,6 @@
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/ContentDetailContainer.java" timestamp="1498791430847">
         <mark key="'" line="260" column="76" />
       </file>
-      <file name="$USER_HOME$/Go_projects/6.824/src/main/mrtmp.iiseq" timestamp="1500876683957" />
       <file name="$USER_HOME$/Go_projects/src/github.com/kataras/go-sessions/session.go" timestamp="1494493934277">
         <mark key="'" line="315" column="0" />
       </file>
@@ -378,7 +378,6 @@
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/raft/node.go" timestamp="1494997866321">
         <mark key="'" line="293" column="32" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/projects/webapis/ui/src/main/java/blackboard/platform/ui/struts/dynamictree/BaseDynamicTreeNodeGeneratorAction.java" timestamp="1500888179426" />
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/WEB-INF/bundles/bb-manifest-de_DE.properties" timestamp="1498636901732">
         <mark key="'" line="22" column="23" />
       </file>
