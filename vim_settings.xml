@@ -12,6 +12,9 @@
         <mark key="." line="55" column="84" />
         <mark key="^" line="55" column="84" />
       </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" timestamp="1500963157211">
+        <mark key="'" line="354" column="25" />
+      </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/kvstore_txn.go" timestamp="1494685728886">
         <mark key="'" line="62" column="18" />
       </file>
@@ -95,6 +98,9 @@
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseDetailContainer.java" timestamp="1498553183275">
         <mark key="'" line="64" column="9" />
       </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/persist/impl/mapping/AbstractDbObjectMap.java" timestamp="1500963572960">
+        <mark key="'" line="79" column="1" />
+      </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/beyond/bbAS/web/PushController.java" timestamp="1500951308319">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="97" column="4" />
@@ -102,8 +108,8 @@
       <file name="$USER_HOME$/Go_projects/src/github.com/pingcap/tidb/parser/misc.go" timestamp="1494400311213">
         <mark key="'" line="93" column="18" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/persist/impl/mapping/MappingUtils.java" timestamp="1500949491755">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/persist/impl/mapping/MappingUtils.java" timestamp="1500963540801">
+        <mark key="'" line="113" column="0" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/mvcc/kvstore_compaction.go" timestamp="1494840830278">
         <mark key="'" line="21" column="57" />
@@ -131,6 +137,7 @@
       <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" timestamp="1500455574693">
         <mark key="'" line="181" column="11" />
       </file>
+      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/blackboard.platform/bb-platform/9.1.201410-SNAPSHOT/e05e882d78314ccfd7df13b6c979c982635351bc/bb-platform-9.1.201410-SNAPSHOT-sources.jar!/blackboard/platform/nautilus/service/internal/DistributionSendNotificationTask.java" timestamp="1500963944544" />
       <file name="/usr/local/Cellar/go/1.8.1/libexec/src/sync/pool.go" timestamp="1500020296243">
         <mark key="'" line="95" column="16" />
       </file>
@@ -290,12 +297,12 @@
       <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/internal/connection/RealConnection.java" timestamp="1500880632382">
         <mark key="'" line="124" column="10" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/web/PushController.java" timestamp="1500951369778">
-        <mark key="'" line="131" column="6" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="58" column="3" />
-        <mark key="^" line="58" column="3" />
-        <mark key="." line="58" column="3" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/web/PushController.java" timestamp="1500963993543">
+        <mark key="'" line="132" column="6" />
+        <mark key="[" line="56" column="13" />
+        <mark key="]" line="56" column="13" />
+        <mark key="^" line="59" column="52" />
+        <mark key="." line="56" column="13" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/impl/DashboardManagerImpl.java" timestamp="1499672855760">
         <mark key="'" line="87" column="11" />
@@ -392,6 +399,7 @@
         <mark key="^" line="3172" column="73" />
         <mark key="." line="3172" column="76" />
       </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/internal/DistributionSendNotificationTask.java" timestamp="1500963386923" />
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/dao/impl/AssessmentDaoImpl.java" timestamp="1498633794065">
         <mark key="'" line="142" column="11" />
         <mark key="[" line="1565" column="74" />
@@ -522,7 +530,7 @@
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/AssignmentManagerImpl.java" timestamp="1498197885996">
         <mark key="'" line="258" column="51" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500948884150">
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500963136339">
         <mark key="'" line="498" column="62" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/embed/etcd.go" timestamp="1494916645304">
@@ -585,11 +593,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="386" column="19" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/balancer.go" />
-      <jump line="152" column="8" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/balancer.go" />
-      <jump line="254" column="26" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/balancer.go" />
-      <jump line="255" column="25" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/balancer.go" />
-      <jump line="256" column="19" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/balancer.go" />
       <jump line="317" column="22" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/balancer.go" />
       <jump line="360" column="32" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/balancer.go" />
       <jump line="361" column="44" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/balancer.go" />
@@ -685,16 +688,21 @@
       <jump line="521" column="19" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
       <jump line="79" column="4" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" />
       <jump line="77" column="25" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" />
+      <jump line="265" column="20" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" />
+      <jump line="354" column="25" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/persist/impl/mapping/MappingUtils.java" />
+      <jump line="55" column="10" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/persist/impl/mapping/AbstractDbObjectMap.java" />
+      <jump line="79" column="1" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/persist/impl/mapping/AbstractDbObjectMap.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/job/deletejob</text>
+        <text>O</text>
       </register>
       <register name="-" type="4">
-        <text>/job/deletejob</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodHRwQ2xpZW50XD4=</text>
+        <text encoding="base64">XDxwb3N0Tm90aWZpY2F0aW9uc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHJvZml0Mi5SZXNwb25zZTxSZXNwb25zZUJvZHk+IHJlc3BvbnNlID0gc2VydmljZS5yZW1vdmVVc2VyKCBwYXJhbXMsIHJlZ2lzdHJhdGlvbkluZm8uZ2V0U2hhcmVkU2VjcmV0KCkgKS5leGVjdXRlKCk7CiAgICByZXR1cm4gcmVzcG9uc2UuY29kZSgpID09IEh0dHBTdGF0dXMuT0sudmFsdWUoKTsK</text>
@@ -736,15 +744,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxodHRwQ2xpZW50XD4=</last-search>
+      <last-search encoding="base64">XDxwb3N0Tm90aWZpY2F0aW9uc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodHRwQ2xpZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwb3N0Tm90aWZpY2F0aW9uc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFpbGluZ1w+</entry>
         <entry>add-questio</entry>
         <entry>add_question</entry>
         <entry encoding="base64">XDx0eXBlX2RldGFpbFw+</entry>
@@ -764,6 +771,7 @@
         <entry encoding="base64">XDxleHBhbmRBbGxcPg==</entry>
         <entry>portal</entry>
         <entry encoding="base64">XDxodHRwQ2xpZW50XD4=</entry>
+        <entry encoding="base64">XDxwb3N0Tm90aWZpY2F0aW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JhY2tlbmRBdHRlbXB0TWV0YWRhdGEvbWV0YWRhdGEvZw==</entry>
