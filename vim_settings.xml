@@ -12,9 +12,6 @@
         <mark key="." line="166" column="36" />
         <mark key="^" line="166" column="36" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" timestamp="1500971671901">
-        <mark key="'" line="354" column="25" />
-      </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500971680292">
         <mark key="[" line="170" column="3" />
         <mark key="]" line="171" column="1" />
@@ -27,20 +24,10 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/beyond/bbAS/web/PushController.java" timestamp="1500970705043">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
       <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/blackboard.platform/bb-platform/9.1.201410-SNAPSHOT/e05e882d78314ccfd7df13b6c979c982635351bc/bb-platform-9.1.201410-SNAPSHOT-sources.jar!/blackboard/platform/nautilus/service/impl/DiscoverableModuleFactory.java" timestamp="1500967716628" />
       <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/persist/content/impl/ContentStatusDbLoaderImpl.java" timestamp="1500890552249" />
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/beyond/bbAS/web/clicker/AssessmentController.java" timestamp="1500967586459" />
       <file name="$USER_HOME$/mlbb/build.xml" timestamp="1500971235048">
         <mark key="'" line="14" column="97" />
-      </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/tools/blackboard-gradle-plugin/src/main/groovy/blackboard/gradle/tasks/DeployB2Task.groovy" timestamp="1500971069359" />
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/webapp/WEB-INF/config/struts/struts-config.xml" timestamp="1500887801822">
-        <mark key="'" line="2500" column="63" />
       </file>
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1500011050168">
         <mark key="[" line="11" column="27" />
@@ -48,7 +35,6 @@
         <mark key="." line="11" column="73" />
         <mark key="^" line="11" column="73" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/base/base-system/tooldefs/install/CoreClientInstall/tool.xml" timestamp="1500949244944" />
       <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/blackboard.platform/bb-platform/9.1.201410-SNAPSHOT/e05e882d78314ccfd7df13b6c979c982635351bc/bb-platform-9.1.201410-SNAPSHOT-sources.jar!/blackboard/platform/nautilus/service/internal/DistributionSendNotificationTask.java" timestamp="1500963944544" />
       <file name="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/play.go" timestamp="1500349575232">
         <mark key="[" line="3" column="25" />
@@ -56,6 +42,62 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/bb-manifest.xml" timestamp="1500971776032">
+        <mark key="]" line="16" column="78" />
+        <mark key="." line="16" column="75" />
+        <mark key="^" line="16" column="75" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/internal/DistributionSendNotificationTask.java" timestamp="1500964986384" />
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/build.gradle" timestamp="1500970654818">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" timestamp="1501039484836">
+        <mark key="[" line="1225" column="0" />
+        <mark key="]" line="1226" column="63" />
+        <mark key="^" line="1222" column="105" />
+        <mark key="." line="1225" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1500971037215">
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/main/play.go" timestamp="1500349478931">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DiscoverableModuleFactoryImpl.java" timestamp="1500967791204">
+        <mark key="'" line="59" column="51" />
+      </file>
+      <file name="/fragment.java" timestamp="1501036849144">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" timestamp="1500971671901">
+        <mark key="'" line="354" column="25" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" timestamp="1501039718733">
+        <mark key="[" line="1142" column="63" />
+        <mark key="]" line="1143" column="11" />
+        <mark key="." line="1143" column="11" />
+        <mark key="^" line="1143" column="11" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/beyond/bbAS/web/PushController.java" timestamp="1500970705043">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/beyond/bbAS/web/clicker/AssessmentController.java" timestamp="1500967586459" />
+      <file name="$USER_HOME$/learn_source/learn/workspace/tools/blackboard-gradle-plugin/src/main/groovy/blackboard/gradle/tasks/DeployB2Task.groovy" timestamp="1500971069359" />
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/webapp/WEB-INF/config/struts/struts-config.xml" timestamp="1500887801822">
+        <mark key="'" line="2500" column="63" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/base/base-system/tooldefs/install/CoreClientInstall/tool.xml" timestamp="1500949244944" />
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/WEB-INF/bb-manifest.xml" timestamp="1500971778819">
         <mark key="'" line="18" column="40" />
         <mark key="[" line="178" column="0" />
@@ -64,36 +106,25 @@
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/build/developer/build-simple.xml" timestamp="1500971004629" />
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/web/PushController.java" timestamp="1500970698689">
-        <mark key="'" line="132" column="6" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="61" column="51" />
-        <mark key="^" line="59" column="52" />
-        <mark key="." line="56" column="13" />
+        <mark key="'" line="129" column="6" />
+        <mark key="]" line="13" column="51" />
+        <mark key="^" line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/pn/Client.java" timestamp="1501037237640">
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/pn/Client.java" timestamp="1501039006377">
         <mark key="[" line="70" column="67" />
         <mark key="]" line="70" column="68" />
         <mark key="^" line="70" column="68" />
         <mark key="." line="70" column="68" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/bb-manifest.xml" timestamp="1500971776032">
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="182" column="78" />
-        <mark key="." line="182" column="75" />
-        <mark key="^" line="182" column="75" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/MapItemBean.java" timestamp="1501039360178">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/web/ReverseHeartbeatController.java" timestamp="1501036092528" />
-      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/internal/DistributionSendNotificationTask.java" timestamp="1500964986384" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/web/ReverseHeartbeatController.java" timestamp="1501039302362" />
       <file name="$USER_HOME$/mlbb/build.gradle" timestamp="1500970629916">
-        <mark key="'" line="72" column="8" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="164" column="59" />
+        <mark key="[" line="10" column="0" />
         <mark key="." line="10" column="18" />
-      </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/build.gradle" timestamp="1500970654818">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/DiscoverableModuleFactory.java" timestamp="1500969748792" />
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/ICanHaz.js" timestamp="1500362076163">
@@ -108,37 +139,17 @@
         <mark key="^" line="22" column="66" />
         <mark key="." line="22" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500971037215">
-        <mark key="'" line="0" column="12" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/pn/PNService.java" timestamp="1500972115986">
         <mark key="[" line="65" column="24" />
         <mark key="]" line="65" column="24" />
         <mark key="." line="65" column="24" />
         <mark key="^" line="57" column="23" />
       </file>
-      <file name="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/main/play.go" timestamp="1500349478931">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-      </file>
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500971244962">
-        <mark key="'" line="498" column="62" />
-        <mark key="[" line="425" column="0" />
-        <mark key="]" line="467" column="2" />
+        <mark key="'" line="492" column="62" />
+        <mark key="]" line="461" column="2" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/cx-extension-ce4/build.gradle" timestamp="1500969160741" />
-      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DiscoverableModuleFactoryImpl.java" timestamp="1500967791204">
-        <mark key="'" line="59" column="51" />
-      </file>
-      <file name="/fragment.java" timestamp="1501036849144">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="410" column="0" filename="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/router.go" />
@@ -243,11 +254,11 @@
       <jump line="18" column="40" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/WEB-INF/bb-manifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>api</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBuZXdNSUIuc2V0QXZhaWxhYmxlU3RhcnREYXRlKCBjb250ZW50LmdldFN0YXJ0RGF0ZSgpICk7CiAgICAgICAgICAgICAgbmV3TUlCLnNldEF2YWlsYWJsZUVuZERhdGUoIGNvbnRlbnQuZ2V0RW5kRGF0ZSgpICk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>api</text>
+        <text>mi.isAvailable()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9cPg==</text>
@@ -256,7 +267,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPCEtLSBmb3IgT2tIdHRwQ2xpZW50LS0+CiAgICAgICAgICAgIDxwZXJtaXNzaW9uIHR5cGU9ImphdmEubmV0Lk5ldFBlcm1pc3Npb24iIG5hbWU9ImdldFByb3h5U2VsZWN0b3IiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJldHJvZml0Mi5SZXRyb2ZpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBuZXdNSUIuc2V0QXZhaWxhYmxlU3RhcnREYXRlKCBjb250ZW50LmdldFN0YXJ0RGF0ZSgpICk7CiAgICAgICAgICAgICAgbmV3TUlCLnNldEF2YWlsYWJsZUVuZERhdGUoIGNvbnRlbnQuZ2V0RW5kRGF0ZSgpICk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -264,28 +275,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9raW8uQnVmZmVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3TUlCLnNldEF2YWlsYWJsZVN0YXJ0RGF0ZSggY29udGVudC5nZXRTdGFydERhdGUoKSApOwogICAgICAgICAgICBuZXdNSUIuc2V0QXZhaWxhYmxlRW5kRGF0ZSggY29udGVudC5nZXRFbmREYXRlKCkgKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9raHR0cDMuKjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3TUlCLnNldEF2YWlsYWJsZVN0YXJ0RGF0ZSggY29udGVudC5nZXRTdGFydERhdGUoKSApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ki5ncmFkbGUsICoucHJvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBuZXdNSUIuc2V0QXZhaWxhYmxlU3RhcnREYXRlKCBjb250ZW50LmdldFN0YXJ0RGF0ZSgpICk7CiAgICAgICAgICAgICAgbmV3TUlCLnNldEF2YWlsYWJsZUVuZERhdGUoIGNvbnRlbnQuZ2V0RW5kRGF0ZSgpICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyB1cmwgPSAiaHR0cHM6Ly9tbGNzLm1lZHUuY29tL2FwaS9wdXNoL2FkZF91c2VyIjsKICAgIHJldHVybiBjYWxsVXJsV2l0aFBhcmFtZXRlcnMoIHVybCwgbWFyc2hhbGxQYXJhbWV0ZXJEYXRhKCByZXF1ZXN0LmdldFBhcmFtZXRlck1hcCgpICkgKTsK</text>
+        <text encoding="base64">ICBwcml2YQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjYWxsVXJsV2l0aFBhcmFtZXRlcnMoIHVybCwgbWFyc2hhbGxQYXJhbWV0ZXJEYXRhKCByZXF1ZXN0LmdldFBhcmFtZXRlck1hcCgpICkgKTsK</text>
+        <text encoding="base64">aW1wb3J0IHJldHJvZml0Mi5SZXRyb2ZpdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyB1cmwgPSAiaHR0cHM6Ly9tbGNzLm1lZHUuY29tL2FwaS9wdXNoL3JlbW92ZV91c2VyIjsK</text>
+        <text encoding="base64">aW1wb3J0IG9raW8uQnVmZmVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBQTlNlcnZpY2VwCg==</text>
+        <text encoding="base64">aW1wb3J0IG9raHR0cDMuKjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBDbGllbnQK</text>
+        <text encoding="base64">Ki5ncmFkbGUsICoucHJvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
