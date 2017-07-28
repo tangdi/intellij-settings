@@ -69,7 +69,6 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/group-mgmt/src/main/java/blackboard/groupspace/groupmgmt/GroupInventoryListAction.java" timestamp="1501127262097" />
       <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/bb-manifest.xml" timestamp="1501135384839">
         <mark key="[" line="16" column="55" />
         <mark key="]" line="16" column="56" />
@@ -94,8 +93,6 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/blackboard.platform/bb-platform/9.1.201410-SNAPSHOT/e05e882d78314ccfd7df13b6c979c982635351bc/bb-platform-9.1.201410-SNAPSHOT-sources.jar!/blackboard/persist/course/impl/CourseMembershipDAO.java" timestamp="1501125539705" />
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/util/MobileAbilitiesUtil.java" timestamp="1501134769839" />
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/pn/PNService.java" timestamp="1500972115986">
         <mark key="[" line="65" column="24" />
         <mark key="]" line="65" column="24" />
@@ -114,7 +111,6 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/webapp/WEB-INF/config/struts/struts-config.xml" timestamp="1500887801822">
         <mark key="'" line="2500" column="63" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/base/base-config/internal/sql/coursemembership/coursemembership.sql" timestamp="1501126580963" />
       <file name="$USER_HOME$/mlbb/build.gradle" timestamp="1501135371945">
         <mark key="'" line="164" column="0" />
       </file>
@@ -124,16 +120,15 @@
         <mark key="." line="629" column="35" />
         <mark key="^" line="629" column="35" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/build.gradle" timestamp="1500970654818">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/build.gradle" timestamp="1501207750978">
+        <mark key="'" line="8" column="27" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/blackboard.platform/bb-platform/9.1.201410-SNAPSHOT/e05e882d78314ccfd7df13b6c979c982635351bc/bb-platform-9.1.201410-SNAPSHOT-sources.jar!/blackboard/persist/course/impl/CourseMembershipDbLoaderImpl.java" timestamp="1501134563481" />
       <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DiscoverableModuleFactoryImpl.java" timestamp="1500967791204">
         <mark key="'" line="59" column="51" />
       </file>
-      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/blackboard.platform/bb-platform/9.1.201410-SNAPSHOT/e05e882d78314ccfd7df13b6c979c982635351bc/bb-platform-9.1.201410-SNAPSHOT-sources.jar!/blackboard/data/course/CourseMembershipDef.java" timestamp="1501125578669" />
       <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/data/course/CourseMembership.java" timestamp="1501125937459">
         <mark key="'" line="585" column="2" />
       </file>
@@ -146,7 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="424" column="34" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/mobileAssessment.js" />
       <jump line="429" column="24" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/mobileAssessment.js" />
       <jump line="107" column="29" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/WEB-INF/jsp/mobile_assessment_create.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/mlbb/src/main/webapp/js/ICanHaz.js" />
@@ -246,22 +240,45 @@
       <jump line="579" column="17" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
       <jump line="581" column="29" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
       <jump line="164" column="0" filename="$USER_HOME$/mlbb/build.gradle" />
+      <jump line="8" column="27" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>blackboard.platform:bb-platform
+blackboard.platform:bb-bbxythos
+blackboard.platform:bb-taglibs
+blackboard.platform:bb-qti
+blackboard.platform:content-model-api
+blackboard.plugin:assessment-api
+blackboard.plugin:discussionboard-api</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:$platf</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlSWRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBmb3IgT2tIdHRwQ2xpZW50LS0+CiAgICAgICAgICAgIDxwZXJtaXNzaW9uIHR5cGU9ImphdmEubmV0Lk5ldFBlcm1pc3Npb24iIG5hbWU9ImdldFByb3h5U2VsZWN0b3IiLz4K</text>
+      <register name="0" type="8">
+        <text>blackboard.platform:bb-platform:$platformVer
+blackboard.platform:bb-bbxythos:$platformVer
+blackboard.platform:bb-taglibs:$platformVers
+blackboard.platform:bb-qti:$platformVersion&quot;
+blackboard.platform:content-model-api:$platf
+blackboard.plugin:assessment-api:$platformVe
+blackboard.plugin:discussionboard-api:$platf
+blackboard.plugin:rubric-api:$platformVersio
+blackboard.plugin:goal-api:$platformVersion&quot;
+blackboard.plugin:assignment-api:$platformVe
+blackboard.plugin:crocodoc-registration-api:</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFVzZXJGb3J1bVNldHRpbmdzLkZvcnVtUm9sZSByb2xlID0gc2VjdXJpdHlVdGlsLmdldENvbnNvbGlkYXRlZFJvbGUoKTsK</text>
+      <register name="1" type="4">
+        <text>blackboard.platform:bb-platform
+blackboard.platform:bb-bbxythos
+blackboard.platform:bb-taglibs
+blackboard.platform:bb-qti
+blackboard.platform:content-model-api
+blackboard.plugin:assessment-api
+blackboard.plugin:discussionboard-api</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -269,28 +286,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNlY3VyaXR5VXRpbCBzZWN1cml0eVV0aWwgPSBuZXcgU2VjdXJpdHlVdGlsKCBjb250ZXh0LCBmb3J1bSApOwo=</text>
+        <text encoding="base64">ICAgIFVzZXJGb3J1bVNldHRpbmdzLkZvcnVtUm9sZSByb2xlID0gc2VjdXJpdHlVdGlsLmdldENvbnNvbGlkYXRlZFJvbGUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBuZXdNSUIuc2V0QXZhaWxhYmxlU3RhcnREYXRlKCBjb250ZW50LmdldFN0YXJ0RGF0ZSgpICk7CiAgICAgICAgICAgICAgbmV3TUlCLnNldEF2YWlsYWJsZUVuZERhdGUoIGNvbnRlbnQuZ2V0RW5kRGF0ZSgpICk7Cg==</text>
+        <text encoding="base64">ICAgIFNlY3VyaXR5VXRpbCBzZWN1cml0eVV0aWwgPSBuZXcgU2VjdXJpdHlVdGlsKCBjb250ZXh0LCBmb3J1bSApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3TUlCLnNldEF2YWlsYWJsZVN0YXJ0RGF0ZSggY29udGVudC5nZXRTdGFydERhdGUoKSApOwogICAgICAgICAgICBuZXdNSUIuc2V0QXZhaWxhYmxlRW5kRGF0ZSggY29udGVudC5nZXRFbmREYXRlKCkgKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3TUlCLnNldEF2YWlsYWJsZVN0YXJ0RGF0ZSggY29udGVudC5nZXRTdGFydERhdGUoKSApOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBuZXdNSUIuc2V0QXZhaWxhYmxlU3RhcnREYXRlKCBjb250ZW50LmdldFN0YXJ0RGF0ZSgpICk7CiAgICAgICAgICAgICAgbmV3TUlCLnNldEF2YWlsYWJsZUVuZERhdGUoIGNvbnRlbnQuZ2V0RW5kRGF0ZSgpICk7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3TUlCLnNldEF2YWlsYWJsZVN0YXJ0RGF0ZSggY29udGVudC5nZXRTdGFydERhdGUoKSApOwogICAgICAgICAgICBuZXdNSUIuc2V0QXZhaWxhYmxlRW5kRGF0ZSggY29udGVudC5nZXRFbmREYXRlKCkgKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3TUlCLnNldEF2YWlsYWJsZVN0YXJ0RGF0ZSggY29udGVudC5nZXRTdGFydERhdGUoKSApOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBuZXdNSUIuc2V0QXZhaWxhYmxlU3RhcnREYXRlKCBjb250ZW50LmdldFN0YXJ0RGF0ZSgpICk7CiAgICAgICAgICAgICAgbmV3TUlCLnNldEF2YWlsYWJsZUVuZERhdGUoIGNvbnRlbnQuZ2V0RW5kRGF0ZSgpICk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJldHJvZml0Mi5SZXRyb2ZpdDsK</text>
+        <text encoding="base64">ICBwcml2YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9raW8uQnVmZmVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IHJldHJvZml0Mi5SZXRyb2ZpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
