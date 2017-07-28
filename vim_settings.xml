@@ -100,7 +100,7 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/webapp/WEB-INF/config/struts/struts-config.xml" timestamp="1500887801822">
         <mark key="'" line="2500" column="63" />
       </file>
-      <file name="$USER_HOME$/mlbb/build.gradle" timestamp="1501135371945">
+      <file name="$USER_HOME$/mlbb/build.gradle" timestamp="1501222530493">
         <mark key="'" line="164" column="0" />
       </file>
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501135343244">
@@ -233,32 +233,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>blackboard.platform:bb-platform
-blackboard.platform:bb-bbxythos
-blackboard.platform:bb-taglibs
-blackboard.platform:bb-qti
-blackboard.platform:content-model-api
-blackboard.plugin:assessment-api
-blackboard.plugin:discussionboard-api</text>
+        <text>snapshots</text>
       </register>
       <register name="-" type="4">
-        <text>:$platf</text>
+        <text>snapshots</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlSWRcPg==</text>
       </register>
-      <register name="0" type="8">
-        <text>blackboard.platform:bb-platform:$platformVer
-blackboard.platform:bb-bbxythos:$platformVer
-blackboard.platform:bb-taglibs:$platformVers
-blackboard.platform:bb-qti:$platformVersion&quot;
-blackboard.platform:content-model-api:$platf
-blackboard.plugin:assessment-api:$platformVe
-blackboard.plugin:discussionboard-api:$platf
-blackboard.plugin:rubric-api:$platformVersio
-blackboard.plugin:goal-api:$platformVersion&quot;
-blackboard.plugin:assignment-api:$platformVe
-blackboard.plugin:crocodoc-registration-api:</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1hdmVuIHsKICAgICAgICB1cmwgJ2h0dHA6Ly9tYXZlbi5iYnBkLmlvL2NvbnRlbnQvcmVwb3NpdG9yaWVzL3NuYXBzaG90cy8nCiAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
         <text>blackboard.platform:bb-platform
