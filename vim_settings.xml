@@ -68,8 +68,11 @@
       <file name="$USER_HOME$/learn_source/learn/Jenkinsfile" timestamp="1501061147822">
         <mark key="'" line="1331" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/cloud_native_go/Dockerfile" timestamp="1501290549994">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/cloud_native_go/Dockerfile" timestamp="1501290848110">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/bb-manifest.xml" timestamp="1501135384839">
         <mark key="[" line="16" column="55" />
@@ -262,11 +265,11 @@
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/cloud_native_go/api/book_test.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSIuL2FwaSIK</text>
+      <register name="&quot;" type="4">
+        <text>/go/src/github.com/ditang/cloud_native_go</text>
       </register>
       <register name="-" type="4">
-        <text>BookF</text>
+        <text>/go/src/github.com/ditang/cloud_native_go</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlSWRcPg==</text>
