@@ -19,6 +19,12 @@
         <mark key="." line="3" column="24" />
       </file>
       <file name="$USER_HOME$/Go_projects/6.824/src/main/mrtmp.iiseq" timestamp="1501224701656" />
+      <file name="$USER_HOME$/Go_projects/src/github.com/tangdi/cloud_native_go/Dockerfile" timestamp="1501294703507">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" timestamp="1500971671901">
         <mark key="'" line="354" column="25" />
       </file>
@@ -67,6 +73,12 @@
       </file>
       <file name="$USER_HOME$/learn_source/learn/Jenkinsfile" timestamp="1501061147822">
         <mark key="'" line="1331" column="4" />
+      </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/tangdi/cloud_native_go/microservices.go" timestamp="1501294548784">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="41" />
+        <mark key="." line="8" column="41" />
+        <mark key="^" line="8" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/cloud_native_go/Dockerfile" timestamp="1501294234333">
         <mark key="'" line="10" column="14" />
@@ -267,10 +279,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlSWRcPg==</text>
