@@ -18,6 +18,12 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/Go_projects/src/github.com/tangdi/cloud_native_go/k8s-pod.yml" timestamp="1501314473362">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+      </file>
       <file name="$USER_HOME$/Go_projects/6.824/src/main/mrtmp.iiseq" timestamp="1501224701656" />
       <file name="$USER_HOME$/Go_projects/src/github.com/tangdi/cloud_native_go/Dockerfile" timestamp="1501294703507">
         <mark key="[" line="14" column="7" />
