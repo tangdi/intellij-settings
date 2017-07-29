@@ -68,11 +68,12 @@
       <file name="$USER_HOME$/learn_source/learn/Jenkinsfile" timestamp="1501061147822">
         <mark key="'" line="1331" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/cloud_native_go/Dockerfile" timestamp="1501290848110">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Desktop/cloud_native_go/Dockerfile" timestamp="1501294234333">
+        <mark key="'" line="10" column="14" />
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/bb-manifest.xml" timestamp="1501135384839">
         <mark key="[" line="16" column="55" />
@@ -163,8 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/mlbb/src/main/webapp/js/ICanHaz.js" />
-      <jump line="103" column="8" filename="$USER_HOME$/Go_projects/src/google.golang.org/grpc/examples/route_guide/server/server.go" />
       <jump line="1" column="14" filename="$USER_HOME$/mlbb/build.gradle" />
       <jump line="198" column="37" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
       <jump line="36" column="6" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.0/7bcb615d523d88acbc121c92aafeba8d37a83792/jackson-annotations-2.6.0-sources.jar!/com/fasterxml/jackson/annotation/JsonInclude.java" />
@@ -263,13 +262,15 @@
       <jump line="8" column="27" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/build.gradle" />
       <jump line="211" column="26" filename="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/etcdserver/raft.go" />
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/cloud_native_go/api/book_test.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/cloud_native_go/Dockerfile" />
+      <jump line="10" column="14" filename="$USER_HOME$/Desktop/cloud_native_go/Dockerfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/go/src/github.com/ditang/cloud_native_go</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>/go/src/github.com/ditang/cloud_native_go</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlSWRcPg==</text>
