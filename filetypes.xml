@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="ElasticJobConfig.json" type="PLAIN_TEXT" />
       <mapping pattern="routes" type="PLAIN_TEXT" />
       <mapping pattern="grading_b2_9490" type="PLAIN_TEXT" />
