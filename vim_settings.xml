@@ -93,12 +93,12 @@
       <file name="$USER_HOME$/mlbb/build.gradle" timestamp="1501222530493">
         <mark key="'" line="164" column="0" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501729114494">
-        <mark key="'" line="415" column="88" />
-        <mark key="[" line="629" column="24" />
-        <mark key="]" line="629" column="35" />
-        <mark key="." line="629" column="35" />
-        <mark key="^" line="629" column="35" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501730295747">
+        <mark key="'" line="415" column="68" />
+        <mark key="[" line="434" column="34" />
+        <mark key="]" line="434" column="33" />
+        <mark key="." line="434" column="33" />
+        <mark key="^" line="434" column="33" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/bin/~/Downloads/minimal-json/com.eclipsesource.json/src/main/java/com/eclipsesource/json/Json.java" timestamp="1501658508534">
         <mark key="'" line="282" column="3" />
@@ -124,6 +124,13 @@
         <mark key="]" line="13" column="18" />
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/discussion/GradedMessageBean.java" timestamp="1501730235436">
+        <mark key="'" line="31" column="26" />
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="31" column="26" />
+        <mark key="^" line="31" column="26" />
+        <mark key="." line="31" column="26" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/tangdi/cloud_native_go/Dockerfile" timestamp="1501294703507">
         <mark key="[" line="14" column="7" />
@@ -222,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="431" column="13" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
       <jump line="439" column="19" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
       <jump line="440" column="11" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
       <jump line="557" column="52" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
@@ -321,14 +327,15 @@
       <jump line="662" column="18" filename="$APPLICATION_HOME_DIR$/bin/~/Downloads/minimal-json/com.eclipsesource.json/src/test/java/com/eclipsesource/json/JsonParser_Test.java" />
       <jump line="50" column="2" filename="$APPLICATION_HOME_DIR$/bin/~/Downloads/minimal-json/com.eclipsesource.json/src/test/java/com/eclipsesource/json/PrettyPrint_Test.java" />
       <jump line="388" column="30" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
-      <jump line="415" column="88" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
+      <jump line="415" column="68" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
+      <jump line="31" column="26" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/discussion/GradedMessageBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3N0c1w+</text>
@@ -337,7 +344,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoIG51bGwgIT0gYW5ub3VuY2VtZW50QmVhbi5nZXRFbmREYXRlKCkgKQogICAgICAgIHsKICAgICAgICAgIE1vYmlsZVhtbFV0aWwuc2FmZUFkZEF0dHJpYnV0ZSggYW5ub3VuY2VtZW50RWxlbSwgImVuZGRhdGUiLCBUaW1lc3RhbXBNYW5hZ2VyLmNvbnZlcnREYXRlVG9UaW1lc3RhbXAoIGFubm91bmNlbWVudEJlYW4uZ2V0RW5kRGF0ZSgpKSApOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIEdyYWRlRFRPRm9yVGhyZWFkIGdyYWRlRFRPRm9yVGhyZWFkID0gZ2V0R3JhZGVEVE9Gb3JUaHJlYWQoIGZvcnVtT2JqZWN0LCB0aHJlYWQsIG1lbWJlcnNoaXAgKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -345,28 +352,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSIuL2FwaSIK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwcml2YXRlIEdyYWRlRFRPRm9yVGhyZWFkIGdldEdyYWRlRFRPRm9yVGhyZWFkKCBGb3J1bSBmb3J1bSwgTWVzc2FnZSBtc2csIENvdXJzZU1lbWJlcnNoaXAgbWVtYmVyc2hpcCApCiAgICAgIHRocm93cyBQZXJzaXN0ZW5jZUV4Y2VwdGlvbgogIHsKICAgIGJvb2xlYW4gdGhyZWFkR3JhZGluZyA9CiAgICAgICAgZm9ydW0gIT0gbnVsbCAmJiBmb3J1bS5nZXRQcm9wZXJ0aWVzKCkgIT0gbnVsbCAmJiBmb3J1bS5nZXRQcm9wZXJ0aWVzKCkuZ2V0QWxsb3dUaHJlYWRHcmFkaW5nKCk7CiAgICBpZiAoIHRocmVhZEdyYWRpbmcgKQogICAgewogICAgICBEaXNjdXNzaW9uQm9hcmRHcmFkZU1hbmFnZXJFeCBncmFkZU1nciA9IERpc2N1c3Npb25Cb2FyZEdyYWRlTWFuYWdlckV4RmFjdG9yeS5nZXRJbnN0YW5jZSgpOwogICAgICBHcmFkYWJsZUl0ZW0gZ2kgPSBncmFkZU1nci5sb2FkR3JhZGFibGVJdGVtQnlUaHJlYWRJZCggbXNnLmdldElkKCkgKTsKICAgICAgQ2FsZW5kYXIgZHVlRGF0ZSA9IG51bGw7CiAgICAgIFN0cmluZyBncmFkZSA9IG51bGw7CiAgICAgIENhbGVuZGFyIGdyYWRlRGF0ZSA9IG51bGw7CiAgICAgIFN0cmluZyBkaXNwbGF5U2NvcmUgPSAiIjsKICAgICAgU3RyaW5nIGdyYWRlU2NoZW1hID0gIiI7CiAgICAgIExpc3Q8R3JhZGluZ1NjaGVtYVN5bWJvbD4gZ3JhZGluZ1NjaGVtYVN5bWJvbHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgU3RyaW5nIHRvdGFsU2NvcmUgPSBudWxsOwoKICAgICAgaWYgKCBnaSAhPSBudWxsICYmIGdpLmlzVmlzaWJsZVRvU3R1ZGVudHMoKSApCiAgICAgIHsKICAgICAgICBkdWVEYXRlID0gZ2kuZ2V0RHVlRGF0ZSgpOwogICAgICAgIHRvdGFsU2NvcmUgPSBEb3VibGUudmFsdWVPZiggZ2kuZ2V0UG9pbnRzKCkgKS50b1N0cmluZygpOwogICAgICAgIGdyYWRlID0gbW9iaWxlVXNlckRhdGFEYW8uZ2V0RmluYWxHcmFkZSggZ2ksIG1lbWJlcnNoaXAgKTsKICAgICAgICBkaXNwbGF5U2NvcmUgPSBHcmFkZVV0aWwuZ2V0RGlzcGxheVNjb3JlKCBnaSwgZ3JhZGUgKTsKICAgICAgICBJZCBncmFkaW5nU2NoZW1hSWQgPSBnaS5nZXRHcmFkaW5nU2NoZW1hSWQoKTsKICAgICAgICBpZiAoIElkLmlzVmFsaWQoIGdyYWRpbmdTY2hlbWFJZCApICkKICAgICAgICB7CiAgICAgICAgICBHcmFkaW5nU2NoZW1hIGdyYWRlU2NoZW1hSXRlbSA9IEdyYWRlVXRpbC5nZXRHcmFkaW5nU2NoZW1hQnlJZCggZ3JhZGluZ1NjaGVtYUlkICk7CiAgICAgICAgICBpZiAoIGdyYWRlU2NoZW1hSXRlbSAhPSBudWxsICkKICAgICAgICAgIHsKICAgICAgICAgICAgZ3JhZGVTY2hlbWEgPSBncmFkZVNjaGVtYUl0ZW0uZ2V0U2NhbGVUeXBlKCkudG9TdHJpbmcoKTsKICAgICAgICAgIH0KICAgICAgICAgIGdyYWRpbmdTY2hlbWFTeW1ib2xzID0gR3JhZGVVdGlsLmdldEdyYWRpbmdTY2hlbWFTeW1ib2xzKCBnaSApOwogICAgICAgIH0KICAgICAgICBMaXN0PEdyYWRlSGlzdG9yeUVudHJ5PiBncmFkZUhpc3RvcnkgPSBHcmFkZUhpc3RvcnlEQU8uZ2V0KCkKICAgICAgICAgICAgLmdldEdyYWRlSGlzdG9yeSggZ2kuZ2V0SWQoKSwgbWVtYmVyc2hpcC5nZXRVc2VySWQoKSApOwogICAgICAgIGlmICggQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkoIGdyYWRlSGlzdG9yeSApICkKICAgICAgICB7CiAgICAgICAgICBHcmFkZUhpc3RvcnlFbnRyeSBncmFkZUVudHJ5ID0gZ3JhZGVIaXN0b3J5LmdldCggMCApOwogICAgICAgICAgZ3JhZGVEYXRlID0gZ3JhZGVFbnRyeS5nZXREYXRlTG9nZ2VkKCk7CiAgICAgICAgfQogICAgICB9CiAgICAgIHJldHVybiBuZXcgR3JhZGVEVE9Gb3JUaHJlYWQoIGR1ZURhdGUsIHRvdGFsU2NvcmUsIGdyYWRlLCBncmFkaW5nU2NoZW1hU3ltYm9scywgZGlzcGxheVNjb3JlLCBncmFkZVNjaGVtYSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JhZGVEYXRlICk7CiAgICB9CgogICAgcmV0dXJuIG51bGw7CiAgfQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgIEdyYWRlRFRPRm9yVGhyZWFkIGdyYWRlRFRPRm9yVGhyZWFkID0gZ2V0R3JhZGVEVE9Gb3JUaHJlYWQoIGZvcnVtT2JqZWN0LCB0aHJlYWQsIG1lbWJlcnNoaXAgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZtdC5GcHJpbnRmKHcsICJXZWxjb21lIVxuIikK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CSIuL2FwaSIK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWJvb2sgOj0gJkJvb2t7CgkJVGl0bGU6ICAi5rC05rWS5LygIiwKCQlBdXRob3I6ICLmlr3ogJDlurUiLAoJCUlTQk46ICAgIjAwMDAwMSIsCgl9Cgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWpzb24gOj0gYm9vay5Ub0pzb24oKQo=</text>
+        <text encoding="base64">CWZtdC5GcHJpbnRmKHcsICJXZWxjb21lIVxuIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
