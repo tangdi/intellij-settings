@@ -148,6 +148,9 @@
         <mark key="." line="79" column="3" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" timestamp="1501830646815" />
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/links/LaunchLinkAction.java" timestamp="1501833664421">
+        <mark key="'" line="189" column="10" />
+      </file>
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/util/fromlearn/SecurityUtil.java" timestamp="1501135251435">
         <mark key="[" line="818" column="2" />
         <mark key="]" line="818" column="7" />
@@ -231,13 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="28" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
-      <jump line="491" column="44" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
-      <jump line="862" column="36" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
-      <jump line="866" column="29" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
-      <jump line="867" column="13" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
-      <jump line="871" column="6" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
-      <jump line="876" column="36" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
       <jump line="877" column="13" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
       <jump line="197" column="26" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
       <jump line="152" column="4" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/RealCall.java" />
@@ -331,6 +327,13 @@
       <jump line="138" column="6" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/io.netty/netty/3.7.0.Final/92d6795b502e5194f84c5d1fd05c39800413fe53/netty-3.7.0.Final-sources.jar!/org/jboss/netty/channel/socket/nio/AbstractNioSelector.java" />
       <jump line="639" column="8" filename="$USER_HOME$/Documents/workspace/IDEA_Workspace/netty/buffer/src/main/java/io/netty/buffer/PoolArena.java" />
       <jump line="346" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java" />
+      <jump line="132" column="6" filename="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/links/LaunchLinkAction.java" />
+      <jump line="152" column="23" filename="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/links/LaunchLinkAction.java" />
+      <jump line="147" column="8" filename="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/links/LaunchLinkAction.java" />
+      <jump line="151" column="91" filename="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/links/LaunchLinkAction.java" />
+      <jump line="160" column="8" filename="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/links/LaunchLinkAction.java" />
+      <jump line="165" column="8" filename="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/links/LaunchLinkAction.java" />
+      <jump line="189" column="10" filename="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/links/LaunchLinkAction.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -340,7 +343,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3N0c1w+</text>
+        <text encoding="base64">XDxsaW5rXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIG51bGwgIT0gYW5ub3VuY2VtZW50QmVhbi5nZXRFbmREYXRlKCkgKQogICAgICAgIHsKICAgICAgICAgIE1vYmlsZVhtbFV0aWwuc2FmZUFkZEF0dHJpYnV0ZSggYW5ub3VuY2VtZW50RWxlbSwgImVuZGRhdGUiLCBUaW1lc3RhbXBNYW5hZ2VyLmNvbnZlcnREYXRlVG9UaW1lc3RhbXAoIGFubm91bmNlbWVudEJlYW4uZ2V0RW5kRGF0ZSgpKSApOwogICAgICAgIH0K</text>
@@ -382,18 +385,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3N0c1w+</last-search>
+      <last-search encoding="base64">XDxsaW5rXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3N0c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxsaW5rXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sourcecontent</entry>
-        <entry encoding="base64">XDxsZWFyblZlcnNpb25cPg==</entry>
-        <entry encoding="base64">XDxjb25uZWN0VGltZW91dFw+</entry>
-        <entry encoding="base64">XDxnZXRJdGVtc1w+</entry>
         <entry encoding="base64">XDxleHBhbmRBbGxcPg==</entry>
         <entry>portal</entry>
         <entry encoding="base64">XDxodHRwQ2xpZW50XD4=</entry>
@@ -410,6 +409,10 @@
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDxhYnN0cmFjdFw+</entry>
         <entry encoding="base64">XDxwb3N0c1w+</entry>
+        <entry encoding="base64">XDxfc3RyQ29udGVudElkXD4=</entry>
+        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
+        <entry encoding="base64">XDxfaWRUb0xvYWRMaW5rQnlcPg==</entry>
+        <entry encoding="base64">XDxsaW5rXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JhY2tlbmRBdHRlbXB0TWV0YWRhdGEvbWV0YWRhdGEvZw==</entry>
