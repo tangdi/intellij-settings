@@ -8,79 +8,6 @@
       <file name="$APPLICATION_HOME_DIR$/bin/~/Downloads/minimal-json/com.eclipsesource.json/src/test/java/com/eclipsesource/json/JsonParser_Test.java" timestamp="1501658622736">
         <mark key="'" line="662" column="18" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" timestamp="1500971671901">
-        <mark key="'" line="354" column="25" />
-      </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/pn/Client.java" timestamp="1501039006377">
-        <mark key="[" line="70" column="67" />
-        <mark key="]" line="70" column="68" />
-        <mark key="^" line="70" column="68" />
-        <mark key="." line="70" column="68" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1501997721209" />
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501134847152">
-        <mark key="'" line="581" column="29" />
-      </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500971680292">
-        <mark key="[" line="170" column="3" />
-        <mark key="]" line="171" column="1" />
-        <mark key="^" line="171" column="1" />
-        <mark key="." line="171" column="1" />
-      </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" timestamp="1501039718733">
-        <mark key="[" line="1142" column="63" />
-        <mark key="]" line="1143" column="11" />
-        <mark key="." line="1143" column="11" />
-        <mark key="^" line="1143" column="11" />
-      </file>
-      <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/bb-manifest.xml" timestamp="1501738942014">
-        <mark key="[" line="16" column="55" />
-        <mark key="]" line="16" column="56" />
-        <mark key="." line="16" column="56" />
-        <mark key="^" line="16" column="75" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1500351312972">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="50" />
-        <mark key="^" line="2" column="50" />
-      </file>
-      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/io.netty/netty/3.7.0.Final/92d6795b502e5194f84c5d1fd05c39800413fe53/netty-3.7.0.Final-sources.jar!/org/jboss/netty/channel/socket/nio/AbstractNioSelector.java" timestamp="1501730994310">
-        <mark key="'" line="138" column="6" />
-      </file>
-      <file name="$USER_HOME$/Desktop/cloud_native_go/microservices.go" timestamp="1501232046501">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="8" column="9" />
-        <mark key="^" line="8" column="9" />
-        <mark key="." line="8" column="9" />
-      </file>
-      <file name="$USER_HOME$/Desktop/cloud_native_go/api/book.go" timestamp="1501232225958">
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="12" column="41" />
-        <mark key="." line="12" column="41" />
-        <mark key="^" line="12" column="41" />
-      </file>
-      <file name="$USER_HOME$/mlbb/build.xml" timestamp="1500971235048">
-        <mark key="'" line="14" column="97" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java" timestamp="1501742742345">
-        <mark key="'" line="346" column="0" />
-      </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/webapp/WEB-INF/config/struts/struts-config.xml" timestamp="1500887801822">
-        <mark key="'" line="2500" column="63" />
-      </file>
-      <file name="$USER_HOME$/mlbb/build.gradle" timestamp="1501222530493">
-        <mark key="'" line="164" column="0" />
-      </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501738965372">
-        <mark key="'" line="415" column="68" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/bin/~/Downloads/minimal-json/com.eclipsesource.json/src/test/java/com/eclipsesource/json/PrettyPrint_Test.java" timestamp="1501658641875">
-        <mark key="'" line="50" column="2" />
-      </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/data/course/CourseMembership.java" timestamp="1501125937459">
-        <mark key="'" line="585" column="2" />
-      </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/play.go" timestamp="1500349575232">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="24" />
@@ -103,6 +30,15 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" timestamp="1500971671901">
+        <mark key="'" line="354" column="25" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/pn/Client.java" timestamp="1501039006377">
+        <mark key="[" line="70" column="67" />
+        <mark key="]" line="70" column="68" />
+        <mark key="^" line="70" column="68" />
+        <mark key="." line="70" column="68" />
+      </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/ICanHaz.js" timestamp="1500362076163">
         <mark key="[" line="375" column="41" />
         <mark key="]" line="375" column="43" />
@@ -115,7 +51,10 @@
         <mark key="^" line="22" column="66" />
         <mark key="." line="22" column="35" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/links/LaunchLinkAction.java" timestamp="1501833664421">
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501134847152">
+        <mark key="'" line="581" column="29" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/links/LaunchLinkAction.java" timestamp="1502086562494">
         <mark key="'" line="189" column="10" />
       </file>
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/util/fromlearn/SecurityUtil.java" timestamp="1501135251435">
@@ -123,6 +62,18 @@
         <mark key="]" line="818" column="7" />
         <mark key="." line="818" column="7" />
         <mark key="^" line="818" column="7" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500971680292">
+        <mark key="[" line="170" column="3" />
+        <mark key="]" line="171" column="1" />
+        <mark key="^" line="171" column="1" />
+        <mark key="." line="171" column="1" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" timestamp="1501039718733">
+        <mark key="[" line="1142" column="63" />
+        <mark key="]" line="1143" column="11" />
+        <mark key="." line="1143" column="11" />
+        <mark key="^" line="1143" column="11" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.6/8ee54db2ad9ea0e244c38d584150b3d524b13d80/jackson-core-2.6.6-sources.jar!/com/fasterxml/jackson/core/JsonParser.java" timestamp="1501568728499">
         <mark key="'" line="21" column="7" />
@@ -136,8 +87,35 @@
         <mark key="." line="8" column="41" />
         <mark key="^" line="8" column="41" />
       </file>
+      <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/bb-manifest.xml" timestamp="1501738942014">
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="56" />
+        <mark key="." line="16" column="56" />
+        <mark key="^" line="16" column="75" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1500351312972">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+        <mark key="^" line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/io.netty/netty/3.7.0.Final/92d6795b502e5194f84c5d1fd05c39800413fe53/netty-3.7.0.Final-sources.jar!/org/jboss/netty/channel/socket/nio/AbstractNioSelector.java" timestamp="1501730994310">
+        <mark key="'" line="138" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/IDEA_Workspace/netty/buffer/src/main/java/io/netty/buffer/PoolArena.java" timestamp="1501739529653">
         <mark key="'" line="639" column="8" />
+      </file>
+      <file name="$USER_HOME$/Desktop/cloud_native_go/microservices.go" timestamp="1501232046501">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="8" column="9" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+      </file>
+      <file name="$USER_HOME$/Desktop/cloud_native_go/api/book.go" timestamp="1501232225958">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+        <mark key="^" line="12" column="41" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/pn/PNService.java" timestamp="1500972115986">
         <mark key="[" line="65" column="24" />
@@ -158,17 +136,37 @@
       <file name="$USER_HOME$/Go_projects/src/github.com/boltdb/bolt/bucket.go" timestamp="1501485710016">
         <mark key="'" line="542" column="51" />
       </file>
+      <file name="$USER_HOME$/mlbb/build.xml" timestamp="1500971235048">
+        <mark key="'" line="14" column="97" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java" timestamp="1501742742345">
+        <mark key="'" line="346" column="0" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/webapp/WEB-INF/config/struts/struts-config.xml" timestamp="1500887801822">
+        <mark key="'" line="2500" column="63" />
+      </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/etcdserver/raft.go" timestamp="1501224169375">
         <mark key="'" line="211" column="26" />
+      </file>
+      <file name="$USER_HOME$/mlbb/build.gradle" timestamp="1501222530493">
+        <mark key="'" line="164" column="0" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501738965372">
+        <mark key="'" line="415" column="68" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/bin/~/Downloads/minimal-json/com.eclipsesource.json/src/main/java/com/eclipsesource/json/Json.java" timestamp="1501658508534">
         <mark key="'" line="282" column="3" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/bin/~/Downloads/minimal-json/com.eclipsesource.json/src/test/java/com/eclipsesource/json/PrettyPrint_Test.java" timestamp="1501658641875">
+        <mark key="'" line="50" column="2" />
+      </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DiscoverableModuleFactoryImpl.java" timestamp="1500967791204">
         <mark key="'" line="59" column="51" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/Map.java" timestamp="1501997133150" />
-      <file name="/fragment.java" timestamp="1501739139711">
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/data/course/CourseMembership.java" timestamp="1501125937459">
+        <mark key="'" line="585" column="2" />
+      </file>
+      <file name="/fragment.java" timestamp="1502086794797">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
