@@ -63,6 +63,12 @@
         <mark key="." line="818" column="7" />
         <mark key="^" line="818" column="7" />
       </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" timestamp="1502249172033">
+        <mark key="[" line="2344" column="116" />
+        <mark key="]" line="2344" column="117" />
+        <mark key="." line="2344" column="117" />
+        <mark key="^" line="2344" column="117" />
+      </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500971680292">
         <mark key="[" line="170" column="3" />
         <mark key="]" line="171" column="1" />
@@ -101,6 +107,12 @@
       </file>
       <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/io.netty/netty/3.7.0.Final/92d6795b502e5194f84c5d1fd05c39800413fe53/netty-3.7.0.Final-sources.jar!/org/jboss/netty/channel/socket/nio/AbstractNioSelector.java" timestamp="1501730994310">
         <mark key="'" line="138" column="6" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/DashboardManagerImpl.java" timestamp="1502248768520">
+        <mark key="[" line="117" column="148" />
+        <mark key="]" line="117" column="155" />
+        <mark key="^" line="117" column="155" />
+        <mark key="." line="117" column="155" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/IDEA_Workspace/netty/buffer/src/main/java/io/netty/buffer/PoolArena.java" timestamp="1501739529653">
         <mark key="'" line="639" column="8" />
@@ -175,16 +187,14 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/web/interceptors/MobileUserAuthInterceptor.java" timestamp="1502246153564">
-        <mark key="'" line="79" column="4" />
-        <mark key="[" line="90" column="16" />
-        <mark key="]" line="90" column="26" />
-        <mark key="^" line="90" column="26" />
-        <mark key="." line="90" column="26" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" timestamp="1502248627440">
+        <mark key="[" line="747" column="166" />
+        <mark key="]" line="747" column="174" />
+        <mark key="^" line="747" column="174" />
+        <mark key="." line="747" column="174" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="4" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/RealCall.java" />
       <jump line="32" column="15" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/Request.java" />
       <jump line="41" column="45" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/Request.java" />
       <jump line="68" column="16" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/Request.java" />
@@ -284,13 +294,14 @@
       <jump line="189" column="10" filename="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/links/LaunchLinkAction.java" />
       <jump line="229" column="39" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" />
       <jump line="77" column="4" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/web/interceptors/MobileUserAuthInterceptor.java" />
+      <jump line="2340" column="170" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text>blackboard.platform.nautilus.service.internal.</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>blackboard.platform.nautilus.service.internal.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5rXD4=</text>
@@ -299,7 +310,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoIG51bGwgIT0gYW5ub3VuY2VtZW50QmVhbi5nZXRFbmREYXRlKCkgKQogICAgICAgIHsKICAgICAgICAgIE1vYmlsZVhtbFV0aWwuc2FmZUFkZEF0dHJpYnV0ZSggYW5ub3VuY2VtZW50RWxlbSwgImVuZGRhdGUiLCBUaW1lc3RhbXBNYW5hZ2VyLmNvbnZlcnREYXRlVG9UaW1lc3RhbXAoIGFubm91bmNlbWVudEJlYW4uZ2V0RW5kRGF0ZSgpKSApOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -307,28 +318,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9sb2dnZXIuZXJyb3IoIFN0cmluZy5mb3JtYXQoCiAgICAgICAgIkxFQVJOIEFQSTogYmxhY2tib2FyZC5wbGF0Zm9ybS5uYXV0aWx1cy5zZXJ2aWNlLmludGVybmFsLkludGVybmFsTm90aWZpY2F0aW9uU3RvcmVNYW5hZ2VyLmdldFVzZXJOb3RpZmljYXRpb25zKCkgdGFrZSAlZCBtcyIsIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnQgKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIF9sb2dnZXIuZXJyb3IoICApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNiLmFwcGVuZCggICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNiLmFwcGVuZCggICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIEdyYWRlRFRPRm9yVGhyZWFkIGdyYWRlRFRPRm9yVGhyZWFkID0gZ2V0R3JhZGVEVE9Gb3JUaHJlYWQoIGZvcnVtT2JqZWN0LCB0aHJlYWQsIG1lbWJlcnNoaXAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHNiLmFwcGVuZCggICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNiLmFwcGVuZCggICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
