@@ -8,6 +8,93 @@
       <file name="$APPLICATION_HOME_DIR$/bin/~/Downloads/minimal-json/com.eclipsesource.json/src/test/java/com/eclipsesource/json/JsonParser_Test.java" timestamp="1501658622736">
         <mark key="'" line="662" column="18" />
       </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" timestamp="1500971671901">
+        <mark key="'" line="354" column="25" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/pn/Client.java" timestamp="1501039006377">
+        <mark key="[" line="70" column="67" />
+        <mark key="]" line="70" column="68" />
+        <mark key="^" line="70" column="68" />
+        <mark key="." line="70" column="68" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501134847152">
+        <mark key="'" line="581" column="29" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" timestamp="1502249172033">
+        <mark key="[" line="2344" column="116" />
+        <mark key="]" line="2344" column="117" />
+        <mark key="." line="2344" column="117" />
+        <mark key="^" line="2344" column="117" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500971680292">
+        <mark key="[" line="170" column="3" />
+        <mark key="]" line="171" column="1" />
+        <mark key="^" line="171" column="1" />
+        <mark key="." line="171" column="1" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" timestamp="1501039718733">
+        <mark key="[" line="1142" column="63" />
+        <mark key="]" line="1143" column="11" />
+        <mark key="." line="1143" column="11" />
+        <mark key="^" line="1143" column="11" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/bb-manifest.xml" timestamp="1501738942014">
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="56" />
+        <mark key="." line="16" column="56" />
+        <mark key="^" line="16" column="75" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1500351312972">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+        <mark key="^" line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/io.netty/netty/3.7.0.Final/92d6795b502e5194f84c5d1fd05c39800413fe53/netty-3.7.0.Final-sources.jar!/org/jboss/netty/channel/socket/nio/AbstractNioSelector.java" timestamp="1501730994310">
+        <mark key="'" line="138" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/cloud_native_go/microservices.go" timestamp="1501232046501">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="8" column="9" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+      </file>
+      <file name="$USER_HOME$/Desktop/cloud_native_go/api/book.go" timestamp="1501232225958">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/mlbb/build.xml" timestamp="1500971235048">
+        <mark key="'" line="14" column="97" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java" timestamp="1501742742345">
+        <mark key="'" line="346" column="0" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/webapp/WEB-INF/config/struts/struts-config.xml" timestamp="1500887801822">
+        <mark key="'" line="2500" column="63" />
+      </file>
+      <file name="$USER_HOME$/mlbb/build.gradle" timestamp="1501222530493">
+        <mark key="'" line="164" column="0" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501738965372">
+        <mark key="'" line="415" column="68" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" timestamp="1502194104248">
+        <mark key="'" line="229" column="39" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/bin/~/Downloads/minimal-json/com.eclipsesource.json/src/test/java/com/eclipsesource/json/PrettyPrint_Test.java" timestamp="1501658641875">
+        <mark key="'" line="50" column="2" />
+      </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/data/course/CourseMembership.java" timestamp="1501125937459">
+        <mark key="'" line="585" column="2" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" timestamp="1502248627440">
+        <mark key="[" line="747" column="166" />
+        <mark key="]" line="747" column="174" />
+        <mark key="^" line="747" column="174" />
+        <mark key="." line="747" column="174" />
+      </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/play.go" timestamp="1500349575232">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="24" />
@@ -30,15 +117,6 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" timestamp="1500971671901">
-        <mark key="'" line="354" column="25" />
-      </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/pn/Client.java" timestamp="1501039006377">
-        <mark key="[" line="70" column="67" />
-        <mark key="]" line="70" column="68" />
-        <mark key="^" line="70" column="68" />
-        <mark key="." line="70" column="68" />
-      </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/ICanHaz.js" timestamp="1500362076163">
         <mark key="[" line="375" column="41" />
         <mark key="]" line="375" column="43" />
@@ -57,10 +135,8 @@
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" timestamp="1502269101419" />
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501134847152">
-        <mark key="'" line="581" column="29" />
-      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" timestamp="1502270059263" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/Iterator.java" timestamp="1502270795061" />
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/links/LaunchLinkAction.java" timestamp="1502086562494">
         <mark key="'" line="189" column="10" />
       </file>
@@ -69,24 +145,6 @@
         <mark key="]" line="818" column="7" />
         <mark key="." line="818" column="7" />
         <mark key="^" line="818" column="7" />
-      </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" timestamp="1502249172033">
-        <mark key="[" line="2344" column="116" />
-        <mark key="]" line="2344" column="117" />
-        <mark key="." line="2344" column="117" />
-        <mark key="^" line="2344" column="117" />
-      </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500971680292">
-        <mark key="[" line="170" column="3" />
-        <mark key="]" line="171" column="1" />
-        <mark key="^" line="171" column="1" />
-        <mark key="." line="171" column="1" />
-      </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" timestamp="1501039718733">
-        <mark key="[" line="1142" column="63" />
-        <mark key="]" line="1143" column="11" />
-        <mark key="." line="1143" column="11" />
-        <mark key="^" line="1143" column="11" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.6/8ee54db2ad9ea0e244c38d584150b3d524b13d80/jackson-core-2.6.6-sources.jar!/com/fasterxml/jackson/core/JsonParser.java" timestamp="1501568728499">
         <mark key="'" line="21" column="7" />
@@ -100,41 +158,15 @@
         <mark key="." line="8" column="41" />
         <mark key="^" line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/bb-manifest.xml" timestamp="1501738942014">
-        <mark key="[" line="16" column="55" />
-        <mark key="]" line="16" column="56" />
-        <mark key="." line="16" column="56" />
-        <mark key="^" line="16" column="75" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1500351312972">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="50" />
-        <mark key="^" line="2" column="50" />
-      </file>
-      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/io.netty/netty/3.7.0.Final/92d6795b502e5194f84c5d1fd05c39800413fe53/netty-3.7.0.Final-sources.jar!/org/jboss/netty/channel/socket/nio/AbstractNioSelector.java" timestamp="1501730994310">
-        <mark key="'" line="138" column="6" />
-      </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/DashboardManagerImpl.java" timestamp="1502266134597">
-        <mark key="[" line="311" column="130" />
-        <mark key="]" line="311" column="164" />
-        <mark key="^" line="311" column="164" />
-        <mark key="." line="311" column="164" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/DashboardManagerImpl.java" timestamp="1502270737714">
+        <mark key="'" line="1289" column="16" />
+        <mark key="[" line="1260" column="61" />
+        <mark key="]" line="1260" column="61" />
+        <mark key="^" line="1260" column="61" />
+        <mark key="." line="1260" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/IDEA_Workspace/netty/buffer/src/main/java/io/netty/buffer/PoolArena.java" timestamp="1501739529653">
         <mark key="'" line="639" column="8" />
-      </file>
-      <file name="$USER_HOME$/Desktop/cloud_native_go/microservices.go" timestamp="1501232046501">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="8" column="9" />
-        <mark key="^" line="8" column="9" />
-        <mark key="." line="8" column="9" />
-      </file>
-      <file name="$USER_HOME$/Desktop/cloud_native_go/api/book.go" timestamp="1501232225958">
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="12" column="41" />
-        <mark key="." line="12" column="41" />
-        <mark key="^" line="12" column="41" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/pn/PNService.java" timestamp="1500972115986">
         <mark key="[" line="65" column="24" />
@@ -151,38 +183,14 @@
       <file name="$USER_HOME$/Go_projects/src/github.com/boltdb/bolt/bucket.go" timestamp="1501485710016">
         <mark key="'" line="542" column="51" />
       </file>
-      <file name="$USER_HOME$/mlbb/build.xml" timestamp="1500971235048">
-        <mark key="'" line="14" column="97" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java" timestamp="1501742742345">
-        <mark key="'" line="346" column="0" />
-      </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/webapp/WEB-INF/config/struts/struts-config.xml" timestamp="1500887801822">
-        <mark key="'" line="2500" column="63" />
-      </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/etcdserver/raft.go" timestamp="1501224169375">
         <mark key="'" line="211" column="26" />
-      </file>
-      <file name="$USER_HOME$/mlbb/build.gradle" timestamp="1501222530493">
-        <mark key="'" line="164" column="0" />
-      </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501738965372">
-        <mark key="'" line="415" column="68" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/bin/~/Downloads/minimal-json/com.eclipsesource.json/src/main/java/com/eclipsesource/json/Json.java" timestamp="1501658508534">
         <mark key="'" line="282" column="3" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" timestamp="1502194104248">
-        <mark key="'" line="229" column="39" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/bin/~/Downloads/minimal-json/com.eclipsesource.json/src/test/java/com/eclipsesource/json/PrettyPrint_Test.java" timestamp="1501658641875">
-        <mark key="'" line="50" column="2" />
-      </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DiscoverableModuleFactoryImpl.java" timestamp="1500967791204">
         <mark key="'" line="59" column="51" />
-      </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/data/course/CourseMembership.java" timestamp="1501125937459">
-        <mark key="'" line="585" column="2" />
       </file>
       <file name="/fragment.java" timestamp="1502086794797">
         <mark key="[" line="0" column="0" />
@@ -190,16 +198,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" timestamp="1502248627440">
-        <mark key="[" line="747" column="166" />
-        <mark key="]" line="747" column="174" />
-        <mark key="^" line="747" column="174" />
-        <mark key="." line="747" column="174" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="45" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/Request.java" />
-      <jump line="68" column="16" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/Request.java" />
       <jump line="72" column="23" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
       <jump line="180" column="30" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
       <jump line="181" column="11" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
@@ -298,13 +298,15 @@
       <jump line="77" column="4" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/web/interceptors/MobileUserAuthInterceptor.java" />
       <jump line="2340" column="170" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" />
       <jump line="72" column="50" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/DashboardProxy.java" />
+      <jump line="572" column="12" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/DashboardManagerImpl.java" />
+      <jump line="1283" column="16" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/DashboardManagerImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Node</text>
       </register>
       <register name="-" type="4">
-        <text>danyMatch</text>
+        <text>Node</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5rXD4=</text>
@@ -313,7 +315,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoIG51bGwgIT0gYW5ub3VuY2VtZW50QmVhbi5nZXRFbmREYXRlKCkgKQogICAgICAgIHsKICAgICAgICAgIE1vYmlsZVhtbFV0aWwuc2FmZUFkZEF0dHJpYnV0ZSggYW5ub3VuY2VtZW50RWxlbSwgImVuZGRhdGUiLCBUaW1lc3RhbXBNYW5hZ2VyLmNvbnZlcnREYXRlVG9UaW1lc3RhbXAoIGFubm91bmNlbWVudEJlYW4uZ2V0RW5kRGF0ZSgpKSApOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -324,25 +326,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PExpc3Q8U3RyaW5nPj4gZmluZExhZGRlcnMoU3RyaW5nIGJlZ2luV29yZCwgU3RyaW5nIGVuZFdvcmQsIExpc3Q8U3RyaW5nPiB3b3JkTGlzdCl7CiAgICAgIFNldDxTdHJpbmc+IGRpY3QgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgIGRpY3QuYWRkQWxsKCB3b3JkTGlzdCApOwogICAgICBpZighZGljdC5jb250YWlucyggZW5kV29yZCApKXsKICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgIH0KCiAgICAgIE1hcDxTdHJpbmcsIExpc3Q8TGlzdDxTdHJpbmc+Pj4gdmlzaXRlZCA9IG5ldyBIYXNoTWFwPD4oICApOwogICAgICB2aXNpdGVkLnB1dCggYmVnaW5Xb3JkLCBBcnJheXMuYXNMaXN0KCBBcnJheXMuYXNMaXN0KCBiZWdpbldvcmQgKSApICk7CiAgICAgIExpbmtlZExpc3Q8U3RyaW5nPiBxdWV1ZSA9IG5ldyBMaW5rZWRMaXN0PD4oICApOwogICAgICBxdWV1ZS5hZGQoIGJlZ2luV29yZCApOwoKICAgICAgd2hpbGUoIXF1ZXVlLmlzRW1wdHkoKSl7CiAgICAgICAgU3RyaW5nIHBvcCA9IHF1ZXVlLnBvbGxGaXJzdCgpOwogICAgICAgIGlmKHBvcC5lcXVhbHMoIGVuZFdvcmQgKSl7CiAgICAgICAgICByZXR1cm4gdmlzaXRlZC5nZXQoIHBvcCApOwogICAgICAgIH0KICAgICAgICBMaXN0PExpc3Q8U3RyaW5nPj5saXN0cyA9IHZpc2l0ZWQuZ2V0KCBwb3AgKTsKICAgICAgICBpbnQgbGVuZ3RoID0gbGlzdHMuZ2V0KDApLnNpemUoKTsKICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoICApOwogICAgICAgIGZvcihpbnQgaSA9IDA7IGk8cG9wLmxlbmd0aCgpO2krKyl7CiAgICAgICAgICBmb3IoaW50IGogPSAwOyBqPDI2OyBqKyspewogICAgICAgICAgICBpZignYScgKyBqICE9IHBvcC5jaGFyQXQoIGkgKSl7CiAgICAgICAgICAgICAgc2IuYXBwZW5kKCBwb3Auc3Vic3RyaW5nKCAwLCBpICkgKS5hcHBlbmQoKGNoYXIpKCAnYScgK2opICkuYXBwZW5kKCBwb3Auc3Vic3RyaW5nKCBpKzEgKSApOwogICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBjYW5kaWRhdGUgPSBzYi50b1N0cmluZygpOwogICAgICAgICAgICAgIHNiLnNldExlbmd0aCggMCApOwogICAgICAgICAgICAgIGlmKGRpY3QuY29udGFpbnMoIGNhbmRpZGF0ZSApICYmICghdmlzaXRlZC5jb250YWluc0tleSggY2FuZGlkYXRlICkgfHwgKAogICAgICAgICAgICAgICAgICB2aXNpdGVkLmdldCggY2FuZGlkYXRlICkuZ2V0KCAwICkuc2l6ZSgpID09IGxlbmd0aCArMSAmJiB2aXNpdGVkLmdldCggY2FuZGlkYXRlICkuc3RyZWFtKCkubm9uZU1hdGNoKCBsIC0+IHBvcC5lcXVhbHMoIGwuZ2V0KCBsLnNpemUoKS0yICkgKSApKSkpewogICAgICAgICAgICAgICAgcXVldWUuYWRkKCBjYW5kaWRhdGUgKTsKICAgICAgICAgICAgICAgIGZpbmFsIExpc3Q8TGlzdDxTdHJpbmc+PiBuZXdMaXN0cyA9IGxpc3RzLnN0cmVhbSgpLm1hcCggbCAtPiB7CiAgICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBuID0gbmV3IEFycmF5TGlzdDw+KCAgKTsKICAgICAgICAgICAgICAgICAgbi5hZGRBbGwoIGwgKTsKICAgICAgICAgICAgICAgICAgbi5hZGQoIGNhbmRpZGF0ZSApOwogICAgICAgICAgICAgICAgICByZXR1cm4gbjsKICAgICAgICAgICAgICAgIH0gKS5jb2xsZWN0KCBDb2xsZWN0b3JzLnRvTGlzdCgpICk7CiAgICAgICAgICAgICAgICB2aXNpdGVkLmNvbXB1dGUoIGNhbmRpZGF0ZSwgKGssIHYpIC0+IHsKICAgICAgICAgICAgICAgICAgaWYgKHYgPT0gbnVsbCkKICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXdMaXN0czsKICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgdi5hZGRBbGwoIG5ld0xpc3RzICk7CiAgICAgICAgICAgICAgICAgIHJldHVybiB2OwogICAgICAgICAgICAgICAgfSApOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgfQoKICAgICAgICB9CiAgICAgIH0KICAgICAgcmV0dXJuIG5ldyBBcnJheUxpc3Q8PiggICk7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpc2l0ZWQucHV0KCBjYW5kaWRhdGUsIGxlbmd0aCsxICk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PExpc3Q8U3RyaW5nPj4gZmluZExhZGRlcnMoU3RyaW5nIGJlZ2luV29yZCwgU3RyaW5nIGVuZFdvcmQsIExpc3Q8U3RyaW5nPiB3b3JkTGlzdCl7CiAgICAgIFNldDxTdHJpbmc+IGRpY3QgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgIGRpY3QuYWRkQWxsKCB3b3JkTGlzdCApOwogICAgICBpZighZGljdC5jb250YWlucyggZW5kV29yZCApKXsKICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgIH0KCiAgICAgIE1hcDxTdHJpbmcsIExpc3Q8TGlzdDxTdHJpbmc+Pj4gdmlzaXRlZCA9IG5ldyBIYXNoTWFwPD4oICApOwogICAgICB2aXNpdGVkLnB1dCggYmVnaW5Xb3JkLCBBcnJheXMuYXNMaXN0KCBBcnJheXMuYXNMaXN0KCBiZWdpbldvcmQgKSApICk7CiAgICAgIExpbmtlZExpc3Q8U3RyaW5nPiBxdWV1ZSA9IG5ldyBMaW5rZWRMaXN0PD4oICApOwogICAgICBxdWV1ZS5hZGQoIGJlZ2luV29yZCApOwoKICAgICAgd2hpbGUoIXF1ZXVlLmlzRW1wdHkoKSl7CiAgICAgICAgU3RyaW5nIHBvcCA9IHF1ZXVlLnBvbGxGaXJzdCgpOwogICAgICAgIGlmKHBvcC5lcXVhbHMoIGVuZFdvcmQgKSl7CiAgICAgICAgICByZXR1cm4gdmlzaXRlZC5nZXQoIHBvcCApOwogICAgICAgIH0KICAgICAgICBMaXN0PExpc3Q8U3RyaW5nPj5saXN0cyA9IHZpc2l0ZWQuZ2V0KCBwb3AgKTsKICAgICAgICBpbnQgbGVuZ3RoID0gbGlzdHMuZ2V0KDApLnNpemUoKTsKICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoICApOwogICAgICAgIGZvcihpbnQgaSA9IDA7IGk8cG9wLmxlbmd0aCgpO2krKyl7CiAgICAgICAgICBmb3IoaW50IGogPSAwOyBqPDI2OyBqKyspewogICAgICAgICAgICBpZignYScgKyBqICE9IHBvcC5jaGFyQXQoIGkgKSl7CiAgICAgICAgICAgICAgc2IuYXBwZW5kKCBwb3Auc3Vic3RyaW5nKCAwLCBpICkgKS5hcHBlbmQoKGNoYXIpKCAnYScgK2opICkuYXBwZW5kKCBwb3Auc3Vic3RyaW5nKCBpKzEgKSApOwogICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBjYW5kaWRhdGUgPSBzYi50b1N0cmluZygpOwogICAgICAgICAgICAgIHNiLnNldExlbmd0aCggMCApOwogICAgICAgICAgICAgIGlmKGRpY3QuY29udGFpbnMoIGNhbmRpZGF0ZSApICYmICghdmlzaXRlZC5jb250YWluc0tleSggY2FuZGlkYXRlICkgfHwgKAogICAgICAgICAgICAgICAgICB2aXNpdGVkLmdldCggY2FuZGlkYXRlICkuZ2V0KCAwICkuc2l6ZSgpID09IGxlbmd0aCArMSAmJiB2aXNpdGVkLmdldCggY2FuZGlkYXRlICkuc3RyZWFtKCkubm9uZU1hdGNoKCBsIC0+IHBvcC5lcXVhbHMoIGwuZ2V0KCBsLnNpemUoKS0yICkgKSApKSkpewogICAgICAgICAgICAgICAgcXVldWUuYWRkKCBjYW5kaWRhdGUgKTsKICAgICAgICAgICAgICAgIGZpbmFsIExpc3Q8TGlzdDxTdHJpbmc+PiBuZXdMaXN0cyA9IGxpc3RzLnN0cmVhbSgpLm1hcCggbCAtPiB7CiAgICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBuID0gbmV3IEFycmF5TGlzdDw+KCAgKTsKICAgICAgICAgICAgICAgICAgbi5hZGRBbGwoIGwgKTsKICAgICAgICAgICAgICAgICAgbi5hZGQoIGNhbmRpZGF0ZSApOwogICAgICAgICAgICAgICAgICByZXR1cm4gbjsKICAgICAgICAgICAgICAgIH0gKS5jb2xsZWN0KCBDb2xsZWN0b3JzLnRvTGlzdCgpICk7CiAgICAgICAgICAgICAgICB2aXNpdGVkLmNvbXB1dGUoIGNhbmRpZGF0ZSwgKGssIHYpIC0+IHsKICAgICAgICAgICAgICAgICAgaWYgKHYgPT0gbnVsbCkKICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXdMaXN0czsKICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgdi5hZGRBbGwoIG5ld0xpc3RzICk7CiAgICAgICAgICAgICAgICAgIHJldHVybiB2OwogICAgICAgICAgICAgICAgfSApOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgfQoKICAgICAgICB9CiAgICAgIH0KICAgICAgcmV0dXJuIG5ldyBBcnJheUxpc3Q8PiggICk7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpc2l0ZWQucHV0KCBjYW5kaWRhdGUsIGxlbmd0aCsxICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfWVsc2V7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYoIWRpY3QuY29udGFpbnMoIGVuZFdvcmQgKSl7CiAgICAgICAgcmV0dXJuIG5ldyBBcnJheUxpc3Q8PigpOwogICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfWVsc2V7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoIWRpY3QuY29udGFpbnMoIGVuZFdvcmQgKSl7CiAgICAgICAgcmV0dXJuIG5ldyBBcnJheUxpc3Q8PigpOwogICAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF9sb2dnZXIuZXJyb3IoIFN0cmluZy5mb3JtYXQoCiAgICAgICAgIkxFQVJOIEFQSTogYmxhY2tib2FyZC5wbGF0Zm9ybS5uYXV0aWx1cy5zZXJ2aWNlLmludGVybmFsLkludGVybmFsTm90aWZpY2F0aW9uU3RvcmVNYW5hZ2VyLmdldFVzZXJOb3RpZmljYXRpb25zKCkgdGFrZSAlZCBtcyIsIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnQgKSk7Cg==</text>
+        <text encoding="base64">ICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
