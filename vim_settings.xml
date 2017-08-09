@@ -51,12 +51,11 @@
         <mark key="^" line="22" column="66" />
         <mark key="." line="22" column="35" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/DashboardProxy.java" timestamp="1502259551263">
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/DashboardProxy.java" timestamp="1502260522167">
         <mark key="'" line="71" column="50" />
-        <mark key="[" line="176" column="109" />
-        <mark key="]" line="176" column="118" />
-        <mark key="^" line="176" column="118" />
-        <mark key="." line="176" column="118" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501134847152">
         <mark key="'" line="581" column="29" />
@@ -115,11 +114,11 @@
       <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/io.netty/netty/3.7.0.Final/92d6795b502e5194f84c5d1fd05c39800413fe53/netty-3.7.0.Final-sources.jar!/org/jboss/netty/channel/socket/nio/AbstractNioSelector.java" timestamp="1501730994310">
         <mark key="'" line="138" column="6" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/DashboardManagerImpl.java" timestamp="1502248768520">
-        <mark key="[" line="117" column="148" />
-        <mark key="]" line="117" column="155" />
-        <mark key="^" line="117" column="155" />
-        <mark key="." line="117" column="155" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/DashboardManagerImpl.java" timestamp="1502260636611">
+        <mark key="[" line="311" column="130" />
+        <mark key="]" line="311" column="164" />
+        <mark key="^" line="311" column="164" />
+        <mark key="." line="311" column="164" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/IDEA_Workspace/netty/buffer/src/main/java/io/netty/buffer/PoolArena.java" timestamp="1501739529653">
         <mark key="'" line="639" column="8" />
@@ -300,8 +299,8 @@
       <jump line="72" column="50" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/DashboardProxy.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>danyMatch</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>danyMatch</text>
@@ -313,7 +312,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoIG51bGwgIT0gYW5ub3VuY2VtZW50QmVhbi5nZXRFbmREYXRlKCkgKQogICAgICAgIHsKICAgICAgICAgIE1vYmlsZVhtbFV0aWwuc2FmZUFkZEF0dHJpYnV0ZSggYW5ub3VuY2VtZW50RWxlbSwgImVuZGRhdGUiLCBUaW1lc3RhbXBNYW5hZ2VyLmNvbnZlcnREYXRlVG9UaW1lc3RhbXAoIGFubm91bmNlbWVudEJlYW4uZ2V0RW5kRGF0ZSgpKSApOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpc2l0ZWQucHV0KCBjYW5kaWRhdGUsIGxlbmd0aCsxICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -321,28 +320,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfWVsc2V7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PExpc3Q8U3RyaW5nPj4gZmluZExhZGRlcnMoU3RyaW5nIGJlZ2luV29yZCwgU3RyaW5nIGVuZFdvcmQsIExpc3Q8U3RyaW5nPiB3b3JkTGlzdCl7CiAgICAgIFNldDxTdHJpbmc+IGRpY3QgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgIGRpY3QuYWRkQWxsKCB3b3JkTGlzdCApOwogICAgICBpZighZGljdC5jb250YWlucyggZW5kV29yZCApKXsKICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgIH0KCiAgICAgIE1hcDxTdHJpbmcsIExpc3Q8TGlzdDxTdHJpbmc+Pj4gdmlzaXRlZCA9IG5ldyBIYXNoTWFwPD4oICApOwogICAgICB2aXNpdGVkLnB1dCggYmVnaW5Xb3JkLCBBcnJheXMuYXNMaXN0KCBBcnJheXMuYXNMaXN0KCBiZWdpbldvcmQgKSApICk7CiAgICAgIExpbmtlZExpc3Q8U3RyaW5nPiBxdWV1ZSA9IG5ldyBMaW5rZWRMaXN0PD4oICApOwogICAgICBxdWV1ZS5hZGQoIGJlZ2luV29yZCApOwoKICAgICAgd2hpbGUoIXF1ZXVlLmlzRW1wdHkoKSl7CiAgICAgICAgU3RyaW5nIHBvcCA9IHF1ZXVlLnBvbGxGaXJzdCgpOwogICAgICAgIGlmKHBvcC5lcXVhbHMoIGVuZFdvcmQgKSl7CiAgICAgICAgICByZXR1cm4gdmlzaXRlZC5nZXQoIHBvcCApOwogICAgICAgIH0KICAgICAgICBMaXN0PExpc3Q8U3RyaW5nPj5saXN0cyA9IHZpc2l0ZWQuZ2V0KCBwb3AgKTsKICAgICAgICBpbnQgbGVuZ3RoID0gbGlzdHMuZ2V0KDApLnNpemUoKTsKICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoICApOwogICAgICAgIGZvcihpbnQgaSA9IDA7IGk8cG9wLmxlbmd0aCgpO2krKyl7CiAgICAgICAgICBmb3IoaW50IGogPSAwOyBqPDI2OyBqKyspewogICAgICAgICAgICBpZignYScgKyBqICE9IHBvcC5jaGFyQXQoIGkgKSl7CiAgICAgICAgICAgICAgc2IuYXBwZW5kKCBwb3Auc3Vic3RyaW5nKCAwLCBpICkgKS5hcHBlbmQoKGNoYXIpKCAnYScgK2opICkuYXBwZW5kKCBwb3Auc3Vic3RyaW5nKCBpKzEgKSApOwogICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBjYW5kaWRhdGUgPSBzYi50b1N0cmluZygpOwogICAgICAgICAgICAgIHNiLnNldExlbmd0aCggMCApOwogICAgICAgICAgICAgIGlmKGRpY3QuY29udGFpbnMoIGNhbmRpZGF0ZSApICYmICghdmlzaXRlZC5jb250YWluc0tleSggY2FuZGlkYXRlICkgfHwgKAogICAgICAgICAgICAgICAgICB2aXNpdGVkLmdldCggY2FuZGlkYXRlICkuZ2V0KCAwICkuc2l6ZSgpID09IGxlbmd0aCArMSAmJiB2aXNpdGVkLmdldCggY2FuZGlkYXRlICkuc3RyZWFtKCkubm9uZU1hdGNoKCBsIC0+IHBvcC5lcXVhbHMoIGwuZ2V0KCBsLnNpemUoKS0yICkgKSApKSkpewogICAgICAgICAgICAgICAgcXVldWUuYWRkKCBjYW5kaWRhdGUgKTsKICAgICAgICAgICAgICAgIGZpbmFsIExpc3Q8TGlzdDxTdHJpbmc+PiBuZXdMaXN0cyA9IGxpc3RzLnN0cmVhbSgpLm1hcCggbCAtPiB7CiAgICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBuID0gbmV3IEFycmF5TGlzdDw+KCAgKTsKICAgICAgICAgICAgICAgICAgbi5hZGRBbGwoIGwgKTsKICAgICAgICAgICAgICAgICAgbi5hZGQoIGNhbmRpZGF0ZSApOwogICAgICAgICAgICAgICAgICByZXR1cm4gbjsKICAgICAgICAgICAgICAgIH0gKS5jb2xsZWN0KCBDb2xsZWN0b3JzLnRvTGlzdCgpICk7CiAgICAgICAgICAgICAgICB2aXNpdGVkLmNvbXB1dGUoIGNhbmRpZGF0ZSwgKGssIHYpIC0+IHsKICAgICAgICAgICAgICAgICAgaWYgKHYgPT0gbnVsbCkKICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXdMaXN0czsKICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgdi5hZGRBbGwoIG5ld0xpc3RzICk7CiAgICAgICAgICAgICAgICAgIHJldHVybiB2OwogICAgICAgICAgICAgICAgfSApOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgfQoKICAgICAgICB9CiAgICAgIH0KICAgICAgcmV0dXJuIG5ldyBBcnJheUxpc3Q8PiggICk7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYoIWRpY3QuY29udGFpbnMoIGVuZFdvcmQgKSl7CiAgICAgICAgcmV0dXJuIG5ldyBBcnJheUxpc3Q8PigpOwogICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpc2l0ZWQucHV0KCBjYW5kaWRhdGUsIGxlbmd0aCsxICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF9sb2dnZXIuZXJyb3IoIFN0cmluZy5mb3JtYXQoCiAgICAgICAgIkxFQVJOIEFQSTogYmxhY2tib2FyZC5wbGF0Zm9ybS5uYXV0aWx1cy5zZXJ2aWNlLmludGVybmFsLkludGVybmFsTm90aWZpY2F0aW9uU3RvcmVNYW5hZ2VyLmdldFVzZXJOb3RpZmljYXRpb25zKCkgdGFrZSAlZCBtcyIsIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnQgKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfWVsc2V7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF9sb2dnZXIuZXJyb3IoICApOwo=</text>
+        <text encoding="base64">ICAgICAgaWYoIWRpY3QuY29udGFpbnMoIGVuZFdvcmQgKSl7CiAgICAgICAgcmV0dXJuIG5ldyBBcnJheUxpc3Q8PigpOwogICAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9sb2dnZXIuZXJyb3IoIFN0cmluZy5mb3JtYXQoCiAgICAgICAgIkxFQVJOIEFQSTogYmxhY2tib2FyZC5wbGF0Zm9ybS5uYXV0aWx1cy5zZXJ2aWNlLmludGVybmFsLkludGVybmFsTm90aWZpY2F0aW9uU3RvcmVNYW5hZ2VyLmdldFVzZXJOb3RpZmljYXRpb25zKCkgdGFrZSAlZCBtcyIsIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnQgKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
