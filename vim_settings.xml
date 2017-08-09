@@ -114,7 +114,7 @@
       <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/io.netty/netty/3.7.0.Final/92d6795b502e5194f84c5d1fd05c39800413fe53/netty-3.7.0.Final-sources.jar!/org/jboss/netty/channel/socket/nio/AbstractNioSelector.java" timestamp="1501730994310">
         <mark key="'" line="138" column="6" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/DashboardManagerImpl.java" timestamp="1502260636611">
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/DashboardManagerImpl.java" timestamp="1502266134597">
         <mark key="[" line="311" column="130" />
         <mark key="]" line="311" column="164" />
         <mark key="^" line="311" column="164" />
