@@ -51,6 +51,13 @@
         <mark key="^" line="22" column="66" />
         <mark key="." line="22" column="35" />
       </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/DashboardProxy.java" timestamp="1502250642396">
+        <mark key="'" line="71" column="50" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="^" line="187" column="18" />
+        <mark key="." line="190" column="0" />
+      </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501134847152">
         <mark key="'" line="581" column="29" />
       </file>
@@ -135,10 +142,6 @@
         <mark key="." line="65" column="24" />
         <mark key="^" line="57" column="23" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/bin/~/Downloads/minimal-json/com.eclipsesource.json/src/main/java/com/eclipsesource/json/JsonHandler.java" timestamp="1501657174687">
-        <mark key="'" line="78" column="16" />
-        <mark key="." line="79" column="3" />
-      </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/main/play.go" timestamp="1500349478931">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
@@ -195,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="15" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/Request.java" />
       <jump line="41" column="45" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/Request.java" />
       <jump line="68" column="16" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/Request.java" />
       <jump line="72" column="23" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
@@ -295,13 +297,14 @@
       <jump line="229" column="39" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" />
       <jump line="77" column="4" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/web/interceptors/MobileUserAuthInterceptor.java" />
       <jump line="2340" column="170" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" />
+      <jump line="72" column="50" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/DashboardProxy.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>blackboard.platform.nautilus.service.internal.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>blackboard.platform.nautilus.service.internal.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5rXD4=</text>
@@ -310,7 +313,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoIG51bGwgIT0gYW5ub3VuY2VtZW50QmVhbi5nZXRFbmREYXRlKCkgKQogICAgICAgIHsKICAgICAgICAgIE1vYmlsZVhtbFV0aWwuc2FmZUFkZEF0dHJpYnV0ZSggYW5ub3VuY2VtZW50RWxlbSwgImVuZGRhdGUiLCBUaW1lc3RhbXBNYW5hZ2VyLmNvbnZlcnREYXRlVG9UaW1lc3RhbXAoIGFubm91bmNlbWVudEJlYW4uZ2V0RW5kRGF0ZSgpKSApOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -318,28 +321,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF9sb2dnZXIuZXJyb3IoIFN0cmluZy5mb3JtYXQoCiAgICAgICAgIkxFQVJOIEFQSTogYmxhY2tib2FyZC5wbGF0Zm9ybS5uYXV0aWx1cy5zZXJ2aWNlLmludGVybmFsLkludGVybmFsTm90aWZpY2F0aW9uU3RvcmVNYW5hZ2VyLmdldFVzZXJOb3RpZmljYXRpb25zKCkgdGFrZSAlZCBtcyIsIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnQgKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfWVsc2V7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF9sb2dnZXIuZXJyb3IoICApOwo=</text>
+        <text encoding="base64">ICAgICAgaWYoIWRpY3QuY29udGFpbnMoIGVuZFdvcmQgKSl7CiAgICAgICAgcmV0dXJuIG5ldyBBcnJheUxpc3Q8PigpOwogICAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvbmcgZW5kID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9sb2dnZXIuZXJyb3IoIFN0cmluZy5mb3JtYXQoCiAgICAgICAgIkxFQVJOIEFQSTogYmxhY2tib2FyZC5wbGF0Zm9ybS5uYXV0aWx1cy5zZXJ2aWNlLmludGVybmFsLkludGVybmFsTm90aWZpY2F0aW9uU3RvcmVNYW5hZ2VyLmdldFVzZXJOb3RpZmljYXRpb25zKCkgdGFrZSAlZCBtcyIsIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnQgKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIF9sb2dnZXIuZXJyb3IoICApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNiLmFwcGVuZCggICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNiLmFwcGVuZCggICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
