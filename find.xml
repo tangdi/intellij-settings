@@ -5,17 +5,10 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.jaa</mask>
       <mask>*.m</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.propet</mask>
       <mask>*.prope</mask>
       <mask>*.propr</mask>
@@ -27,7 +20,6 @@
       <mask>*.properties</mask>
       <mask>*.propertie</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*j.</mask>
       <mask>*j</mask>
       <mask>*.g</mask>
@@ -37,6 +29,14 @@
       <mask>*.gradle</mask>
       <mask>*.gradle, *.pro</mask>
       <mask>*</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
