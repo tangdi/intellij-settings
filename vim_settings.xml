@@ -38,7 +38,7 @@
         <mark key="." line="1143" column="11" />
         <mark key="^" line="1143" column="11" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/bb-manifest.xml" timestamp="1501738942014">
+      <file name="$USER_HOME$/mlbb/src/main/webapp/WEB-INF/bb-manifest.xml" timestamp="1502348734915">
         <mark key="[" line="16" column="55" />
         <mark key="]" line="16" column="56" />
         <mark key="." line="16" column="56" />
@@ -69,6 +69,13 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1502281186504">
         <mark key="'" line="299" column="18" />
       </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseGradesContainer.java" timestamp="1502348726845">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="109" column="75" />
+        <mark key="]" line="109" column="86" />
+        <mark key="." line="109" column="86" />
+        <mark key="^" line="109" column="86" />
+      </file>
       <file name="$USER_HOME$/mlbb/build.xml" timestamp="1500971235048">
         <mark key="'" line="14" column="97" />
       </file>
@@ -93,11 +100,12 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/data/course/CourseMembership.java" timestamp="1501125937459">
         <mark key="'" line="585" column="2" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" timestamp="1502248627440">
-        <mark key="[" line="747" column="166" />
-        <mark key="]" line="747" column="174" />
-        <mark key="^" line="747" column="174" />
-        <mark key="." line="747" column="174" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" timestamp="1502348682550">
+        <mark key="'" line="3842" column="20" />
+        <mark key="[" line="3959" column="30" />
+        <mark key="]" line="3959" column="44" />
+        <mark key="^" line="3959" column="44" />
+        <mark key="." line="3959" column="44" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/play.go" timestamp="1500349575232">
         <mark key="[" line="3" column="25" />
@@ -111,12 +119,15 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/Go_projects/6.824/src/main/mrtmp.iiseq" timestamp="1501911021451" />
       <file name="$USER_HOME$/Go_projects/src/github.com/tangdi/cloud_native_go/Dockerfile" timestamp="1501294703507">
         <mark key="[" line="14" column="7" />
         <mark key="]" line="14" column="7" />
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/util/fromlearn/StudentGradebookRow.java" timestamp="1502348389337" />
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/gradebook2/student/StudentGradebook.java" timestamp="1502348477721">
+        <mark key="'" line="124" column="8" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/webapp/js/ICanHaz.js" timestamp="1500362076163">
         <mark key="[" line="375" column="41" />
@@ -187,11 +198,20 @@
       <file name="$USER_HOME$/Go_projects/src/github.com/boltdb/bolt/bucket.go" timestamp="1501485710016">
         <mark key="'" line="542" column="51" />
       </file>
+      <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/gradebook2/student/StudentGradebookRow.java" timestamp="1502348462310">
+        <mark key="'" line="371" column="32" />
+      </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/etcdserver/raft.go" timestamp="1501224169375">
         <mark key="'" line="211" column="26" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/bin/~/Downloads/minimal-json/com.eclipsesource.json/src/main/java/com/eclipsesource/json/Json.java" timestamp="1501658508534">
         <mark key="'" line="282" column="3" />
+      </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/GradeBean.java" timestamp="1502348521256">
+        <mark key="'" line="69" column="1" />
+        <mark key="[" line="510" column="0" />
+        <mark key="]" line="510" column="0" />
+        <mark key="." line="510" column="0" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DiscoverableModuleFactoryImpl.java" timestamp="1500967791204">
         <mark key="'" line="59" column="51" />
@@ -204,17 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="30" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
-      <jump line="181" column="11" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/76f3c69879d3e01c082f49d8661c5590838148e1/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
-      <jump line="180" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/WeakHashMap.java" />
-      <jump line="215" column="38" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java" />
-      <jump line="82" column="40" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/7ca0efbeb87ca845b5d7a0ac9c21a4b7b95f7b28/guava-17.0-sources.jar!/com/google/common/collect/MapMaker.java" />
-      <jump line="221" column="78" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/7ca0efbeb87ca845b5d7a0ac9c21a4b7b95f7b28/guava-17.0-sources.jar!/com/google/common/collect/MapMaker.java" />
-      <jump line="224" column="46" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/7ca0efbeb87ca845b5d7a0ac9c21a4b7b95f7b28/guava-17.0-sources.jar!/com/google/common/collect/MapMaker.java" />
-      <jump line="228" column="54" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/7ca0efbeb87ca845b5d7a0ac9c21a4b7b95f7b28/guava-17.0-sources.jar!/com/google/common/collect/MapMaker.java" />
-      <jump line="254" column="4" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/lang/ref/Reference.java" />
-      <jump line="132" column="30" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/blackboard.platform/bb-platform/9.1.201410-SNAPSHOT/e05e882d78314ccfd7df13b6c979c982635351bc/bb-platform-9.1.201410-SNAPSHOT-sources.jar!/blackboard/platform/nautilus/internal/NotificationDistributionInfo.java" />
-      <jump line="66" column="30" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" />
       <jump line="84" column="11" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" />
       <jump line="498" column="62" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" />
       <jump line="898" column="10" filename="$USER_HOME$/learn_source/learn/workspace/b2/assessment-api/src/main/java/blackboard/apis/assessment/AssessmentWrapper.java" />
@@ -304,22 +313,33 @@
       <jump line="572" column="12" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/DashboardManagerImpl.java" />
       <jump line="1283" column="16" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/DashboardManagerImpl.java" />
       <jump line="299" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
+      <jump line="62" column="19" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/gradebook2/student/StudentGradebookRow.java" />
+      <jump line="361" column="53" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/gradebook2/student/StudentGradebookRow.java" />
+      <jump line="365" column="38" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/gradebook2/student/StudentGradebookRow.java" />
+      <jump line="368" column="67" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/gradebook2/student/StudentGradebookRow.java" />
+      <jump line="371" column="32" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/gradebook2/student/StudentGradebookRow.java" />
+      <jump line="115" column="13" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/gradebook2/student/StudentGradebook.java" />
+      <jump line="124" column="8" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/gradebook2/student/StudentGradebook.java" />
+      <jump line="24" column="13" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/GradeBean.java" />
+      <jump line="69" column="1" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/GradeBean.java" />
+      <jump line="3842" column="20" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" />
+      <jump line="29" column="13" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseGradesContainer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>getMessageLifeCycle</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>getMessageLifeCycle</text>
       </register>
       <register name="/" type="4">
-        <text>learn\/api</text>
+        <text encoding="base64">XDxyZXZpZXdVcmxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIG51bGwgIT0gYW5ub3VuY2VtZW50QmVhbi5nZXRFbmREYXRlKCkgKQogICAgICAgIHsKICAgICAgICAgIE1vYmlsZVhtbFV0aWwuc2FmZUFkZEF0dHJpYnV0ZSggYW5ub3VuY2VtZW50RWxlbSwgImVuZGRhdGUiLCBUaW1lc3RhbXBNYW5hZ2VyLmNvbnZlcnREYXRlVG9UaW1lc3RhbXAoIGFubm91bmNlbWVudEJlYW4uZ2V0RW5kRGF0ZSgpKSApOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBNb2JpbGVYbWxVdGlsLnNhZmVBZGRBdHRyaWJ1dGUoIGFzc2lnbkVsZW0sICJtZXNzYWdlTGlmZUN5Y2xlIiwgZ3JhZGVCZWFuLmdldE1lc3NhZ2VMaWZlQ3ljbGUoKSApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpc3RzLmFkZCggQXJyYXlzLmFzTGlzdCggcGFpcnNbMF0gKSApOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHYK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -327,44 +347,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TGlzdDxpbnRbXT4+IGxpc3RzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgIGxpc3RzLmFkZCggQXJyYXlzLmFzTGlzdCggcGFpcnNbMF0gKSApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIExpc3Q8TGlzdDxpbnRbXT4+IGxpc3RzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PExpc3Q8U3RyaW5nPj4gZmluZExhZGRlcnMoU3RyaW5nIGJlZ2luV29yZCwgU3RyaW5nIGVuZFdvcmQsIExpc3Q8U3RyaW5nPiB3b3JkTGlzdCl7CiAgICAgIFNldDxTdHJpbmc+IGRpY3QgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgIGRpY3QuYWRkQWxsKCB3b3JkTGlzdCApOwogICAgICBpZighZGljdC5jb250YWlucyggZW5kV29yZCApKXsKICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgIH0KCiAgICAgIE1hcDxTdHJpbmcsIExpc3Q8TGlzdDxTdHJpbmc+Pj4gdmlzaXRlZCA9IG5ldyBIYXNoTWFwPD4oICApOwogICAgICB2aXNpdGVkLnB1dCggYmVnaW5Xb3JkLCBBcnJheXMuYXNMaXN0KCBBcnJheXMuYXNMaXN0KCBiZWdpbldvcmQgKSApICk7CiAgICAgIExpbmtlZExpc3Q8U3RyaW5nPiBxdWV1ZSA9IG5ldyBMaW5rZWRMaXN0PD4oICApOwogICAgICBxdWV1ZS5hZGQoIGJlZ2luV29yZCApOwoKICAgICAgd2hpbGUoIXF1ZXVlLmlzRW1wdHkoKSl7CiAgICAgICAgU3RyaW5nIHBvcCA9IHF1ZXVlLnBvbGxGaXJzdCgpOwogICAgICAgIGlmKHBvcC5lcXVhbHMoIGVuZFdvcmQgKSl7CiAgICAgICAgICByZXR1cm4gdmlzaXRlZC5nZXQoIHBvcCApOwogICAgICAgIH0KICAgICAgICBMaXN0PExpc3Q8U3RyaW5nPj5saXN0cyA9IHZpc2l0ZWQuZ2V0KCBwb3AgKTsKICAgICAgICBpbnQgbGVuZ3RoID0gbGlzdHMuZ2V0KDApLnNpemUoKTsKICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoICApOwogICAgICAgIGZvcihpbnQgaSA9IDA7IGk8cG9wLmxlbmd0aCgpO2krKyl7CiAgICAgICAgICBmb3IoaW50IGogPSAwOyBqPDI2OyBqKyspewogICAgICAgICAgICBpZignYScgKyBqICE9IHBvcC5jaGFyQXQoIGkgKSl7CiAgICAgICAgICAgICAgc2IuYXBwZW5kKCBwb3Auc3Vic3RyaW5nKCAwLCBpICkgKS5hcHBlbmQoKGNoYXIpKCAnYScgK2opICkuYXBwZW5kKCBwb3Auc3Vic3RyaW5nKCBpKzEgKSApOwogICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBjYW5kaWRhdGUgPSBzYi50b1N0cmluZygpOwogICAgICAgICAgICAgIHNiLnNldExlbmd0aCggMCApOwogICAgICAgICAgICAgIGlmKGRpY3QuY29udGFpbnMoIGNhbmRpZGF0ZSApICYmICghdmlzaXRlZC5jb250YWluc0tleSggY2FuZGlkYXRlICkgfHwgKAogICAgICAgICAgICAgICAgICB2aXNpdGVkLmdldCggY2FuZGlkYXRlICkuZ2V0KCAwICkuc2l6ZSgpID09IGxlbmd0aCArMSAmJiB2aXNpdGVkLmdldCggY2FuZGlkYXRlICkuc3RyZWFtKCkubm9uZU1hdGNoKCBsIC0+IHBvcC5lcXVhbHMoIGwuZ2V0KCBsLnNpemUoKS0yICkgKSApKSkpewogICAgICAgICAgICAgICAgcXVldWUuYWRkKCBjYW5kaWRhdGUgKTsKICAgICAgICAgICAgICAgIGZpbmFsIExpc3Q8TGlzdDxTdHJpbmc+PiBuZXdMaXN0cyA9IGxpc3RzLnN0cmVhbSgpLm1hcCggbCAtPiB7CiAgICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBuID0gbmV3IEFycmF5TGlzdDw+KCAgKTsKICAgICAgICAgICAgICAgICAgbi5hZGRBbGwoIGwgKTsKICAgICAgICAgICAgICAgICAgbi5hZGQoIGNhbmRpZGF0ZSApOwogICAgICAgICAgICAgICAgICByZXR1cm4gbjsKICAgICAgICAgICAgICAgIH0gKS5jb2xsZWN0KCBDb2xsZWN0b3JzLnRvTGlzdCgpICk7CiAgICAgICAgICAgICAgICB2aXNpdGVkLmNvbXB1dGUoIGNhbmRpZGF0ZSwgKGssIHYpIC0+IHsKICAgICAgICAgICAgICAgICAgaWYgKHYgPT0gbnVsbCkKICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXdMaXN0czsKICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgdi5hZGRBbGwoIG5ld0xpc3RzICk7CiAgICAgICAgICAgICAgICAgIHJldHVybiB2OwogICAgICAgICAgICAgICAgfSApOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgfQoKICAgICAgICB9CiAgICAgIH0KICAgICAgcmV0dXJuIG5ldyBBcnJheUxpc3Q8PiggICk7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpc2l0ZWQucHV0KCBjYW5kaWRhdGUsIGxlbmd0aCsxICk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PExpc3Q8U3RyaW5nPj4gZmluZExhZGRlcnMoU3RyaW5nIGJlZ2luV29yZCwgU3RyaW5nIGVuZFdvcmQsIExpc3Q8U3RyaW5nPiB3b3JkTGlzdCl7CiAgICAgIFNldDxTdHJpbmc+IGRpY3QgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgIGRpY3QuYWRkQWxsKCB3b3JkTGlzdCApOwogICAgICBpZighZGljdC5jb250YWlucyggZW5kV29yZCApKXsKICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgIH0KCiAgICAgIE1hcDxTdHJpbmcsIExpc3Q8TGlzdDxTdHJpbmc+Pj4gdmlzaXRlZCA9IG5ldyBIYXNoTWFwPD4oICApOwogICAgICB2aXNpdGVkLnB1dCggYmVnaW5Xb3JkLCBBcnJheXMuYXNMaXN0KCBBcnJheXMuYXNMaXN0KCBiZWdpbldvcmQgKSApICk7CiAgICAgIExpbmtlZExpc3Q8U3RyaW5nPiBxdWV1ZSA9IG5ldyBMaW5rZWRMaXN0PD4oICApOwogICAgICBxdWV1ZS5hZGQoIGJlZ2luV29yZCApOwoKICAgICAgd2hpbGUoIXF1ZXVlLmlzRW1wdHkoKSl7CiAgICAgICAgU3RyaW5nIHBvcCA9IHF1ZXVlLnBvbGxGaXJzdCgpOwogICAgICAgIGlmKHBvcC5lcXVhbHMoIGVuZFdvcmQgKSl7CiAgICAgICAgICByZXR1cm4gdmlzaXRlZC5nZXQoIHBvcCApOwogICAgICAgIH0KICAgICAgICBMaXN0PExpc3Q8U3RyaW5nPj5saXN0cyA9IHZpc2l0ZWQuZ2V0KCBwb3AgKTsKICAgICAgICBpbnQgbGVuZ3RoID0gbGlzdHMuZ2V0KDApLnNpemUoKTsKICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoICApOwogICAgICAgIGZvcihpbnQgaSA9IDA7IGk8cG9wLmxlbmd0aCgpO2krKyl7CiAgICAgICAgICBmb3IoaW50IGogPSAwOyBqPDI2OyBqKyspewogICAgICAgICAgICBpZignYScgKyBqICE9IHBvcC5jaGFyQXQoIGkgKSl7CiAgICAgICAgICAgICAgc2IuYXBwZW5kKCBwb3Auc3Vic3RyaW5nKCAwLCBpICkgKS5hcHBlbmQoKGNoYXIpKCAnYScgK2opICkuYXBwZW5kKCBwb3Auc3Vic3RyaW5nKCBpKzEgKSApOwogICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBjYW5kaWRhdGUgPSBzYi50b1N0cmluZygpOwogICAgICAgICAgICAgIHNiLnNldExlbmd0aCggMCApOwogICAgICAgICAgICAgIGlmKGRpY3QuY29udGFpbnMoIGNhbmRpZGF0ZSApICYmICghdmlzaXRlZC5jb250YWluc0tleSggY2FuZGlkYXRlICkgfHwgKAogICAgICAgICAgICAgICAgICB2aXNpdGVkLmdldCggY2FuZGlkYXRlICkuZ2V0KCAwICkuc2l6ZSgpID09IGxlbmd0aCArMSAmJiB2aXNpdGVkLmdldCggY2FuZGlkYXRlICkuc3RyZWFtKCkubm9uZU1hdGNoKCBsIC0+IHBvcC5lcXVhbHMoIGwuZ2V0KCBsLnNpemUoKS0yICkgKSApKSkpewogICAgICAgICAgICAgICAgcXVldWUuYWRkKCBjYW5kaWRhdGUgKTsKICAgICAgICAgICAgICAgIGZpbmFsIExpc3Q8TGlzdDxTdHJpbmc+PiBuZXdMaXN0cyA9IGxpc3RzLnN0cmVhbSgpLm1hcCggbCAtPiB7CiAgICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBuID0gbmV3IEFycmF5TGlzdDw+KCAgKTsKICAgICAgICAgICAgICAgICAgbi5hZGRBbGwoIGwgKTsKICAgICAgICAgICAgICAgICAgbi5hZGQoIGNhbmRpZGF0ZSApOwogICAgICAgICAgICAgICAgICByZXR1cm4gbjsKICAgICAgICAgICAgICAgIH0gKS5jb2xsZWN0KCBDb2xsZWN0b3JzLnRvTGlzdCgpICk7CiAgICAgICAgICAgICAgICB2aXNpdGVkLmNvbXB1dGUoIGNhbmRpZGF0ZSwgKGssIHYpIC0+IHsKICAgICAgICAgICAgICAgICAgaWYgKHYgPT0gbnVsbCkKICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXdMaXN0czsKICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgdi5hZGRBbGwoIG5ld0xpc3RzICk7CiAgICAgICAgICAgICAgICAgIHJldHVybiB2OwogICAgICAgICAgICAgICAgfSApOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgfQoKICAgICAgICB9CiAgICAgIH0KICAgICAgcmV0dXJuIG5ldyBBcnJheUxpc3Q8PiggICk7Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpc2l0ZWQucHV0KCBjYW5kaWRhdGUsIGxlbmd0aCsxICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfWVsc2V7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>learn\/api</last-search>
+      <last-search encoding="base64">XDxyZXZpZXdVcmxcPg==</last-search>
       <last-offset />
-      <last-pattern>learn\/api</last-pattern>
+      <last-pattern encoding="base64">XDxyZXZpZXdVcmxcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>portal</entry>
-        <entry encoding="base64">XDxodHRwQ2xpZW50XD4=</entry>
         <entry encoding="base64">XDxwb3N0Tm90aWZpY2F0aW9uc1w+</entry>
         <entry>getDiscoverableModuleMessageMap</entry>
         <entry encoding="base64">XDxiYl9hc3Nlc3NtZW50XD4=</entry>
@@ -383,6 +401,8 @@
         <entry encoding="base64">XDxfaWRUb0xvYWRMaW5rQnlcPg==</entry>
         <entry encoding="base64">XDxsaW5rXD4=</entry>
         <entry>learn\/api</entry>
+        <entry encoding="base64">XDxfcmV2aWV3QWN0aW9uVXJsXD4=</entry>
+        <entry encoding="base64">XDxyZXZpZXdVcmxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JhY2tlbmRBdHRlbXB0TWV0YWRhdGEvbWV0YWRhdGEvZw==</entry>
