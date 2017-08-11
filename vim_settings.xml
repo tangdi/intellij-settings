@@ -71,12 +71,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1502281186504">
         <mark key="'" line="299" column="18" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseGradesContainer.java" timestamp="1502348726845">
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseGradesContainer.java" timestamp="1502421567203">
         <mark key="'" line="29" column="13" />
-        <mark key="[" line="109" column="75" />
-        <mark key="]" line="109" column="86" />
-        <mark key="." line="109" column="86" />
-        <mark key="^" line="109" column="86" />
+        <mark key="[" line="109" column="53" />
+        <mark key="]" line="109" column="60" />
+        <mark key="." line="109" column="60" />
+        <mark key="^" line="109" column="60" />
       </file>
       <file name="$USER_HOME$/mlbb/build.xml" timestamp="1500971235048">
         <mark key="'" line="14" column="97" />
@@ -106,12 +106,12 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/data/course/CourseMembership.java" timestamp="1501125937459">
         <mark key="'" line="585" column="2" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" timestamp="1502350302284">
-        <mark key="'" line="3753" column="29" />
-        <mark key="[" line="3749" column="107" />
-        <mark key="]" line="3750" column="32" />
-        <mark key="^" line="3750" column="32" />
-        <mark key="." line="3750" column="32" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" timestamp="1502421166465">
+        <mark key="'" line="3752" column="29" />
+        <mark key="[" line="5097" column="0" />
+        <mark key="]" line="5097" column="0" />
+        <mark key="^" line="3962" column="152" />
+        <mark key="." line="5097" column="0" />
       </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/julienschmidt/httprouter/play.go" timestamp="1500349575232">
         <mark key="[" line="3" column="25" />
@@ -155,12 +155,6 @@
         <mark key="]" line="22" column="35" />
         <mark key="^" line="22" column="66" />
         <mark key="." line="22" column="35" />
-      </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/web/DashboardProxy.java" timestamp="1502260522167">
-        <mark key="'" line="71" column="50" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/util/fromlearn/SecurityUtil.java" timestamp="1501135251435">
         <mark key="[" line="818" column="2" />
@@ -229,11 +223,12 @@
       <file name="$APPLICATION_HOME_DIR$/bin/~/Downloads/minimal-json/com.eclipsesource.json/src/main/java/com/eclipsesource/json/Json.java" timestamp="1501658508534">
         <mark key="'" line="282" column="3" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/GradeBean.java" timestamp="1502348521256">
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/GradeBean.java" timestamp="1502420851661">
         <mark key="'" line="69" column="1" />
-        <mark key="[" line="510" column="0" />
-        <mark key="]" line="510" column="0" />
-        <mark key="." line="510" column="0" />
+        <mark key="[" line="70" column="17" />
+        <mark key="]" line="490" column="0" />
+        <mark key="." line="490" column="0" />
+        <mark key="^" line="490" column="0" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DiscoverableModuleFactoryImpl.java" timestamp="1500967791204">
         <mark key="'" line="59" column="51" />
@@ -348,20 +343,20 @@
       <jump line="482" column="12" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cAo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>throw</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aHJlYWRHcmFkaW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNb2JpbGVYbWxVdGlsLnNhZmVBZGRBdHRyaWJ1dGUoIGFzc2lnbkVsZW0sICJtZXNzYWdlTGlmZUN5Y2xlIiwgZ3JhZGVCZWFuLmdldE1lc3NhZ2VMaWZlQ3ljbGUoKSApOwo=</text>
+        <text encoding="base64">ICAgIGlmICggcm93LmdldEdyYWRhYmxlSXRlbSgpLmdldENvdXJzZUNvbnRlbnQoKSAhPSBudWxsCiAgICAgICAgICYmIENvbnRleHRNYW5hZ2VyRmFjdG9yeS5nZXRJbnN0YW5jZSgpLmdldENvbnRleHQoKS5nZXRDb3Vyc2UoKSAhPSBudWxsICkKICAgIHsKICAgICAgZ3JhZGVCZWFuLnNldENvbnRlbnRWaWV3VXJsKCBidWlsZENvbnRlbnRVcmkoIHJvdy5nZXRHcmFkYWJsZUl0ZW0oKS5nZXRDb3Vyc2VDb250ZW50KCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb250ZXh0TWFuYWdlckZhY3RvcnkuZ2V0SW5zdGFuY2UoKS5nZXRDb250ZXh0KCkuZ2V0Q291cnNlKCkgKSApOwoKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb250ZXh0TWFuYWdlckZhY3RvcnkuZ2V0SW5zdGFuY2UoKS5nZXRDb250ZXh0KCkuZ2V0Q291cnNlKCkgKSApOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -369,28 +364,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGdyYWRlQmVhbi5zZXRDb250ZW50Vmlld1VybCggYnVpbGRDb250ZW50VXJpKCByb3cuZ2V0R3JhZGFibGVJdGVtKCkuZ2V0Q291cnNlQ29udGVudCgpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAgIGdyYWRlQmVhbi5zZXRDb250ZW50Vmlld1VybCggcm93LmdldFJldmlld0FjdGlvblVybCgpICk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFR3aXR0ZXIK</text>
+        <text encoding="base64">ICAgIGdyYWRlQmVhbi5zZXRDb250ZW50Vmlld1VybCggICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFR3aXR0ZXIKewp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHYK</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxpc3RzLmFkZCggQXJyYXlzLmFzTGlzdCggcGFpcnNbMF0gKSApOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TGlzdDxpbnRbXT4+IGxpc3RzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFR3aXR0ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
