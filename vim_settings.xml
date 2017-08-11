@@ -23,7 +23,6 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501134847152">
         <mark key="'" line="581" column="29" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/dao/impl/User.java" timestamp="1502369491387" />
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" timestamp="1502249172033">
         <mark key="[" line="2344" column="116" />
         <mark key="]" line="2344" column="117" />
@@ -69,7 +68,6 @@
         <mark key="." line="12" column="41" />
         <mark key="^" line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/rest-api/src/main/java/blackboard/plugin/rest/api/util/RestConstants.java" timestamp="1502335234739" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1502281186504">
         <mark key="'" line="299" column="18" />
       </file>
@@ -92,10 +90,13 @@
       <file name="$USER_HOME$/mlbb/build.gradle" timestamp="1501222530493">
         <mark key="'" line="164" column="0" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501738965372">
-        <mark key="'" line="415" column="68" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1502420263194">
+        <mark key="'" line="482" column="12" />
+        <mark key="[" line="1157" column="22" />
+        <mark key="]" line="1157" column="45" />
+        <mark key="^" line="1157" column="45" />
+        <mark key="." line="1157" column="45" />
       </file>
-      <file name="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/blackboard.platform/bb-platform/9.1.201410-SNAPSHOT/e05e882d78314ccfd7df13b6c979c982635351bc/bb-platform-9.1.201410-SNAPSHOT-sources.jar!/blackboard/base/FormattedText.java" timestamp="1502350269099" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" timestamp="1502194104248">
         <mark key="'" line="229" column="39" />
       </file>
@@ -127,13 +128,13 @@
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/discussion/GradedMessageBean.java" timestamp="1501730235436">
         <mark key="[" line="30" column="40" />
       </file>
+      <file name="$USER_HOME$/Go_projects/6.824/src/main/mrtmp.iiseq" timestamp="1502418905089" />
       <file name="$USER_HOME$/Go_projects/src/github.com/tangdi/cloud_native_go/Dockerfile" timestamp="1501294703507">
         <mark key="[" line="14" column="7" />
         <mark key="]" line="14" column="7" />
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/util/fromlearn/StudentGradebookRow.java" timestamp="1502348389337" />
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/dao/gradebook/MobileStudentGradeBookRow.java" timestamp="1502350289221">
         <mark key="[" line="147" column="4" />
         <mark key="]" line="147" column="9" />
@@ -161,8 +162,6 @@
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" timestamp="1502270059263" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/Iterator.java" timestamp="1502270795061" />
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/util/fromlearn/SecurityUtil.java" timestamp="1501135251435">
         <mark key="[" line="818" column="2" />
         <mark key="]" line="818" column="7" />
@@ -206,7 +205,6 @@
         <mark key="^" line="121" column="2" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects-mbass/src/main/java/com/blackboard/mbaas/backend/model/Twitter.java" timestamp="1502369705032" />
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/pn/PNService.java" timestamp="1500972115986">
         <mark key="[" line="65" column="24" />
         <mark key="]" line="65" column="24" />
@@ -248,8 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="898" column="10" filename="$USER_HOME$/learn_source/learn/workspace/b2/assessment-api/src/main/java/blackboard/apis/assessment/AssessmentWrapper.java" />
-      <jump line="145" column="44" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/internal/connection/StreamAllocation.java" />
       <jump line="124" column="10" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/internal/connection/RealConnection.java" />
       <jump line="182" column="31" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" />
       <jump line="170" column="29" filename="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/coursemenu/struts/CourseMenuFolderViewTreeGeneratorAction.java" />
@@ -348,6 +344,8 @@
       <jump line="29" column="13" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseGradesContainer.java" />
       <jump line="3773" column="0" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" />
       <jump line="3753" column="29" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/dao/impl/MobileUserDataDaoImpl.java" />
+      <jump line="1172" column="28" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
+      <jump line="482" column="12" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -357,7 +355,7 @@
         <text>throw</text>
       </register>
       <register name="/" type="4">
-        <text>5055</text>
+        <text encoding="base64">XDx0aHJlYWRHcmFkaW5nXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBNb2JpbGVYbWxVdGlsLnNhZmVBZGRBdHRyaWJ1dGUoIGFzc2lnbkVsZW0sICJtZXNzYWdlTGlmZUN5Y2xlIiwgZ3JhZGVCZWFuLmdldE1lc3NhZ2VMaWZlQ3ljbGUoKSApOwo=</text>
@@ -399,15 +397,14 @@
       </register>
     </registers>
     <search>
-      <last-search>5055</last-search>
+      <last-search encoding="base64">XDx0aHJlYWRHcmFkaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>5055</last-pattern>
+      <last-pattern encoding="base64">XDx0aHJlYWRHcmFkaW5nXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getDiscoverableModuleMessageMap</entry>
         <entry encoding="base64">XDxiYl9hc3Nlc3NtZW50XD4=</entry>
         <entry encoding="base64">XDxiYl9xdGlcPg==</entry>
         <entry encoding="base64">XDxwcm9cPg==</entry>
@@ -427,6 +424,7 @@
         <entry encoding="base64">XDxfcmV2aWV3QWN0aW9uVXJsXD4=</entry>
         <entry encoding="base64">XDxyZXZpZXdVcmxcPg==</entry>
         <entry>5055</entry>
+        <entry encoding="base64">XDx0aHJlYWRHcmFkaW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JhY2tlbmRBdHRlbXB0TWV0YWRhdGEvbWV0YWRhdGEvZw==</entry>
