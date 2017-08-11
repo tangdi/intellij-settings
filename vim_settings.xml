@@ -231,8 +231,8 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DiscoverableModuleFactoryImpl.java" timestamp="1500967791204">
         <mark key="'" line="59" column="51" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/dependency_tree_all.txt" timestamp="1502431106569">
-        <mark key="'" line="240" column="35" />
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/dependency_tree_all.txt" timestamp="1502438740068">
+        <mark key="'" line="56" column="30" />
       </file>
       <file name="/fragment.java" timestamp="1502369782348">
         <mark key="[" line="0" column="0" />
@@ -339,9 +339,9 @@
       <jump line="1172" column="28" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
       <jump line="482" column="12" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" />
       <jump line="14" column="36" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/dependency_tree_all.txt" />
-      <jump line="56" column="30" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/dependency_tree_all.txt" />
       <jump line="174" column="30" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/dependency_tree_all.txt" />
       <jump line="240" column="35" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/dependency_tree_all.txt" />
+      <jump line="56" column="30" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/dependency_tree_all.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
