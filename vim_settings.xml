@@ -23,12 +23,12 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501134847152">
         <mark key="'" line="581" column="29" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" timestamp="1502696433120">
-        <mark key="'" line="1410" column="36" />
-        <mark key="[" line="2344" column="116" />
-        <mark key="]" line="2344" column="117" />
-        <mark key="." line="2344" column="117" />
-        <mark key="^" line="2344" column="117" />
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" timestamp="1502698284685">
+        <mark key="'" line="1608" column="22" />
+        <mark key="[" line="2371" column="54" />
+        <mark key="]" line="2372" column="111" />
+        <mark key="." line="2372" column="111" />
+        <mark key="^" line="2372" column="111" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500971680292">
         <mark key="[" line="170" column="3" />
@@ -246,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="25" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" />
       <jump line="265" column="20" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" />
       <jump line="354" column="25" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" />
       <jump line="113" column="0" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/persist/impl/mapping/MappingUtils.java" />
@@ -346,6 +345,7 @@
       <jump line="302" column="56" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseMapContainer.java" />
       <jump line="377" column="54" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseMapContainer.java" />
       <jump line="1410" column="36" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" />
+      <jump line="1608" column="22" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
