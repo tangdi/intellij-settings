@@ -23,12 +23,8 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501134847152">
         <mark key="'" line="581" column="29" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" timestamp="1502698284685">
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" timestamp="1502702279883">
         <mark key="'" line="1608" column="22" />
-        <mark key="[" line="2371" column="54" />
-        <mark key="]" line="2372" column="111" />
-        <mark key="." line="2372" column="111" />
-        <mark key="^" line="2372" column="111" />
       </file>
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/beyond/bbAS/service/impl/MobileNotificationDistributorImpl.java" timestamp="1500971680292">
         <mark key="[" line="170" column="3" />
@@ -75,6 +71,13 @@
         <mark key="." line="12" column="41" />
         <mark key="^" line="12" column="41" />
       </file>
+      <file name="$USER_HOME$/projects-mbass/src/main/java/com/blackboard/mbaas/backend/model/XsrfTokenTORest.java" timestamp="1502702507144">
+        <mark key="'" line="16" column="13" />
+        <mark key="[" line="128" column="63" />
+        <mark key="]" line="128" column="63" />
+        <mark key="^" line="128" column="63" />
+        <mark key="." line="128" column="63" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1502281186504">
         <mark key="'" line="299" column="18" />
       </file>
@@ -96,9 +99,6 @@
       <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1502512091767">
         <mark key="'" line="482" column="12" />
         <mark key="[" line="1166" column="45" />
-        <mark key="]" line="1167" column="11" />
-        <mark key="^" line="1167" column="11" />
-        <mark key="." line="1167" column="11" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" timestamp="1502194104248">
         <mark key="'" line="229" column="39" />
@@ -182,13 +182,6 @@
         <mark key="." line="158" column="3" />
         <mark key="^" line="158" column="3" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/DashboardManagerImpl.java" timestamp="1502271391488">
-        <mark key="'" line="1312" column="16" />
-        <mark key="[" line="1271" column="69" />
-        <mark key="]" line="1271" column="13" />
-        <mark key="^" line="1271" column="13" />
-        <mark key="." line="1271" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/IDEA_Workspace/netty/buffer/src/main/java/io/netty/buffer/PoolArena.java" timestamp="1501739529653">
         <mark key="'" line="639" column="8" />
       </file>
@@ -235,10 +228,10 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DiscoverableModuleFactoryImpl.java" timestamp="1500967791204">
         <mark key="'" line="59" column="51" />
       </file>
-      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/dependency_tree_all.txt" timestamp="1502438740068">
+      <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/dependency_tree_all.txt" timestamp="1502699968498">
         <mark key="'" line="56" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1502369782348">
+      <file name="/fragment.java" timestamp="1502701448854">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -246,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="20" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" />
       <jump line="354" column="25" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" />
       <jump line="113" column="0" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/persist/impl/mapping/MappingUtils.java" />
       <jump line="55" column="10" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/persist/impl/mapping/AbstractDbObjectMap.java" />
@@ -346,13 +338,14 @@
       <jump line="377" column="54" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseMapContainer.java" />
       <jump line="1410" column="36" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" />
       <jump line="1608" column="22" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" />
+      <jump line="12" column="13" filename="$USER_HOME$/projects-mbass/src/main/java/com/blackboard/mbaas/backend/model/XsrfTokenTORest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEFwaUNvbnRyb2xsZXIgZXh0ZW5kcyBIdHRwU2VydmxldAo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>new</text>
@@ -361,7 +354,7 @@
         <text encoding="base64">ICAgIGlmICggcm93LmdldEdyYWRhYmxlSXRlbSgpLmdldENvdXJzZUNvbnRlbnQoKSAhPSBudWxsCiAgICAgICAgICYmIENvbnRleHRNYW5hZ2VyRmFjdG9yeS5nZXRJbnN0YW5jZSgpLmdldENvbnRleHQoKS5nZXRDb3Vyc2UoKSAhPSBudWxsICkKICAgIHsKICAgICAgZ3JhZGVCZWFuLnNldENvbnRlbnRWaWV3VXJsKCBidWlsZENvbnRlbnRVcmkoIHJvdy5nZXRHcmFkYWJsZUl0ZW0oKS5nZXRDb3Vyc2VDb250ZW50KCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb250ZXh0TWFuYWdlckZhY3RvcnkuZ2V0SW5zdGFuY2UoKS5nZXRDb250ZXh0KCkuZ2V0Q291cnNlKCkgKSApOwoKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEFwaUNvbnRyb2xsZXIgZXh0ZW5kcyBIdHRwU2VydmxldAo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -369,28 +362,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb250ZXh0TWFuYWdlckZhY3RvcnkuZ2V0SW5zdGFuY2UoKS5nZXRDb250ZXh0KCkuZ2V0Q291cnNlKCkgKSApOwo=</text>
+        <text encoding="base64">CQkJfWVsc2UgaWYobWFwLnNpemUoKSA9PSBrIHx8KXsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdyYWRlQmVhbi5zZXRDb250ZW50Vmlld1VybCggYnVpbGRDb250ZW50VXJpKCByb3cuZ2V0R3JhZGFibGVJdGVtKCkuZ2V0Q291cnNlQ29udGVudCgpLAo=</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdyYWRlQmVhbi5zZXRDb250ZW50Vmlld1VybCggcm93LmdldFJldmlld0FjdGlvblVybCgpICk7Cg==</text>
+        <text encoding="base64">CQkJCW1heCA9IAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGdyYWRlQmVhbi5zZXRDb250ZW50Vmlld1VybCggICk7Cg==</text>
+      <register name="5" type="8">
+        <text>\n\tsubdir1\n\tsubdir2</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+      <register name="6" type="8">
+        <text>\n\tsubdir1\n\tsubdir2</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAgICAgICBsZW4gKz0gc3Ryc1tpXS5sZW5ndGgoKSsxOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
