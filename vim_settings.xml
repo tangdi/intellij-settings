@@ -23,7 +23,8 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/b2/mobile/src/main/java/blackboard/plugin/mobile/service/DiscussionBoardServiceImpl.java" timestamp="1501134847152">
         <mark key="'" line="581" column="29" />
       </file>
-      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" timestamp="1502249172033">
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" timestamp="1502696433120">
+        <mark key="'" line="1410" column="36" />
         <mark key="[" line="2344" column="116" />
         <mark key="]" line="2344" column="117" />
         <mark key="." line="2344" column="117" />
@@ -218,6 +219,9 @@
       <file name="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/gradebook2/student/StudentGradebookRow.java" timestamp="1502348462310">
         <mark key="'" line="371" column="32" />
       </file>
+      <file name="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseMapContainer.java" timestamp="1502696323895">
+        <mark key="'" line="377" column="54" />
+      </file>
       <file name="$USER_HOME$/Go_projects/src/github.com/coreos/etcd/etcdserver/raft.go" timestamp="1501224169375">
         <mark key="'" line="211" column="26" />
       </file>
@@ -242,16 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="31" filename="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/coursemenu/struts/CourseMenuFolderViewTreeGeneratorAction.java" />
-      <jump line="342" column="25" filename="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/coursemenu/struts/CourseMenuFolderViewTreeGeneratorAction.java" />
-      <jump line="85" column="32" filename="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/coursemenu/struts/CourseMenuFolderViewTreeGeneratorAction.java" />
-      <jump line="128" column="42" filename="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/coursemenu/struts/CourseMenuFolderViewTreeGeneratorAction.java" />
-      <jump line="321" column="22" filename="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/coursemenu/struts/CourseMenuFolderViewTreeGeneratorAction.java" />
-      <jump line="607" column="20" filename="$USER_HOME$/learn_source/learn/workspace/b2/blackboard-core/src/main/java/blackboard/webapps/blackboard/coursemenu/struts/CourseMenuFolderViewTreeGeneratorAction.java" />
-      <jump line="97" column="4" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/updatetools/src/main/java/blackboard/apis/updatetools/tooldefs/install/CoreClientInstallTool.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/persist/impl/mapping/MappingUtils.java" />
-      <jump line="521" column="19" filename="$USER_HOME$/learn-bootstrap/workspace/tools/gradle-distribution/gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/db21293949e200f08d5325e8a8eefdcc9134b752/okhttp-3.8.0-sources.jar!/okhttp3/OkHttpClient.java" />
-      <jump line="79" column="4" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" />
       <jump line="77" column="25" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/pn/Client.java" />
       <jump line="265" column="20" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" />
       <jump line="354" column="25" filename="$USER_HOME$/learn_source/learn/workspace/projects/apis/platform/src/main/java/blackboard/platform/nautilus/service/impl/DistributionManagerImpl.java" />
@@ -342,6 +336,16 @@
       <jump line="174" column="30" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/dependency_tree_all.txt" />
       <jump line="240" column="35" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/dependency_tree_all.txt" />
       <jump line="56" column="30" filename="$USER_HOME$/learn_source/learn/workspace/b2/mobile/dependency_tree_all.txt" />
+      <jump line="40" column="13" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseMapContainer.java" />
+      <jump line="47" column="45" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseMapContainer.java" />
+      <jump line="57" column="16" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseMapContainer.java" />
+      <jump line="84" column="44" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseMapContainer.java" />
+      <jump line="108" column="36" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseMapContainer.java" />
+      <jump line="168" column="34" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseMapContainer.java" />
+      <jump line="284" column="36" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseMapContainer.java" />
+      <jump line="302" column="56" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseMapContainer.java" />
+      <jump line="377" column="54" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/bean/CourseMapContainer.java" />
+      <jump line="1410" column="36" filename="$USER_HOME$/mlbb/src/main/java/blackboard/plugin/mobile/service/impl/WhatNewImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -351,7 +355,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>bb-exec</text>
+        <text>new</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmICggcm93LmdldEdyYWRhYmxlSXRlbSgpLmdldENvdXJzZUNvbnRlbnQoKSAhPSBudWxsCiAgICAgICAgICYmIENvbnRleHRNYW5hZ2VyRmFjdG9yeS5nZXRJbnN0YW5jZSgpLmdldENvbnRleHQoKS5nZXRDb3Vyc2UoKSAhPSBudWxsICkKICAgIHsKICAgICAgZ3JhZGVCZWFuLnNldENvbnRlbnRWaWV3VXJsKCBidWlsZENvbnRlbnRVcmkoIHJvdy5nZXRHcmFkYWJsZUl0ZW0oKS5nZXRDb3Vyc2VDb250ZW50KCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb250ZXh0TWFuYWdlckZhY3RvcnkuZ2V0SW5zdGFuY2UoKS5nZXRDb250ZXh0KCkuZ2V0Q291cnNlKCkgKSApOwoKICAgIH0K</text>
@@ -393,15 +397,14 @@
       </register>
     </registers>
     <search>
-      <last-search>bb-exec</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>bb-exec</last-pattern>
+      <last-pattern>new</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9cPg==</entry>
         <entry encoding="base64">XDxwdWJsaXNoVG9SYXRjaGV0XD4=</entry>
         <entry encoding="base64">XDxzaG91bGRQdWJsaXNoVG9SYXRjaGV0XD4=</entry>
         <entry>publishToRatchet</entry>
@@ -421,6 +424,7 @@
         <entry encoding="base64">XDx0aHJlYWRHcmFkaW5nXD4=</entry>
         <entry>tomcat</entry>
         <entry>bb-exec</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JhY2tlbmRBdHRlbXB0TWV0YWRhdGEvbWV0YWRhdGEvZw==</entry>
